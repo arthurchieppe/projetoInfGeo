@@ -1,0 +1,5574 @@
+﻿Tabela 1552 - População residente, por situação do domicílio e sexo, segundo a forma de declaração da idade e a idade;;
+Variável - População residente (Pessoas);;
+Forma de declaração da idade - Total;;
+Idade - Soma (0 a 4 anos + 5 a 9 anos + 10 a 14 anos + 15 anos + 16 anos + 17 anos + 18 anos);;
+Ano - 2010;;
+Situação do domicílio - Total;;
+Sexo - Total;;
+Cód.;Município;
+1100015;Alta Floresta D'Oeste (RO);8509
+1100023;Ariquemes (RO);32090
+1100031;Cabixi (RO);2102
+1100049;Cacoal (RO);25894
+1100056;Cerejeiras (RO);5631
+1100064;Colorado do Oeste (RO);5908
+1100072;Corumbiara (RO);3061
+1100080;Costa Marques (RO);5774
+1100098;Espigão D'Oeste (RO);9892
+1100106;Guajará-Mirim (RO);16717
+1100114;Jaru (RO);17910
+1100122;Ji-Paraná (RO);38905
+1100130;Machadinho D'Oeste (RO);12001
+1100148;Nova Brasilândia D'Oeste (RO);7037
+1100155;Ouro Preto do Oeste (RO);12715
+1100189;Pimenta Bueno (RO);11499
+1100205;Porto Velho (RO);147324
+1100254;Presidente Médici (RO);7370
+1100262;Rio Crespo (RO);1172
+1100288;Rolim de Moura (RO);16869
+1100296;Santa Luzia D'Oeste (RO);2922
+1100304;Vilhena (RO);25952
+1100320;São Miguel do Guaporé (RO);8216
+1100338;Nova Mamoré (RO);9115
+1100346;Alvorada D'Oeste (RO);5954
+1100379;Alto Alegre dos Parecis (RO);4929
+1100403;Alto Paraíso (RO);6502
+1100452;Buritis (RO);12474
+1100502;Novo Horizonte do Oeste (RO);3542
+1100601;Cacaulândia (RO);2130
+1100700;Campo Novo de Rondônia (RO);5000
+1100809;Candeias do Jamari (RO);7843
+1100908;Castanheiras (RO);1219
+1100924;Chupinguaia (RO);3188
+1100940;Cujubim (RO);6444
+1101005;Governador Jorge Teixeira (RO);3854
+1101104;Itapuã do Oeste (RO);3419
+1101203;Ministro Andreazza (RO);3872
+1101302;Mirante da Serra (RO);4344
+1101401;Monte Negro (RO);5397
+1101435;Nova União (RO);2826
+1101450;Parecis (RO);1822
+1101468;Pimenteiras do Oeste (RO);898
+1101476;Primavera de Rondônia (RO);1224
+1101484;São Felipe D'Oeste (RO);1954
+1101492;São Francisco do Guaporé (RO);6248
+1101500;Seringueiras (RO);4485
+1101559;Teixeirópolis (RO);1666
+1101609;Theobroma (RO);3916
+1101708;Urupá (RO);4542
+1101757;Vale do Anari (RO);3529
+1101807;Vale do Paraíso (RO);2892
+1200013;Acrelândia (AC);5389
+1200054;Assis Brasil (AC);2725
+1200104;Brasiléia (AC);8695
+1200138;Bujari (AC);3615
+1200179;Capixaba (AC);3961
+1200203;Cruzeiro do Sul (AC);35189
+1200252;Epitaciolândia (AC);6096
+1200302;Feijó (AC);16333
+1200328;Jordão (AC);3839
+1200336;Mâncio Lima (AC);7281
+1200344;Manoel Urbano (AC);3926
+1200351;Marechal Thaumaturgo (AC);8148
+1200385;Plácido de Castro (AC);7458
+1200393;Porto Walter (AC);5284
+1200401;Rio Branco (AC);125499
+1200427;Rodrigues Alves (AC);7453
+1200435;Santa Rosa do Purus (AC);2581
+1200450;Senador Guiomard (AC);8308
+1200500;Sena Madureira (AC);16692
+1200609;Tarauacá (AC);18386
+1200708;Xapuri (AC);6844
+1200807;Porto Acre (AC);6439
+1300029;Alvarães (AM);7618
+1300060;Amaturá (AM);4603
+1300086;Anamã (AM);4846
+1300102;Anori (AM);7793
+1300144;Apuí (AM);6957
+1300201;Atalaia do Norte (AM);7503
+1300300;Autazes (AM);15625
+1300409;Barcelos (AM);11180
+1300508;Barreirinha (AM);14470
+1300607;Benjamin Constant (AM);16899
+1300631;Beruri (AM);8324
+1300680;Boa Vista do Ramos (AM);7666
+1300706;Boca do Acre (AM);13809
+1300805;Borba (AM);17268
+1300839;Caapiranga (AM);5266
+1300904;Canutama (AM);5256
+1301001;Carauari (AM);13131
+1301100;Careiro (AM);14516
+1301159;Careiro da Várzea (AM);10006
+1301209;Coari (AM);35632
+1301308;Codajás (AM);10950
+1301407;Eirunepé (AM);15514
+1301506;Envira (AM);8360
+1301605;Fonte Boa (AM);11367
+1301654;Guajará (AM);7308
+1301704;Humaitá (AM);19894
+1301803;Ipixuna (AM);11717
+1301852;Iranduba (AM);18422
+1301902;Itacoatiara (AM);38695
+1301951;Itamarati (AM);4110
+1302009;Itapiranga (AM);3759
+1302108;Japurá (AM);3721
+1302207;Juruá (AM);5584
+1302306;Jutaí (AM);9839
+1302405;Lábrea (AM);17810
+1302504;Manacapuru (AM);39318
+1302553;Manaquiri (AM);10600
+1302603;Manaus (AM);652159
+1302702;Manicoré (AM);22082
+1302801;Maraã (AM);9176
+1302900;Maués (AM);25865
+1303007;Nhamundá (AM);8525
+1303106;Nova Olinda do Norte (AM);14584
+1303205;Novo Airão (AM);6697
+1303304;Novo Aripuanã (AM);9784
+1303403;Parintins (AM);48005
+1303502;Pauini (AM);9172
+1303536;Presidente Figueiredo (AM);11750
+1303569;Rio Preto da Eva (AM);10641
+1303601;Santa Isabel do Rio Negro (AM);9554
+1303700;Santo Antônio do Içá (AM);12725
+1303809;São Gabriel da Cachoeira (AM);17678
+1303908;São Paulo de Olivença (AM);15814
+1303957;São Sebastião do Uatumã (AM);5303
+1304005;Silves (AM);4151
+1304062;Tabatinga (AM);24978
+1304104;Tapauá (AM);9523
+1304203;Tefé (AM);29710
+1304237;Tonantins (AM);8878
+1304260;Uarini (AM);6159
+1304302;Urucará (AM);8385
+1304401;Urucurituba (AM);8563
+1400027;Amajari (RR);4768
+1400050;Alto Alegre (RR);8306
+1400100;Boa Vista (RR);109072
+1400159;Bonfim (RR);5557
+1400175;Cantá (RR);6472
+1400209;Caracaraí (RR);8417
+1400233;Caroebe (RR);3493
+1400282;Iracema (RR);3768
+1400308;Mucajaí (RR);6232
+1400407;Normandia (RR);5060
+1400456;Pacaraima (RR);5371
+1400472;Rorainópolis (RR);10523
+1400506;São João da Baliza (RR);2839
+1400605;São Luiz (RR);2531
+1400704;Uiramutã (RR);5064
+1500107;Abaetetuba (PA);56817
+1500131;Abel Figueiredo (PA);2679
+1500206;Acará (PA);24437
+1500305;Afuá (PA);17926
+1500347;Água Azul do Norte (PA);8724
+1500404;Alenquer (PA);24679
+1500503;Almeirim (PA);14966
+1500602;Altamira (PA);38719
+1500701;Anajás (PA);13096
+1500800;Ananindeua (PA);159583
+1500859;Anapu (PA);9278
+1500909;Augusto Corrêa (PA);19188
+1500958;Aurora do Pará (PA);11492
+1501006;Aveiro (PA);7831
+1501105;Bagre (PA);12563
+1501204;Baião (PA);16207
+1501253;Bannach (PA);1318
+1501303;Barcarena (PA);40650
+1501402;Belém (PA);426567
+1501451;Belterra (PA);7037
+1501501;Benevides (PA);19608
+1501576;Bom Jesus do Tocantins (PA);5987
+1501600;Bonito (PA);5557
+1501709;Bragança (PA);46787
+1501725;Brasil Novo (PA);6094
+1501758;Brejo Grande do Araguaia (PA);3054
+1501782;Breu Branco (PA);23557
+1501808;Breves (PA);46722
+1501907;Bujaru (PA);11814
+1501956;Cachoeira do Piriá (PA);12726
+1502004;Cachoeira do Arari (PA);8525
+1502103;Cametá (PA);54335
+1502152;Canaã dos Carajás (PA);10738
+1502202;Capanema (PA);23366
+1502301;Capitão Poço (PA);22071
+1502400;Castanhal (PA);63459
+1502509;Chaves (PA);10198
+1502608;Colares (PA);4728
+1502707;Conceição do Araguaia (PA);17581
+1502756;Concórdia do Pará (PA);12522
+1502764;Cumaru do Norte (PA);3961
+1502772;Curionópolis (PA);7405
+1502806;Curralinho (PA);14983
+1502855;Curuá (PA);5913
+1502905;Curuçá (PA);13959
+1502939;Dom Eliseu (PA);21149
+1502954;Eldorado do Carajás (PA);13840
+1503002;Faro (PA);3915
+1503044;Floresta do Araguaia (PA);7270
+1503077;Garrafão do Norte (PA);11634
+1503093;Goianésia do Pará (PA);12605
+1503101;Gurupá (PA);14598
+1503200;Igarapé-Açu (PA);14099
+1503309;Igarapé-Miri (PA);25191
+1503408;Inhangapi (PA);4080
+1503457;Ipixuna do Pará (PA);22163
+1503507;Irituia (PA);13464
+1503606;Itaituba (PA);39468
+1503705;Itupiranga (PA);22764
+1503754;Jacareacanga (PA);5745
+1503804;Jacundá (PA);20437
+1503903;Juruti (PA);23042
+1504000;Limoeiro do Ajuru (PA);11913
+1504059;Mãe do Rio (PA);11408
+1504109;Magalhães Barata (PA);3433
+1504208;Marabá (PA);92852
+1504307;Maracanã (PA);12268
+1504406;Marapanim (PA);10771
+1504422;Marituba (PA);39296
+1504455;Medicilândia (PA);11097
+1504505;Melgaço (PA);13462
+1504604;Mocajuba (PA);12312
+1504703;Moju (PA);32527
+1504802;Monte Alegre (PA);23817
+1504901;Muaná (PA);15425
+1504950;Nova Esperança do Piriá (PA);9608
+1504976;Nova Ipixuna (PA);6178
+1505007;Nova Timboteua (PA);4895
+1505031;Novo Progresso (PA);9678
+1505064;Novo Repartimento (PA);27609
+1505106;Óbidos (PA);21720
+1505205;Oeiras do Pará (PA);14704
+1505304;Oriximiná (PA);28813
+1505403;Ourém (PA);6869
+1505437;Ourilândia do Norte (PA);11038
+1505486;Pacajá (PA);17584
+1505494;Palestina do Pará (PA);3081
+1505502;Paragominas (PA);40648
+1505536;Parauapebas (PA);59873
+1505551;Pau D'Arco (PA);2417
+1505601;Peixe-Boi (PA);2937
+1505635;Piçarra (PA);5286
+1505650;Placas (PA);10312
+1505700;Ponta de Pedras (PA);11181
+1505809;Portel (PA);28085
+1505908;Porto de Moz (PA);17782
+1506005;Prainha (PA);14432
+1506104;Primavera (PA);4110
+1506112;Quatipuru (PA);5219
+1506138;Redenção (PA);28912
+1506161;Rio Maria (PA);6315
+1506187;Rondon do Pará (PA);17879
+1506195;Rurópolis (PA);17166
+1506203;Salinópolis (PA);14966
+1506302;Salvaterra (PA);8200
+1506351;Santa Bárbara do Pará (PA);6745
+1506401;Santa Cruz do Arari (PA);3226
+1506500;Santa Izabel do Pará (PA);21461
+1506559;Santa Luzia do Pará (PA);8391
+1506583;Santa Maria das Barreiras (PA);6649
+1506609;Santa Maria do Pará (PA);8505
+1506708;Santana do Araguaia (PA);22187
+1506807;Santarém (PA);119303
+1506906;Santarém Novo (PA);2661
+1507003;Santo Antônio do Tauá (PA);10694
+1507102;São Caetano de Odivelas (PA);6777
+1507151;São Domingos do Araguaia (PA);9836
+1507201;São Domingos do Capim (PA);14569
+1507300;São Félix do Xingu (PA);33948
+1507409;São Francisco do Pará (PA);5632
+1507458;São Geraldo do Araguaia (PA);10380
+1507466;São João da Ponta (PA);2184
+1507474;São João de Pirabas (PA);8559
+1507508;São João do Araguaia (PA);5739
+1507607;São Miguel do Guamá (PA);21727
+1507706;São Sebastião da Boa Vista (PA);10702
+1507755;Sapucaia (PA);1932
+1507805;Senador José Porfírio (PA);5998
+1507904;Soure (PA);9192
+1507953;Tailândia (PA);34264
+1507961;Terra Alta (PA);4283
+1507979;Terra Santa (PA);7380
+1508001;Tomé-Açu (PA);24893
+1508035;Tracuateua (PA);12050
+1508050;Trairão (PA);6855
+1508084;Tucumã (PA);12950
+1508100;Tucuruí (PA);39662
+1508126;Ulianópolis (PA);17971
+1508159;Uruará (PA);18488
+1508209;Vigia (PA);18408
+1508308;Viseu (PA);27343
+1508357;Vitória do Xingu (PA);5247
+1508407;Xinguara (PA);15377
+1600055;Serra do Navio (AP);1950
+1600105;Amapá (AP);3675
+1600154;Pedra Branca do Amapari (AP);4900
+1600204;Calçoene (AP);4082
+1600212;Cutias (AP);2363
+1600238;Ferreira Gomes (AP);2747
+1600253;Itaubal (AP);2114
+1600279;Laranjal do Jari (AP);17947
+1600303;Macapá (AP);158995
+1600402;Mazagão (AP);8752
+1600501;Oiapoque (AP);9311
+1600535;Porto Grande (AP);7667
+1600550;Pracuúba (AP);1947
+1600600;Santana (AP);42981
+1600709;Tartarugalzinho (AP);6326
+1600808;Vitória do Jari (AP);5963
+1700251;Abreulândia (TO);906
+1700301;Aguiarnópolis (TO);2141
+1700350;Aliança do Tocantins (TO);1985
+1700400;Almas (TO);3172
+1700707;Alvorada (TO);2827
+1701002;Ananás (TO);3961
+1701051;Angico (TO);1206
+1701101;Aparecida do Rio Negro (TO);1611
+1701309;Aragominas (TO);2199
+1701903;Araguacema (TO);2497
+1702000;Araguaçu (TO);2738
+1702109;Araguaína (TO);52762
+1702158;Araguanã (TO);2109
+1702208;Araguatins (TO);13106
+1702307;Arapoema (TO);2592
+1702406;Arraias (TO);4049
+1702554;Augustinópolis (TO);6333
+1702703;Aurora do Tocantins (TO);1160
+1702901;Axixá do Tocantins (TO);3835
+1703008;Babaçulândia (TO);3607
+1703057;Bandeirantes do Tocantins (TO);1178
+1703073;Barra do Ouro (TO);1823
+1703107;Barrolândia (TO);1837
+1703206;Bernardo Sayão (TO);1641
+1703305;Bom Jesus do Tocantins (TO);1539
+1703602;Brasilândia do Tocantins (TO);780
+1703701;Brejinho de Nazaré (TO);1931
+1703800;Buriti do Tocantins (TO);3908
+1703826;Cachoeirinha (TO);927
+1703842;Campos Lindos (TO);3929
+1703867;Cariri do Tocantins (TO);1198
+1703883;Carmolândia (TO);934
+1703891;Carrasco Bonito (TO);1657
+1703909;Caseara (TO);1782
+1704105;Centenário (TO);970
+1704600;Chapada de Areia (TO);444
+1705102;Chapada da Natividade (TO);1275
+1705508;Colinas do Tocantins (TO);11003
+1705557;Combinado (TO);1676
+1705607;Conceição do Tocantins (TO);1831
+1706001;Couto Magalhães (TO);1934
+1706100;Cristalândia (TO);2498
+1706258;Crixás do Tocantins (TO);550
+1706506;Darcinópolis (TO);2069
+1707009;Dianópolis (TO);7736
+1707108;Divinópolis do Tocantins (TO);2231
+1707207;Dois Irmãos do Tocantins (TO);2371
+1707306;Dueré (TO);1581
+1707405;Esperantina (TO);4178
+1707553;Fátima (TO);1376
+1707652;Figueirópolis (TO);1679
+1707702;Filadélfia (TO);3393
+1708205;Formoso do Araguaia (TO);6836
+1708254;Tabocão (TO);905
+1708304;Goianorte (TO);1827
+1709005;Goiatins (TO);5338
+1709302;Guaraí (TO);7949
+1709500;Gurupi (TO);25037
+1709807;Ipueiras (TO);626
+1710508;Itacajá (TO);2890
+1710706;Itaguatins (TO);2448
+1710904;Itapiratins (TO);1304
+1711100;Itaporã do Tocantins (TO);879
+1711506;Jaú do Tocantins (TO);1187
+1711803;Juarina (TO);852
+1711902;Lagoa da Confusão (TO);4104
+1711951;Lagoa do Tocantins (TO);1659
+1712009;Lajeado (TO);1075
+1712157;Lavandeira (TO);595
+1712405;Lizarda (TO);1604
+1712454;Luzinópolis (TO);1027
+1712504;Marianópolis do Tocantins (TO);1625
+1712702;Mateiros (TO);1026
+1712801;Maurilândia do Tocantins (TO);1320
+1713205;Miracema do Tocantins (TO);7769
+1713304;Miranorte (TO);4339
+1713601;Monte do Carmo (TO);2629
+1713700;Monte Santo do Tocantins (TO);700
+1713809;Palmeiras do Tocantins (TO);2310
+1713957;Muricilândia (TO);1289
+1714203;Natividade (TO);3365
+1714302;Nazaré (TO);1610
+1714880;Nova Olinda (TO);4089
+1715002;Nova Rosalândia (TO);1344
+1715101;Novo Acordo (TO);1559
+1715150;Novo Alegre (TO);782
+1715259;Novo Jardim (TO);1076
+1715507;Oliveira de Fátima (TO);393
+1715705;Palmeirante (TO);2047
+1715754;Palmeirópolis (TO);2433
+1716109;Paraíso do Tocantins (TO);14951
+1716208;Paranã (TO);4131
+1716307;Pau D'Arco (TO);1778
+1716505;Pedro Afonso (TO);4068
+1716604;Peixe (TO);3670
+1716653;Pequizeiro (TO);1887
+1716703;Colméia (TO);2878
+1717008;Pindorama do Tocantins (TO);1727
+1717206;Piraquê (TO);1055
+1717503;Pium (TO);2460
+1717800;Ponte Alta do Bom Jesus (TO);1708
+1717909;Ponte Alta do Tocantins (TO);2815
+1718006;Porto Alegre do Tocantins (TO);1158
+1718204;Porto Nacional (TO);17848
+1718303;Praia Norte (TO);3502
+1718402;Presidente Kennedy (TO);1379
+1718451;Pugmil (TO);946
+1718501;Recursolândia (TO);1709
+1718550;Riachinho (TO);1693
+1718659;Rio da Conceição (TO);757
+1718709;Rio dos Bois (TO);934
+1718758;Rio Sono (TO);2454
+1718808;Sampaio (TO);1780
+1718840;Sandolândia (TO);1096
+1718865;Santa Fé do Araguaia (TO);2756
+1718881;Santa Maria do Tocantins (TO);1115
+1718899;Santa Rita do Tocantins (TO);774
+1718907;Santa Rosa do Tocantins (TO);1896
+1719004;Santa Tereza do Tocantins (TO);1013
+1720002;Santa Terezinha do Tocantins (TO);990
+1720101;São Bento do Tocantins (TO);1978
+1720150;São Félix do Tocantins (TO);664
+1720200;São Miguel do Tocantins (TO);4423
+1720259;São Salvador do Tocantins (TO);1182
+1720309;São Sebastião do Tocantins (TO);1817
+1720499;São Valério (TO);1634
+1720655;Silvanópolis (TO);1882
+1720804;Sítio Novo do Tocantins (TO);3558
+1720853;Sucupira (TO);650
+1720903;Taguatinga (TO);5529
+1720937;Taipas do Tocantins (TO);799
+1720978;Talismã (TO);878
+1721000;Palmas (TO);79344
+1721109;Tocantínia (TO);3200
+1721208;Tocantinópolis (TO);8762
+1721257;Tupirama (TO);573
+1721307;Tupiratins (TO);803
+1722081;Wanderlândia (TO);3977
+1722107;Xambioá (TO);4279
+2100055;Açailândia (MA);41143
+2100105;Afonso Cunha (MA);2791
+2100154;Água Doce do Maranhão (MA);4761
+2100204;Alcântara (MA);8244
+2100303;Aldeias Altas (MA);10632
+2100402;Altamira do Maranhão (MA);4617
+2100436;Alto Alegre do Maranhão (MA);10056
+2100477;Alto Alegre do Pindaré (MA);13962
+2100501;Alto Parnaíba (MA);4591
+2100550;Amapá do Maranhão (MA);2987
+2100600;Amarante do Maranhão (MA);17432
+2100709;Anajatuba (MA);9496
+2100808;Anapurus (MA);5918
+2100832;Apicum-Açu (MA);6384
+2100873;Araguanã (MA);5968
+2100907;Araioses (MA);17362
+2100956;Arame (MA);14883
+2101004;Arari (MA);11011
+2101103;Axixá (MA);4646
+2101202;Bacabal (MA);37519
+2101251;Bacabeira (MA);6091
+2101301;Bacuri (MA);7008
+2101350;Bacurituba (MA);2018
+2101400;Balsas (MA);34106
+2101509;Barão de Grajaú (MA);6266
+2101608;Barra do Corda (MA);34023
+2101707;Barreirinhas (MA);25441
+2101731;Belágua (MA);3448
+2101772;Bela Vista do Maranhão (MA);5056
+2101806;Benedito Leite (MA);2022
+2101905;Bequimão (MA);7475
+2101939;Bernardo do Mearim (MA);2176
+2101970;Boa Vista do Gurupi (MA);3846
+2102002;Bom Jardim (MA);17039
+2102036;Bom Jesus das Selvas (MA);12373
+2102077;Bom Lugar (MA);5919
+2102101;Brejo (MA);13853
+2102150;Brejo de Areia (MA);2587
+2102200;Buriti (MA);12433
+2102309;Buriti Bravo (MA);9708
+2102325;Buriticupu (MA);30280
+2102358;Buritirana (MA);6345
+2102374;Cachoeira Grande (MA);4128
+2102408;Cajapió (MA);4328
+2102507;Cajari (MA);8126
+2102556;Campestre do Maranhão (MA);5496
+2102606;Cândido Mendes (MA);7867
+2102705;Cantanhede (MA);8779
+2102754;Capinzal do Norte (MA);4078
+2102804;Carolina (MA);9318
+2102903;Carutapera (MA);9708
+2103000;Caxias (MA);58755
+2103109;Cedral (MA);3795
+2103125;Central do Maranhão (MA);3515
+2103158;Centro do Guilherme (MA);5575
+2103174;Centro Novo do Maranhão (MA);8174
+2103208;Chapadinha (MA);30677
+2103257;Cidelândia (MA);5601
+2103307;Codó (MA);47424
+2103406;Coelho Neto (MA);19611
+2103505;Colinas (MA);16451
+2103554;Conceição do Lago-Açu (MA);6780
+2103604;Coroatá (MA);24900
+2103703;Cururupu (MA);12552
+2103752;Davinópolis (MA);5235
+2103802;Dom Pedro (MA);8568
+2103901;Duque Bacelar (MA);4840
+2104008;Esperantinópolis (MA);7347
+2104057;Estreito (MA);13425
+2104073;Feira Nova do Maranhão (MA);3619
+2104081;Fernando Falcão (MA);4419
+2104099;Formosa da Serra Negra (MA);7805
+2104107;Fortaleza dos Nogueiras (MA);4845
+2104206;Fortuna (MA);6318
+2104305;Godofredo Viana (MA);4266
+2104404;Gonçalves Dias (MA);6884
+2104503;Governador Archer (MA);3973
+2104552;Governador Edison Lobão (MA);6371
+2104602;Governador Eugênio Barros (MA);6632
+2104628;Governador Luiz Rocha (MA);3037
+2104651;Governador Newton Bello (MA);5345
+2104677;Governador Nunes Freire (MA);11692
+2104701;Graça Aranha (MA);2227
+2104800;Grajaú (MA);27514
+2104909;Guimarães (MA);4473
+2105005;Humberto de Campos (MA);12778
+2105104;Icatu (MA);11508
+2105153;Igarapé do Meio (MA);5550
+2105203;Igarapé Grande (MA);3992
+2105302;Imperatriz (MA);86427
+2105351;Itaipava do Grajaú (MA);6689
+2105401;Itapecuru Mirim (MA);25672
+2105427;Itinga do Maranhão (MA);10141
+2105450;Jatobá (MA);3753
+2105476;Jenipapo dos Vieiras (MA);7270
+2105500;João Lisboa (MA);7939
+2105609;Joselândia (MA);6313
+2105658;Junco do Maranhão (MA);1771
+2105708;Lago da Pedra (MA);18875
+2105807;Lago do Junco (MA);4480
+2105906;Lago Verde (MA);6857
+2105922;Lagoa do Mato (MA);4300
+2105948;Lago dos Rodrigues (MA);3027
+2105963;Lagoa Grande do Maranhão (MA);4965
+2105989;Lajeado Novo (MA);2771
+2106003;Lima Campos (MA);4121
+2106102;Loreto (MA);4633
+2106201;Luís Domingues (MA);2681
+2106300;Magalhães de Almeida (MA);7028
+2106326;Maracaçumé (MA);8562
+2106359;Marajá do Sena (MA);3991
+2106375;Maranhãozinho (MA);5574
+2106409;Mata Roma (MA);6603
+2106508;Matinha (MA);8613
+2106607;Matões (MA);13468
+2106631;Matões do Norte (MA);5732
+2106672;Milagres do Maranhão (MA);3708
+2106706;Mirador (MA);8890
+2106755;Miranda do Norte (MA);8962
+2106805;Mirinzal (MA);5717
+2106904;Monção (MA);14636
+2107001;Montes Altos (MA);3817
+2107100;Morros (MA);8445
+2107209;Nina Rodrigues (MA);6094
+2107258;Nova Colinas (MA);2174
+2107308;Nova Iorque (MA);1763
+2107357;Nova Olinda do Maranhão (MA);7974
+2107407;Olho d'Água das Cunhãs (MA);6968
+2107456;Olinda Nova do Maranhão (MA);5375
+2107506;Paço do Lumiar (MA);36190
+2107605;Palmeirândia (MA);7328
+2107704;Paraibano (MA);7721
+2107803;Parnarama (MA);14453
+2107902;Passagem Franca (MA);7155
+2108009;Pastos Bons (MA);7263
+2108058;Paulino Neves (MA);7076
+2108108;Paulo Ramos (MA);8604
+2108207;Pedreiras (MA);13943
+2108256;Pedro do Rosário (MA);10518
+2108306;Penalva (MA);15345
+2108405;Peri Mirim (MA);4897
+2108454;Peritoró (MA);8812
+2108504;Pindaré-Mirim (MA);12662
+2108603;Pinheiro (MA);29678
+2108702;Pio XII (MA);9322
+2108801;Pirapemas (MA);7668
+2108900;Poção de Pedras (MA);7343
+2109007;Porto Franco (MA);8224
+2109056;Porto Rico do Maranhão (MA);2225
+2109106;Presidente Dutra (MA);16547
+2109205;Presidente Juscelino (MA);5577
+2109239;Presidente Médici (MA);2642
+2109270;Presidente Sarney (MA);7741
+2109304;Presidente Vargas (MA);5049
+2109403;Primeira Cruz (MA);6680
+2109452;Raposa (MA);10548
+2109502;Riachão (MA);8278
+2109551;Ribamar Fiquene (MA);3027
+2109601;Rosário (MA);15595
+2109700;Sambaíba (MA);2321
+2109759;Santa Filomena do Maranhão (MA);3066
+2109809;Santa Helena (MA);16002
+2109908;Santa Inês (MA);29484
+2110005;Santa Luzia (MA);32960
+2110039;Santa Luzia do Paruá (MA);9227
+2110104;Santa Quitéria do Maranhão (MA);13135
+2110203;Santa Rita (MA);12595
+2110237;Santana do Maranhão (MA);5071
+2110278;Santo Amaro do Maranhão (MA);6590
+2110302;Santo Antônio dos Lopes (MA);5482
+2110401;São Benedito do Rio Preto (MA);8502
+2110500;São Bento (MA);14538
+2110609;São Bernardo (MA);11148
+2110658;São Domingos do Azeitão (MA);3000
+2110708;São Domingos do Maranhão (MA);13584
+2110807;São Félix de Balsas (MA);1818
+2110856;São Francisco do Brejão (MA);4271
+2110906;São Francisco do Maranhão (MA);4721
+2111003;São João Batista (MA);7588
+2111029;São João do Carú (MA);5848
+2111052;São João do Paraíso (MA);4372
+2111078;São João do Soter (MA);7603
+2111102;São João dos Patos (MA);8904
+2111201;São José de Ribamar (MA);58390
+2111250;São José dos Basílios (MA);3101
+2111300;São Luís (MA);317892
+2111409;São Luís Gonzaga do Maranhão (MA);8162
+2111508;São Mateus do Maranhão (MA);15960
+2111532;São Pedro da Água Branca (MA);5103
+2111573;São Pedro dos Crentes (MA);1865
+2111607;São Raimundo das Mangabeiras (MA);7157
+2111631;São Raimundo do Doca Bezerra (MA);2706
+2111672;São Roberto (MA);2543
+2111706;São Vicente Ferrer (MA);8394
+2111722;Satubinha (MA);5487
+2111748;Senador Alexandre Costa (MA);4389
+2111763;Senador La Rocque (MA);7515
+2111789;Serrano do Maranhão (MA);4820
+2111805;Sítio Novo (MA);7060
+2111904;Sucupira do Norte (MA);4203
+2111953;Sucupira do Riachão (MA);1838
+2112001;Tasso Fragoso (MA);3528
+2112100;Timbiras (MA);11975
+2112209;Timon (MA);57111
+2112233;Trizidela do Vale (MA);6841
+2112274;Tufilândia (MA);2564
+2112308;Tuntum (MA);15922
+2112407;Turiaçu (MA);15693
+2112456;Turilândia (MA);10419
+2112506;Tutóia (MA);23735
+2112605;Urbano Santos (MA);11582
+2112704;Vargem Grande (MA);21636
+2112803;Viana (MA);20403
+2112852;Vila Nova dos Martírios (MA);4788
+2112902;Vitória do Mearim (MA);13092
+2113009;Vitorino Freire (MA);12496
+2114007;Zé Doca (MA);20617
+2200053;Acauã (PI);2433
+2200103;Agricolândia (PI);1741
+2200202;Água Branca (PI);5748
+2200251;Alagoinha do Piauí (PI);2236
+2200277;Alegrete do Piauí (PI);1802
+2200301;Alto Longá (PI);4473
+2200400;Altos (PI);13384
+2200459;Alvorada do Gurguéia (PI);2140
+2200509;Amarante (PI);5954
+2200608;Angical do Piauí (PI);2237
+2200707;Anísio de Abreu (PI);3314
+2200806;Antônio Almeida (PI);1054
+2200905;Aroazes (PI);1906
+2200954;Aroeiras do Itaim (PI);694
+2201002;Arraial (PI);1813
+2201051;Assunção do Piauí (PI);3230
+2201101;Avelino Lopes (PI);4126
+2201150;Baixa Grande do Ribeiro (PI);4621
+2201176;Barra D'Alcântara (PI);1312
+2201200;Barras (PI);16838
+2201309;Barreiras do Piauí (PI);1288
+2201408;Barro Duro (PI);2326
+2201507;Batalha (PI);9504
+2201556;Bela Vista do Piauí (PI);1362
+2201572;Belém do Piauí (PI);1079
+2201606;Beneditinos (PI);3336
+2201705;Bertolínia (PI);1908
+2201739;Betânia do Piauí (PI);2427
+2201770;Boa Hora (PI);2452
+2201804;Bocaina (PI);1235
+2201903;Bom Jesus (PI);8486
+2201919;Bom Princípio do Piauí (PI);1966
+2201929;Bonfim do Piauí (PI);1918
+2201945;Boqueirão do Piauí (PI);2175
+2201960;Brasileira (PI);2657
+2201988;Brejo do Piauí (PI);1413
+2202000;Buriti dos Lopes (PI);7137
+2202026;Buriti dos Montes (PI);2958
+2202059;Cabeceiras do Piauí (PI);3438
+2202075;Cajazeiras do Piauí (PI);1214
+2202083;Cajueiro da Praia (PI);2592
+2202091;Caldeirão Grande do Piauí (PI);2123
+2202109;Campinas do Piauí (PI);1890
+2202117;Campo Alegre do Fidalgo (PI);1757
+2202133;Campo Grande do Piauí (PI);1941
+2202174;Campo Largo do Piauí (PI);2967
+2202208;Campo Maior (PI);13624
+2202251;Canavieira (PI);1459
+2202307;Canto do Buriti (PI);6973
+2202406;Capitão de Campos (PI);3916
+2202455;Capitão Gervásio Oliveira (PI);1388
+2202505;Caracol (PI);4009
+2202539;Caraúbas do Piauí (PI);2181
+2202554;Caridade do Piauí (PI);1881
+2202604;Castelo do Piauí (PI);6692
+2202653;Caxingó (PI);2069
+2202703;Cocal (PI);10446
+2202711;Cocal de Telha (PI);1545
+2202729;Cocal dos Alves (PI);2096
+2202737;Coivaras (PI);1312
+2202752;Colônia do Gurguéia (PI);2270
+2202778;Colônia do Piauí (PI);2648
+2202802;Conceição do Canindé (PI);1584
+2202851;Coronel José Dias (PI);1524
+2202901;Corrente (PI);9909
+2203008;Cristalândia do Piauí (PI);3097
+2203107;Cristino Castro (PI);3905
+2203206;Curimatá (PI);4139
+2203230;Currais (PI);1883
+2203255;Curralinhos (PI);1568
+2203271;Curral Novo do Piauí (PI);2093
+2203305;Demerval Lobão (PI);4454
+2203354;Dirceu Arcoverde (PI);2306
+2203404;Dom Expedito Lopes (PI);2083
+2203420;Domingos Mourão (PI);1735
+2203453;Dom Inocêncio (PI);3140
+2203503;Elesbão Veloso (PI);4396
+2203602;Eliseu Martins (PI);1553
+2203701;Esperantina (PI);13264
+2203750;Fartura do Piauí (PI);1937
+2203800;Flores do Piauí (PI);1551
+2203859;Floresta do Piauí (PI);804
+2203909;Floriano (PI);18513
+2204006;Francinópolis (PI);1823
+2204105;Francisco Ayres (PI);1506
+2204154;Francisco Macedo (PI);926
+2204204;Francisco Santos (PI);2780
+2204303;Fronteiras (PI);3733
+2204352;Geminiano (PI);1909
+2204402;Gilbués (PI);4347
+2204501;Guadalupe (PI);3582
+2204550;Guaribas (PI);1987
+2204600;Hugo Napoleão (PI);1294
+2204659;Ilha Grande (PI);3310
+2204709;Inhuma (PI);5082
+2204808;Ipiranga do Piauí (PI);3127
+2204907;Isaías Coelho (PI);3154
+2205003;Itainópolis (PI);3316
+2205102;Itaueira (PI);3501
+2205151;Jacobina do Piauí (PI);1936
+2205201;Jaicós (PI);6522
+2205250;Jardim do Mulato (PI);1505
+2205276;Jatobá do Piauí (PI);1468
+2205300;Jerumenha (PI);1570
+2205359;João Costa (PI);990
+2205409;Joaquim Pires (PI);5452
+2205458;Joca Marques (PI);2010
+2205508;José de Freitas (PI);12873
+2205516;Juazeiro do Piauí (PI);1839
+2205524;Júlio Borges (PI);2103
+2205532;Jurema (PI);1629
+2205540;Lagoinha do Piauí (PI);957
+2205557;Lagoa Alegre (PI);3160
+2205565;Lagoa do Barro do Piauí (PI);1671
+2205573;Lagoa de São Francisco (PI);2643
+2205581;Lagoa do Piauí (PI);1350
+2205599;Lagoa do Sítio (PI);1699
+2205607;Landri Sales (PI);1839
+2205706;Luís Correia (PI);10396
+2205805;Luzilândia (PI);8983
+2205854;Madeiro (PI);3243
+2205904;Manoel Emídio (PI);1887
+2205953;Marcolândia (PI);3044
+2206001;Marcos Parente (PI);1506
+2206050;Massapê do Piauí (PI);2137
+2206100;Matias Olímpio (PI);4218
+2206209;Miguel Alves (PI);13718
+2206308;Miguel Leão (PI);472
+2206357;Milton Brandão (PI);2678
+2206407;Monsenhor Gil (PI);3414
+2206506;Monsenhor Hipólito (PI);2370
+2206605;Monte Alegre do Piauí (PI);4334
+2206654;Morro Cabeça no Tempo (PI);1738
+2206670;Morro do Chapéu do Piauí (PI);2584
+2206696;Murici dos Portelas (PI);3493
+2206704;Nazaré do Piauí (PI);2587
+2206720;Nazária (PI);2945
+2206753;Nossa Senhora de Nazaré (PI);1391
+2206803;Nossa Senhora dos Remédios (PI);3331
+2206902;Novo Oriente do Piauí (PI);2146
+2206951;Novo Santo Antônio (PI);1132
+2207009;Oeiras (PI);12516
+2207108;Olho D'Água do Piauí (PI);965
+2207207;Padre Marcos (PI);2202
+2207306;Paes Landim (PI);1526
+2207355;Pajeú do Piauí (PI);1127
+2207405;Palmeira do Piauí (PI);1968
+2207504;Palmeirais (PI);5258
+2207553;Paquetá (PI);1376
+2207603;Parnaguá (PI);4376
+2207702;Parnaíba (PI);47895
+2207751;Passagem Franca do Piauí (PI);1697
+2207777;Patos do Piauí (PI);2016
+2207793;Pau D'Arco do Piauí (PI);1416
+2207801;Paulistana (PI);7298
+2207850;Pavussu (PI);1269
+2207900;Pedro II (PI);14278
+2207934;Pedro Laurentino (PI);907
+2207959;Nova Santa Rita (PI);1650
+2208007;Picos (PI);22942
+2208106;Pimenteiras (PI);4274
+2208205;Pio IX (PI);6425
+2208304;Piracuruca (PI);9834
+2208403;Piripiri (PI);20843
+2208502;Porto (PI);5258
+2208551;Porto Alegre do Piauí (PI);958
+2208601;Prata do Piauí (PI);1098
+2208650;Queimada Nova (PI);2988
+2208700;Redenção do Gurguéia (PI);3525
+2208809;Regeneração (PI);6262
+2208858;Riacho Frio (PI);1747
+2208874;Ribeira do Piauí (PI);1635
+2208908;Ribeiro Gonçalves (PI);2803
+2209005;Rio Grande do Piauí (PI);2136
+2209104;Santa Cruz do Piauí (PI);1890
+2209153;Santa Cruz dos Milagres (PI);1342
+2209203;Santa Filomena (PI);2660
+2209302;Santa Luz (PI);2067
+2209351;Santana do Piauí (PI);1571
+2209377;Santa Rosa do Piauí (PI);1843
+2209401;Santo Antônio de Lisboa (PI);1980
+2209450;Santo Antônio dos Milagres (PI);806
+2209500;Santo Inácio do Piauí (PI);1164
+2209559;São Braz do Piauí (PI);1496
+2209609;São Félix do Piauí (PI);899
+2209658;São Francisco de Assis do Piauí (PI);2129
+2209708;São Francisco do Piauí (PI);2302
+2209757;São Gonçalo do Gurguéia (PI);1161
+2209807;São Gonçalo do Piauí (PI);1761
+2209856;São João da Canabrava (PI);1547
+2209872;São João da Fronteira (PI);2343
+2209906;São João da Serra (PI);2129
+2209955;São João da Varjota (PI);1738
+2209971;São João do Arraial (PI);2921
+2210003;São João do Piauí (PI);7081
+2210052;São José do Divino (PI);1811
+2210102;São José do Peixe (PI);1420
+2210201;São José do Piauí (PI);2220
+2210300;São Julião (PI);1848
+2210359;São Lourenço do Piauí (PI);1366
+2210375;São Luis do Piauí (PI);914
+2210383;São Miguel da Baixa Grande (PI);690
+2210391;São Miguel do Fidalgo (PI);1192
+2210409;São Miguel do Tapuio (PI);6575
+2210508;São Pedro do Piauí (PI);5092
+2210607;São Raimundo Nonato (PI);11244
+2210623;Sebastião Barros (PI);1442
+2210631;Sebastião Leal (PI);1452
+2210656;Sigefredo Pacheco (PI);3298
+2210706;Simões (PI);5669
+2210805;Simplício Mendes (PI);4128
+2210904;Socorro do Piauí (PI);1708
+2210938;Sussuapara (PI);1903
+2210953;Tamboril do Piauí (PI);1090
+2210979;Tanque do Piauí (PI);922
+2211001;Teresina (PI);250324
+2211100;União (PI);15900
+2211209;Uruçuí (PI);7479
+2211308;Valença do Piauí (PI);6246
+2211357;Várzea Branca (PI);1932
+2211407;Várzea Grande (PI);1414
+2211506;Vera Mendes (PI);1008
+2211605;Vila Nova do Piauí (PI);910
+2211704;Wall Ferraz (PI);1519
+2300101;Abaiara (CE);3849
+2300150;Acarape (CE);5736
+2300200;Acaraú (CE);21896
+2300309;Acopiara (CE);16481
+2300408;Aiuaba (CE);6074
+2300507;Alcântaras (CE);3961
+2300606;Altaneira (CE);2462
+2300705;Alto Santo (CE);5519
+2300754;Amontada (CE);16421
+2300804;Antonina do Norte (CE);2554
+2300903;Apuiarés (CE);5011
+2301000;Aquiraz (CE);24831
+2301109;Aracati (CE);22676
+2301208;Aracoiaba (CE);8945
+2301257;Ararendá (CE);3670
+2301307;Araripe (CE);8358
+2301406;Aratuba (CE);4501
+2301505;Arneiroz (CE);2710
+2301604;Assaré (CE);8300
+2301703;Aurora (CE);8291
+2301802;Baixio (CE);1955
+2301851;Banabuiú (CE);6942
+2301901;Barbalha (CE);19251
+2301950;Barreira (CE);7096
+2302008;Barro (CE);7019
+2302057;Barroquinha (CE);5611
+2302107;Baturité (CE);12168
+2302206;Beberibe (CE);16896
+2302305;Bela Cruz (CE);11646
+2302404;Boa Viagem (CE);19459
+2302503;Brejo Santo (CE);15266
+2302602;Camocim (CE);22479
+2302701;Campos Sales (CE);9616
+2302800;Canindé (CE);28031
+2302909;Capistrano (CE);6313
+2303006;Caridade (CE);7439
+2303105;Cariré (CE);6680
+2303204;Caririaçu (CE);10250
+2303303;Cariús (CE);6167
+2303402;Carnaubal (CE);6654
+2303501;Cascavel (CE);22497
+2303600;Catarina (CE);5584
+2303659;Catunda (CE);3680
+2303709;Caucaia (CE);117046
+2303808;Cedro (CE);8080
+2303907;Chaval (CE);4773
+2303931;Choró (CE);5198
+2303956;Chorozinho (CE);6706
+2304004;Coreaú (CE);8411
+2304103;Crateús (CE);23933
+2304202;Crato (CE);40644
+2304236;Croatá (CE);6737
+2304251;Cruz (CE);8462
+2304269;Deputado Irapuan Pinheiro (CE);3042
+2304277;Ereré (CE);2245
+2304285;Eusébio (CE);16572
+2304301;Farias Brito (CE);6675
+2304350;Forquilha (CE);7680
+2304400;Fortaleza (CE);736229
+2304459;Fortim (CE);5178
+2304509;Frecheirinha (CE);5093
+2304608;General Sampaio (CE);2530
+2304657;Graça (CE);5943
+2304707;Granja (CE);21947
+2304806;Granjeiro (CE);1763
+2304905;Groaíras (CE);3436
+2304954;Guaiúba (CE);8997
+2305001;Guaraciaba do Norte (CE);14983
+2305100;Guaramiranga (CE);1532
+2305209;Hidrolândia (CE);6924
+2305233;Horizonte (CE);19682
+2305266;Ibaretama (CE);5003
+2305308;Ibiapina (CE);9063
+2305332;Ibicuitinga (CE);3871
+2305357;Icapuí (CE);5904
+2305407;Icó (CE);22701
+2305506;Iguatu (CE);29786
+2305605;Independência (CE);8458
+2305654;Ipaporanga (CE);4046
+2305704;Ipaumirim (CE);4046
+2305803;Ipu (CE);14657
+2305902;Ipueiras (CE);14657
+2306009;Iracema (CE);4420
+2306108;Irauçuba (CE);9013
+2306207;Itaiçaba (CE);2208
+2306256;Itaitinga (CE);12636
+2306306;Itapajé (CE);18169
+2306405;Itapipoca (CE);44937
+2306504;Itapiúna (CE);7098
+2306553;Itarema (CE);15362
+2306603;Itatira (CE);7874
+2306702;Jaguaretama (CE);6201
+2306801;Jaguaribara (CE);3406
+2306900;Jaguaribe (CE);11533
+2307007;Jaguaruana (CE);10499
+2307106;Jardim (CE);9864
+2307205;Jati (CE);2571
+2307254;Jijoca de Jericoacoara (CE);6410
+2307304;Juazeiro do Norte (CE);86525
+2307403;Jucás (CE);8552
+2307502;Lavras da Mangabeira (CE);10453
+2307601;Limoeiro do Norte (CE);17438
+2307635;Madalena (CE);7061
+2307650;Maracanaú (CE);71143
+2307700;Maranguape (CE);40038
+2307809;Marco (CE);10247
+2307908;Martinópole (CE);4190
+2308005;Massapê (CE);13585
+2308104;Mauriti (CE);16567
+2308203;Meruoca (CE);4970
+2308302;Milagres (CE);9649
+2308351;Milhã (CE);4358
+2308377;Miraíma (CE);5310
+2308401;Missão Velha (CE);12742
+2308500;Mombaça (CE);15287
+2308609;Monsenhor Tabosa (CE);6125
+2308708;Morada Nova (CE);20335
+2308807;Moraújo (CE);3083
+2308906;Morrinhos (CE);8436
+2309003;Mucambo (CE);5055
+2309102;Mulungu (CE);4376
+2309201;Nova Olinda (CE);5346
+2309300;Nova Russas (CE);10754
+2309409;Novo Oriente (CE);9771
+2309458;Ocara (CE);8551
+2309508;Orós (CE);6659
+2309607;Pacajus (CE);21765
+2309706;Pacatuba (CE);25771
+2309805;Pacoti (CE);4301
+2309904;Pacujá (CE);2132
+2310001;Palhano (CE);2669
+2310100;Palmácia (CE);4219
+2310209;Paracuru (CE);11265
+2310258;Paraipaba (CE);11143
+2310308;Parambu (CE);11583
+2310407;Paramoti (CE);4432
+2310506;Pedra Branca (CE);15032
+2310605;Penaforte (CE);3039
+2310704;Pentecoste (CE);12816
+2310803;Pereiro (CE);5567
+2310852;Pindoretama (CE);6167
+2310902;Piquet Carneiro (CE);4678
+2310951;Pires Ferreira (CE);3800
+2311009;Poranga (CE);4583
+2311108;Porteiras (CE);5313
+2311207;Potengi (CE);3881
+2311231;Potiretama (CE);2090
+2311264;Quiterianópolis (CE);7090
+2311306;Quixadá (CE);29291
+2311355;Quixelô (CE);4764
+2311405;Quixeramobim (CE);25631
+2311504;Quixeré (CE);6652
+2311603;Redenção (CE);9492
+2311702;Reriutaba (CE);7119
+2311801;Russas (CE);22863
+2311900;Saboeiro (CE);5901
+2311959;Salitre (CE);6446
+2312007;Santana do Acaraú (CE);11675
+2312106;Santana do Cariri (CE);6958
+2312205;Santa Quitéria (CE);15627
+2312304;São Benedito (CE);17125
+2312403;São Gonçalo do Amarante (CE);15778
+2312502;São João do Jaguaribe (CE);2083
+2312601;São Luís do Curu (CE);4244
+2312700;Senador Pompeu (CE);8842
+2312809;Senador Sá (CE);2716
+2312908;Sobral (CE);64749
+2313005;Solonópole (CE);5799
+2313104;Tabuleiro do Norte (CE);9095
+2313203;Tamboril (CE);9411
+2313252;Tarrafas (CE);3191
+2313302;Tauá (CE);19173
+2313351;Tejuçuoca (CE);6484
+2313401;Tianguá (CE);26548
+2313500;Trairi (CE);20294
+2313559;Tururu (CE);5424
+2313609;Ubajara (CE);11804
+2313708;Umari (CE);2536
+2313757;Umirim (CE);7447
+2313807;Uruburetama (CE);7512
+2313906;Uruoca (CE);4990
+2313955;Varjota (CE);6539
+2314003;Várzea Alegre (CE);12618
+2314102;Viçosa do Ceará (CE);22742
+2400109;Acari (RN);3179
+2400208;Açu (RN);17482
+2400307;Afonso Bezerra (RN);3846
+2400406;Água Nova (RN);1009
+2400505;Alexandria (RN);4188
+2400604;Almino Afonso (RN);1540
+2400703;Alto do Rodrigues (RN);3967
+2400802;Angicos (RN);3613
+2400901;Antônio Martins (RN);2181
+2401008;Apodi (RN);10477
+2401107;Areia Branca (RN);7952
+2401206;Arês (RN);4686
+2401305;Campo Grande (RN);3158
+2401404;Baía Formosa (RN);3088
+2401453;Baraúna (RN);9104
+2401503;Barcelona (RN);1343
+2401602;Bento Fernandes (RN);1966
+2401651;Bodó (RN);837
+2401701;Bom Jesus (RN);3475
+2401800;Brejinho (RN);4189
+2401859;Caiçara do Norte (RN);2235
+2401909;Caiçara do Rio do Vento (RN);1103
+2402006;Caicó (RN);17831
+2402105;Campo Redondo (RN);3438
+2402204;Canguaretama (RN);12236
+2402303;Caraúbas (RN);6103
+2402402;Carnaúba dos Dantas (RN);2331
+2402501;Carnaubais (RN);3235
+2402600;Ceará-Mirim (RN);25309
+2402709;Cerro Corá (RN);3720
+2402808;Coronel Ezequiel (RN);1889
+2402907;Coronel João Pessoa (RN);1827
+2403004;Cruzeta (RN);2290
+2403103;Currais Novos (RN);12929
+2403202;Doutor Severiano (RN);2204
+2403251;Parnamirim (RN);62736
+2403301;Encanto (RN);1753
+2403400;Equador (RN);2030
+2403509;Espírito Santo (RN);3933
+2403608;Extremoz (RN);9023
+2403707;Felipe Guerra (RN);1638
+2403756;Fernando Pedroza (RN);887
+2403806;Florânia (RN);2683
+2403905;Francisco Dantas (RN);880
+2404002;Frutuoso Gomes (RN);1302
+2404101;Galinhos (RN);812
+2404200;Goianinha (RN);8438
+2404309;Governador Dix-Sept Rosado (RN);4057
+2404408;Grossos (RN);2890
+2404507;Guamaré (RN);4651
+2404606;Ielmo Marinho (RN);4631
+2404705;Ipanguaçu (RN);4908
+2404804;Ipueira (RN);602
+2404853;Itajá (RN);2456
+2404903;Itaú (RN);1759
+2405009;Jaçanã (RN);2713
+2405108;Jandaíra (RN);2606
+2405207;Janduís (RN);1742
+2405306;Januário Cicco (RN);3367
+2405405;Japi (RN);2091
+2405504;Jardim de Angicos (RN);899
+2405603;Jardim de Piranhas (RN);4194
+2405702;Jardim do Seridó (RN);3080
+2405801;João Câmara (RN);12198
+2405900;João Dias (RN);919
+2406007;José da Penha (RN);1811
+2406106;Jucurutu (RN);5215
+2406155;Jundiá (RN);1296
+2406205;Lagoa d'Anta (RN);2417
+2406304;Lagoa de Pedras (RN);2736
+2406403;Lagoa de Velhos (RN);981
+2406502;Lagoa Nova (RN);5088
+2406601;Lagoa Salgada (RN);2875
+2406700;Lajes (RN);3397
+2406809;Lajes Pintadas (RN);1518
+2406908;Lucrécia (RN);1190
+2407005;Luís Gomes (RN);3391
+2407104;Macaíba (RN);24360
+2407203;Macau (RN);8931
+2407252;Major Sales (RN);1197
+2407302;Marcelino Vieira (RN);2686
+2407401;Martins (RN);2594
+2407500;Maxaranguape (RN);4144
+2407609;Messias Targino (RN);1442
+2407708;Montanhas (RN);4331
+2407807;Monte Alegre (RN);7681
+2407906;Monte das Gameleiras (RN);819
+2408003;Mossoró (RN);79814
+2408102;Natal (RN);232155
+2408201;Nísia Floresta (RN);8759
+2408300;Nova Cruz (RN);12736
+2408409;Olho d'Água do Borges (RN);1264
+2408508;Ouro Branco (RN);1322
+2408607;Paraná (RN);1297
+2408706;Paraú (RN);1259
+2408805;Parazinho (RN);1952
+2408904;Parelhas (RN);6311
+2408953;Rio do Fogo (RN);4102
+2409100;Passa e Fica (RN);3700
+2409209;Passagem (RN);1023
+2409308;Patu (RN);3859
+2409332;Santa Maria (RN);1786
+2409407;Pau dos Ferros (RN);8531
+2409506;Pedra Grande (RN);1393
+2409605;Pedra Preta (RN);978
+2409704;Pedro Avelino (RN);2556
+2409803;Pedro Velho (RN);5251
+2409902;Pendências (RN);4367
+2410009;Pilões (RN);1041
+2410108;Poço Branco (RN);5349
+2410207;Portalegre (RN);2347
+2410256;Porto do Mangue (RN);1949
+2410306;Serra Caiada (RN);3508
+2410405;Pureza (RN);3359
+2410504;Rafael Fernandes (RN);1466
+2410603;Rafael Godeiro (RN);980
+2410702;Riacho da Cruz (RN);1078
+2410801;Riacho de Santana (RN);1355
+2410900;Riachuelo (RN);2722
+2411007;Rodolfo Fernandes (RN);1480
+2411056;Tibau (RN);1220
+2411106;Ruy Barbosa (RN);1334
+2411205;Santa Cruz (RN);12510
+2411403;Santana do Matos (RN);4096
+2411429;Santana do Seridó (RN);759
+2411502;Santo Antônio (RN);7862
+2411601;São Bento do Norte (RN);1105
+2411700;São Bento do Trairí (RN);1479
+2411809;São Fernando (RN);999
+2411908;São Francisco do Oeste (RN);1201
+2412005;São Gonçalo do Amarante (RN);30871
+2412104;São João do Sabugi (RN);1685
+2412203;São José de Mipibu (RN);14760
+2412302;São José do Campestre (RN);4436
+2412401;São José do Seridó (RN);1222
+2412500;São Miguel (RN);7897
+2412559;São Miguel do Gostoso (RN);3427
+2412609;São Paulo do Potengi (RN);5385
+2412708;São Pedro (RN);2178
+2412807;São Rafael (RN);2338
+2412906;São Tomé (RN);3653
+2413003;São Vicente (RN);1759
+2413102;Senador Elói de Souza (RN);2154
+2413201;Senador Georgino Avelino (RN);1560
+2413300;Serra de São Bento (RN);2064
+2413359;Serra do Mel (RN);3739
+2413409;Serra Negra do Norte (RN);2407
+2413508;Serrinha (RN);2454
+2413557;Serrinha dos Pintos (RN);1372
+2413607;Severiano Melo (RN);1747
+2413706;Sítio Novo (RN);1831
+2413805;Taboleiro Grande (RN);782
+2413904;Taipu (RN);4558
+2414001;Tangará (RN);5280
+2414100;Tenente Ananias (RN);3070
+2414159;Tenente Laurentino Cruz (RN);2009
+2414209;Tibau do Sul (RN);4114
+2414308;Timbaúba dos Batistas (RN);639
+2414407;Touros (RN);12201
+2414456;Triunfo Potiguar (RN);1227
+2414506;Umarizal (RN);3344
+2414605;Upanema (RN);4390
+2414704;Várzea (RN);1720
+2414753;Venha-Ver (RN);1481
+2414803;Vera Cruz (RN);3958
+2414902;Viçosa (RN);544
+2415008;Vila Flor (RN);1131
+2500106;Água Branca (PB);3644
+2500205;Aguiar (PB);1879
+2500304;Alagoa Grande (PB);10166
+2500403;Alagoa Nova (PB);7014
+2500502;Alagoinha (PB);5067
+2500536;Alcantil (PB);1837
+2500577;Algodão de Jandaíra (PB);880
+2500601;Alhandra (PB);6797
+2500700;São João do Rio do Peixe (PB);5436
+2500734;Amparo (PB);715
+2500775;Aparecida (PB);2361
+2500809;Araçagi (PB);6027
+2500908;Arara (PB);4224
+2501005;Araruna (PB);7285
+2501104;Areia (PB);8385
+2501153;Areia de Baraúnas (PB);697
+2501203;Areial (PB);2172
+2501302;Aroeiras (PB);7179
+2501351;Assunção (PB);1271
+2501401;Baía da Traição (PB);3242
+2501500;Bananeiras (PB);7876
+2501534;Baraúna (PB);1448
+2501575;Barra de Santana (PB);2811
+2501609;Barra de Santa Rosa (PB);4924
+2501708;Barra de São Miguel (PB);1906
+2501807;Bayeux (PB);33322
+2501906;Belém (PB);5597
+2502003;Belém do Brejo do Cruz (PB);2351
+2502052;Bernardino Batista (PB);1261
+2502102;Boa Ventura (PB);1937
+2502151;Boa Vista (PB);2025
+2502201;Bom Jesus (PB);824
+2502300;Bom Sucesso (PB);1493
+2502409;Bonito de Santa Fé (PB);3972
+2502508;Boqueirão (PB);5859
+2502607;Igaracy (PB);2128
+2502706;Borborema (PB);1948
+2502805;Brejo do Cruz (PB);4334
+2502904;Brejo dos Santos (PB);1956
+2503001;Caaporã (PB);7959
+2503100;Cabaceiras (PB);1647
+2503209;Cabedelo (PB);18234
+2503308;Cachoeira dos Índios (PB);3213
+2503407;Cacimba de Areia (PB);1156
+2503506;Cacimba de Dentro (PB);6185
+2503555;Cacimbas (PB);3148
+2503605;Caiçara (PB);2476
+2503704;Cajazeiras (PB);17971
+2503753;Cajazeirinhas (PB);1046
+2503803;Caldas Brandão (PB);1934
+2503902;Camalaú (PB);1982
+2504009;Campina Grande (PB);119587
+2504033;Capim (PB);2296
+2504074;Caraúbas (PB);1322
+2504108;Carrapateira (PB);858
+2504157;Casserengue (PB);2689
+2504207;Catingueira (PB);1691
+2504306;Catolé do Rocha (PB);8880
+2504355;Caturité (PB);1569
+2504405;Conceição (PB);6122
+2504504;Condado (PB);2118
+2504603;Conde (PB);8137
+2504702;Congo (PB);1580
+2504801;Coremas (PB);5141
+2504850;Coxixola (PB);477
+2504900;Cruz do Espírito Santo (PB);6072
+2505006;Cubati (PB);2413
+2505105;Cuité (PB);6399
+2505204;Cuitegi (PB);2549
+2505238;Cuité de Mamanguape (PB);2250
+2505279;Curral de Cima (PB);1955
+2505303;Curral Velho (PB);890
+2505352;Damião (PB);1882
+2505402;Desterro (PB);3000
+2505501;Vista Serrana (PB);1187
+2505600;Diamante (PB);2319
+2505709;Dona Inês (PB);4044
+2505808;Duas Estradas (PB);1280
+2505907;Emas (PB);1216
+2506004;Esperança (PB);10512
+2506103;Fagundes (PB);4192
+2506202;Frei Martinho (PB);830
+2506251;Gado Bravo (PB);3158
+2506301;Guarabira (PB);17726
+2506400;Gurinhém (PB);4871
+2506509;Gurjão (PB);985
+2506608;Ibiara (PB);1934
+2506707;Imaculada (PB);4679
+2506806;Ingá (PB);6546
+2506905;Itabaiana (PB);7683
+2507002;Itaporanga (PB);7887
+2507101;Itapororoca (PB);5971
+2507200;Itatuba (PB);3667
+2507309;Jacaraú (PB);5017
+2507408;Jericó (PB);2478
+2507507;João Pessoa (PB);209833
+2507606;Juarez Távora (PB);2652
+2507705;Juazeirinho (PB);6327
+2507804;Junco do Seridó (PB);2315
+2507903;Juripiranga (PB);3624
+2508000;Juru (PB);3526
+2508109;Lagoa (PB);1499
+2508208;Lagoa de Dentro (PB);2629
+2508307;Lagoa Seca (PB);8912
+2508406;Lastro (PB);865
+2508505;Livramento (PB);2600
+2508554;Logradouro (PB);1368
+2508604;Lucena (PB);4431
+2508703;Mãe d'Água (PB);1378
+2508802;Malta (PB);1889
+2508901;Mamanguape (PB);15395
+2509008;Manaíra (PB);4069
+2509057;Marcação (PB);3155
+2509107;Mari (PB);7015
+2509156;Marizópolis (PB);2027
+2509206;Massaranduba (PB);4606
+2509305;Mataraca (PB);3004
+2509339;Matinhas (PB);1626
+2509370;Mato Grosso (PB);911
+2509396;Maturéia (PB);2247
+2509404;Mogeiro (PB);4595
+2509503;Montadas (PB);1715
+2509602;Monte Horebe (PB);1619
+2509701;Monteiro (PB);9930
+2509800;Mulungu (PB);3165
+2509909;Natuba (PB);4083
+2510006;Nazarezinho (PB);2349
+2510105;Nova Floresta (PB);3640
+2510204;Nova Olinda (PB);2278
+2510303;Nova Palmeira (PB);1346
+2510402;Olho d'Água (PB);2448
+2510501;Olivedos (PB);1165
+2510600;Ouro Velho (PB);905
+2510659;Parari (PB);409
+2510709;Passagem (PB);732
+2510808;Patos (PB);32333
+2510907;Paulista (PB);3675
+2511004;Pedra Branca (PB);1323
+2511103;Pedra Lavrada (PB);2424
+2511202;Pedras de Fogo (PB);9610
+2511301;Piancó (PB);4837
+2511400;Picuí (PB);6224
+2511509;Pilar (PB);3942
+2511608;Pilões (PB);2619
+2511707;Pilõezinhos (PB);1864
+2511806;Pirpirituba (PB);3585
+2511905;Pitimbu (PB);6652
+2512002;Pocinhos (PB);6134
+2512036;Poço Dantas (PB);1435
+2512077;Poço de José de Moura (PB);1241
+2512101;Pombal (PB);9578
+2512200;Prata (PB);1240
+2512309;Princesa Isabel (PB);7449
+2512408;Puxinanã (PB);4508
+2512507;Queimadas (PB);14425
+2512606;Quixaba (PB);599
+2512705;Remígio (PB);6159
+2512721;Pedro Régis (PB);2119
+2512747;Riachão (PB);1211
+2512754;Riachão do Bacamarte (PB);1515
+2512762;Riachão do Poço (PB);1460
+2512788;Riacho de Santo Antônio (PB);628
+2512804;Riacho dos Cavalos (PB);2725
+2512903;Rio Tinto (PB);7585
+2513000;Salgadinho (PB);1309
+2513109;Salgado de São Félix (PB);4056
+2513158;Santa Cecília (PB);2611
+2513208;Santa Cruz (PB);1783
+2513307;Santa Helena (PB);1664
+2513356;Santa Inês (PB);1295
+2513406;Santa Luzia (PB);4616
+2513505;Santana de Mangueira (PB);1923
+2513604;Santana dos Garrotes (PB);2365
+2513653;Joca Claudino (PB);833
+2513703;Santa Rita (PB);41188
+2513802;Santa Teresinha (PB);1524
+2513851;Santo André (PB);776
+2513901;São Bento (PB);10388
+2513927;São Bentinho (PB);1323
+2513943;São Domingos do Cariri (PB);788
+2513968;São Domingos (PB);852
+2513984;São Francisco (PB);937
+2514008;São João do Cariri (PB);1340
+2514107;São João do Tigre (PB);1597
+2514206;São José da Lagoa Tapada (PB);2426
+2514305;São José de Caiana (PB);2393
+2514404;São José de Espinharas (PB);1582
+2514453;São José dos Ramos (PB);2017
+2514503;São José de Piranhas (PB);6378
+2514552;São José de Princesa (PB);1551
+2514602;São José do Bonfim (PB);1110
+2514651;São José do Brejo do Cruz (PB);582
+2514701;São José do Sabugi (PB);1250
+2514800;São José dos Cordeiros (PB);1307
+2514909;São Mamede (PB);2264
+2515005;São Miguel de Taipu (PB);2515
+2515104;São Sebastião de Lagoa de Roça (PB);3805
+2515203;São Sebastião do Umbuzeiro (PB);1083
+2515302;Sapé (PB);17147
+2515401;São Vicente do Seridó (PB);3978
+2515500;Serra Branca (PB);3924
+2515609;Serra da Raiz (PB);1104
+2515708;Serra Grande (PB);1050
+2515807;Serra Redonda (PB);2374
+2515906;Serraria (PB);2358
+2515930;Sertãozinho (PB);1481
+2515971;Sobrado (PB);2543
+2516003;Solânea (PB);9086
+2516102;Soledade (PB);4628
+2516151;Sossêgo (PB);1178
+2516201;Sousa (PB);20135
+2516300;Sumé (PB);4816
+2516409;Tacima (PB);3285
+2516508;Taperoá (PB);5220
+2516607;Tavares (PB);5246
+2516706;Teixeira (PB);5183
+2516755;Tenório (PB);1023
+2516805;Triunfo (PB);3167
+2516904;Uiraúna (PB);4402
+2517001;Umbuzeiro (PB);3389
+2517100;Várzea (PB);718
+2517209;Vieirópolis (PB);1521
+2517407;Zabelê (PB);688
+2600054;Abreu e Lima (PE);28788
+2600104;Afogados da Ingazeira (PE);11865
+2600203;Afrânio (PE);6526
+2600302;Agrestina (PE);7937
+2600401;Água Preta (PE);12843
+2600500;Águas Belas (PE);16286
+2600609;Alagoinha (PE);4728
+2600708;Aliança (PE);13168
+2600807;Altinho (PE);7234
+2600906;Amaraji (PE);8165
+2601003;Angelim (PE);3742
+2601052;Araçoiaba (PE);6806
+2601102;Araripina (PE);30355
+2601201;Arcoverde (PE);23796
+2601300;Barra de Guabiraba (PE);4856
+2601409;Barreiros (PE);15316
+2601508;Belém de Maria (PE);4481
+2601607;Belém do São Francisco (PE);7912
+2601706;Belo Jardim (PE);24824
+2601805;Betânia (PE);4399
+2601904;Bezerros (PE);18076
+2602001;Bodocó (PE);13979
+2602100;Bom Conselho (PE);17343
+2602209;Bom Jardim (PE);12902
+2602308;Bonito (PE);14113
+2602407;Brejão (PE);3334
+2602506;Brejinho (PE);2512
+2602605;Brejo da Madre de Deus (PE);17100
+2602704;Buenos Aires (PE);4237
+2602803;Buíque (PE);22399
+2602902;Cabo de Santo Agostinho (PE);60254
+2603009;Cabrobó (PE);11931
+2603108;Cachoeirinha (PE);6232
+2603207;Caetés (PE);10425
+2603306;Calçado (PE);4203
+2603405;Calumbi (PE);2019
+2603454;Camaragibe (PE);43424
+2603504;Camocim de São Félix (PE);5851
+2603603;Camutanga (PE);2831
+2603702;Canhotinho (PE);8797
+2603801;Capoeiras (PE);7395
+2603900;Carnaíba (PE);6636
+2603926;Carnaubeira da Penha (PE);5257
+2604007;Carpina (PE);23530
+2604106;Caruaru (PE);101292
+2604155;Casinhas (PE);5090
+2604205;Catende (PE);14243
+2604304;Cedro (PE);4070
+2604403;Chã de Alegria (PE);4413
+2604502;Chã Grande (PE);6931
+2604601;Condado (PE);8727
+2604700;Correntes (PE);6342
+2604809;Cortês (PE);4766
+2604908;Cumaru (PE);5497
+2605004;Cupira (PE);8119
+2605103;Custódia (PE);11433
+2605152;Dormentes (PE);6216
+2605202;Escada (PE);22173
+2605301;Exu (PE);12182
+2605400;Feira Nova (PE);7105
+2605459;Fernando de Noronha (PE);680
+2605509;Ferreiros (PE);3790
+2605608;Flores (PE);7551
+2605707;Floresta (PE);11363
+2605806;Frei Miguelinho (PE);4312
+2605905;Gameleira (PE);10949
+2606002;Garanhuns (PE);44085
+2606101;Glória do Goitá (PE);10304
+2606200;Goiana (PE);25352
+2606309;Granito (PE);2628
+2606408;Gravatá (PE);24895
+2606507;Iati (PE);7407
+2606606;Ibimirim (PE);10894
+2606705;Ibirajuba (PE);2650
+2606804;Igarassu (PE);33564
+2606903;Iguaracy (PE);3901
+2607000;Inajá (PE);8233
+2607109;Ingazeira (PE);1560
+2607208;Ipojuca (PE);30374
+2607307;Ipubi (PE);11708
+2607406;Itacuruba (PE);1648
+2607505;Itaíba (PE);10440
+2607604;Ilha de Itamaracá (PE);6429
+2607653;Itambé (PE);12748
+2607703;Itapetim (PE);4287
+2607752;Itapissuma (PE);8280
+2607802;Itaquitinga (PE);5719
+2607901;Jaboatão dos Guararapes (PE);198979
+2607950;Jaqueira (PE);4710
+2608008;Jataúba (PE);6054
+2608057;Jatobá (PE);4935
+2608107;João Alfredo (PE);10444
+2608206;Joaquim Nabuco (PE);6170
+2608255;Jucati (PE);3998
+2608305;Jupi (PE);5043
+2608404;Jurema (PE);5697
+2608453;Lagoa do Carro (PE);5421
+2608503;Lagoa de Itaenga (PE);7618
+2608602;Lagoa do Ouro (PE);4608
+2608701;Lagoa dos Gatos (PE);5891
+2608750;Lagoa Grande (PE);9286
+2608800;Lajedo (PE);12623
+2608909;Limoeiro (PE);16714
+2609006;Macaparana (PE);8597
+2609105;Machados (PE);4962
+2609154;Manari (PE);8268
+2609204;Maraial (PE);5195
+2609303;Mirandiba (PE);5651
+2609402;Moreno (PE);18293
+2609501;Nazaré da Mata (PE);9478
+2609600;Olinda (PE);108021
+2609709;Orobó (PE);8111
+2609808;Orocó (PE);5311
+2609907;Ouricuri (PE);25644
+2610004;Palmares (PE);21426
+2610103;Palmeirina (PE);3102
+2610202;Panelas (PE);9955
+2610301;Paranatama (PE);4129
+2610400;Parnamirim (PE);7587
+2610509;Passira (PE);9427
+2610608;Paudalho (PE);18195
+2610707;Paulista (PE);87649
+2610806;Pedra (PE);7821
+2610905;Pesqueira (PE);21805
+2611002;Petrolândia (PE);12368
+2611101;Petrolina (PE);106815
+2611200;Poção (PE);4212
+2611309;Pombos (PE);7900
+2611408;Primavera (PE);5008
+2611507;Quipapá (PE);9739
+2611533;Quixaba (PE);2530
+2611606;Recife (PE);422702
+2611705;Riacho das Almas (PE);6262
+2611804;Ribeirão (PE);15690
+2611903;Rio Formoso (PE);8507
+2612000;Sairé (PE);3727
+2612109;Salgadinho (PE);2905
+2612208;Salgueiro (PE);20039
+2612307;Saloá (PE);5531
+2612406;Sanharó (PE);8258
+2612455;Santa Cruz (PE);5402
+2612471;Santa Cruz da Baixa Verde (PE);4026
+2612505;Santa Cruz do Capibaribe (PE);30474
+2612554;Santa Filomena (PE);5230
+2612604;Santa Maria da Boa Vista (PE);16264
+2612703;Santa Maria do Cambucá (PE);4752
+2612802;Santa Terezinha (PE);3982
+2612901;São Benedito do Sul (PE);4817
+2613008;São Bento do Una (PE);20501
+2613107;São Caitano (PE);12604
+2613206;São João (PE);8053
+2613305;São Joaquim do Monte (PE);7313
+2613404;São José da Coroa Grande (PE);7169
+2613503;São José do Belmonte (PE);11804
+2613602;São José do Egito (PE);10320
+2613701;São Lourenço da Mata (PE);33269
+2613800;São Vicente Férrer (PE);6482
+2613909;Serra Talhada (PE);26894
+2614006;Serrita (PE);7017
+2614105;Sertânia (PE);11340
+2614204;Sirinhaém (PE);15512
+2614303;Moreilândia (PE);4082
+2614402;Solidão (PE);2159
+2614501;Surubim (PE);19176
+2614600;Tabira (PE);9104
+2614709;Tacaimbó (PE);4495
+2614808;Tacaratu (PE);8508
+2614857;Tamandaré (PE);8003
+2615003;Taquaritinga do Norte (PE);8506
+2615102;Terezinha (PE);2511
+2615201;Terra Nova (PE);3352
+2615300;Timbaúba (PE);18247
+2615409;Toritama (PE);13035
+2615508;Tracunhaém (PE);4472
+2615607;Trindade (PE);10571
+2615706;Triunfo (PE);4789
+2615805;Tupanatinga (PE);10465
+2615904;Tuparetama (PE);2439
+2616001;Venturosa (PE);5807
+2616100;Verdejante (PE);3450
+2616183;Vertente do Lério (PE);2758
+2616209;Vertentes (PE);6122
+2616308;Vicência (PE);10854
+2616407;Vitória de Santo Antão (PE);41616
+2616506;Xexéu (PE);5787
+2700102;Água Branca (AL);8041
+2700201;Anadia (AL);6665
+2700300;Arapiraca (AL);76273
+2700409;Atalaia (AL);18552
+2700508;Barra de Santo Antônio (AL);5923
+2700607;Barra de São Miguel (AL);2963
+2700706;Batalha (AL);6599
+2700805;Belém (AL);1642
+2700904;Belo Monte (AL);2901
+2701001;Boca da Mata (AL);10056
+2701100;Branquinha (AL);4571
+2701209;Cacimbinhas (AL);3940
+2701308;Cajueiro (AL);8465
+2701357;Campestre (AL);2830
+2701407;Campo Alegre (AL);20573
+2701506;Campo Grande (AL);3605
+2701605;Canapi (AL);7712
+2701704;Capela (AL);7020
+2701803;Carneiros (AL);3735
+2701902;Chã Preta (AL);3038
+2702009;Coité do Nóia (AL);4234
+2702108;Colônia Leopoldina (AL);8449
+2702207;Coqueiro Seco (AL);2008
+2702306;Coruripe (AL);20577
+2702355;Craíbas (AL);9050
+2702405;Delmiro Gouveia (AL);17797
+2702504;Dois Riachos (AL);4351
+2702553;Estrela de Alagoas (AL);6343
+2702603;Feira Grande (AL);8425
+2702702;Feliz Deserto (AL);1742
+2702801;Flexeiras (AL);5234
+2702900;Girau do Ponciano (AL);14984
+2703007;Ibateguara (AL);6497
+2703106;Igaci (AL);9383
+2703205;Igreja Nova (AL);8817
+2703304;Inhapi (AL);7909
+2703403;Jacaré dos Homens (AL);2236
+2703502;Jacuípe (AL);2990
+2703601;Japaratinga (AL);3279
+2703700;Jaramataia (AL);2128
+2703759;Jequiá da Praia (AL);4965
+2703809;Joaquim Gomes (AL);9941
+2703908;Jundiá (AL);1691
+2704005;Junqueiro (AL);9184
+2704104;Lagoa da Canoa (AL);7119
+2704203;Limoeiro de Anadia (AL);10343
+2704302;Maceió (AL);300941
+2704401;Major Isidoro (AL);7322
+2704500;Maragogi (AL);12127
+2704609;Maravilha (AL);4181
+2704708;Marechal Deodoro (AL);17378
+2704807;Maribondo (AL);4884
+2704906;Mar Vermelho (AL);1321
+2705002;Mata Grande (AL);10882
+2705101;Matriz de Camaragibe (AL);9839
+2705200;Messias (AL);6514
+2705309;Minador do Negrão (AL);1903
+2705408;Monteirópolis (AL);3018
+2705507;Murici (AL);11127
+2705606;Novo Lino (AL);5010
+2705705;Olho d'Água das Flores (AL);8095
+2705804;Olho d'Água do Casado (AL);3693
+2705903;Olho d'Água Grande (AL);2099
+2706000;Olivença (AL);4515
+2706109;Ouro Branco (AL);4436
+2706208;Palestina (AL);2280
+2706307;Palmeira dos Índios (AL);24113
+2706406;Pão de Açúcar (AL);9702
+2706422;Pariconha (AL);4161
+2706448;Paripueira (AL);4482
+2706505;Passo de Camaragibe (AL);6354
+2706604;Paulo Jacinto (AL);2750
+2706703;Penedo (AL);22358
+2706802;Piaçabuçu (AL);6749
+2706901;Pilar (AL);12700
+2707008;Pindoba (AL);1090
+2707107;Piranhas (AL);10126
+2707206;Poço das Trincheiras (AL);6132
+2707305;Porto Calvo (AL);10734
+2707404;Porto de Pedras (AL);3304
+2707503;Porto Real do Colégio (AL);7460
+2707602;Quebrangulo (AL);4350
+2707701;Rio Largo (AL);25328
+2707800;Roteiro (AL);3003
+2707909;Santa Luzia do Norte (AL);2648
+2708006;Santana do Ipanema (AL);18168
+2708105;Santana do Mundaú (AL);4437
+2708204;São Brás (AL);2638
+2708303;São José da Laje (AL);9393
+2708402;São José da Tapera (AL);13950
+2708501;São Luís do Quitunde (AL);14258
+2708600;São Miguel dos Campos (AL);20683
+2708709;São Miguel dos Milagres (AL);2719
+2708808;São Sebastião (AL);13024
+2708907;Satuba (AL);5082
+2708956;Senador Rui Palmeira (AL);6032
+2709004;Tanque d'Arca (AL);2251
+2709103;Taquarana (AL);7242
+2709152;Teotônio Vilela (AL);17725
+2709202;Traipu (AL);11068
+2709301;União dos Palmares (AL);24748
+2709400;Viçosa (AL);9829
+2800100;Amparo do São Francisco (SE);836
+2800209;Aquidabã (SE);7211
+2800308;Aracaju (SE);167060
+2800407;Arauá (SE);4142
+2800506;Areia Branca (SE);6366
+2800605;Barra dos Coqueiros (SE);8837
+2800670;Boquim (SE);9169
+2800704;Brejo Grande (SE);3364
+2801009;Campo do Brito (SE);5857
+2801108;Canhoba (SE);1559
+2801207;Canindé de São Francisco (SE);10822
+2801306;Capela (SE);11743
+2801405;Carira (SE);7192
+2801504;Carmópolis (SE);5288
+2801603;Cedro de São João (SE);1844
+2801702;Cristinápolis (SE);6893
+2801900;Cumbe (SE);1315
+2802007;Divina Pastora (SE);1688
+2802106;Estância (SE);23098
+2802205;Feira Nova (SE);2051
+2802304;Frei Paulo (SE);4881
+2802403;Gararu (SE);4272
+2802502;General Maynard (SE);1044
+2802601;Gracho Cardoso (SE);1951
+2802700;Ilha das Flores (SE);3425
+2802809;Indiaroba (SE);6888
+2802908;Itabaiana (SE);29949
+2803005;Itabaianinha (SE);15360
+2803104;Itabi (SE);1694
+2803203;Itaporanga d'Ajuda (SE);11697
+2803302;Japaratuba (SE);6169
+2803401;Japoatã (SE);4999
+2803500;Lagarto (SE);33311
+2803609;Laranjeiras (SE);10129
+2803708;Macambira (SE);2211
+2803807;Malhada dos Bois (SE);1326
+2803906;Malhador (SE);4328
+2804003;Maruim (SE);6117
+2804102;Moita Bonita (SE);3491
+2804201;Monte Alegre de Sergipe (SE);5529
+2804300;Muribeca (SE);2667
+2804409;Neópolis (SE);6876
+2804458;Nossa Senhora Aparecida (SE);2850
+2804508;Nossa Senhora da Glória (SE);11694
+2804607;Nossa Senhora das Dores (SE);8895
+2804706;Nossa Senhora de Lourdes (SE);2294
+2804805;Nossa Senhora do Socorro (SE);59606
+2804904;Pacatuba (SE);5294
+2805000;Pedra Mole (SE);962
+2805109;Pedrinhas (SE);3465
+2805208;Pinhão (SE);2038
+2805307;Pirambu (SE);3296
+2805406;Poço Redondo (SE);13422
+2805505;Poço Verde (SE);7786
+2805604;Porto da Folha (SE);10641
+2805703;Propriá (SE);9932
+2805802;Riachão do Dantas (SE);7431
+2805901;Riachuelo (SE);3617
+2806008;Ribeirópolis (SE);5567
+2806107;Rosário do Catete (SE);3495
+2806206;Salgado (SE);7157
+2806305;Santa Luzia do Itanhy (SE);5702
+2806404;Santana do São Francisco (SE);2748
+2806503;Santa Rosa de Lima (SE);1458
+2806602;Santo Amaro das Brotas (SE);4188
+2806701;São Cristóvão (SE);27970
+2806800;São Domingos (SE);3719
+2806909;São Francisco (SE);1215
+2807006;São Miguel do Aleixo (SE);1361
+2807105;Simão Dias (SE);13460
+2807204;Siriri (SE);3107
+2807303;Telha (SE);1080
+2807402;Tobias Barreto (SE);17091
+2807501;Tomar do Geru (SE);5035
+2807600;Umbaúba (SE);8703
+2900108;Abaíra (BA);2130
+2900207;Abaré (BA);6776
+2900306;Acajutiba (BA);5622
+2900355;Adustina (BA);5566
+2900405;Água Fria (BA);5623
+2900504;Érico Cardoso (BA);3389
+2900603;Aiquara (BA);1560
+2900702;Alagoinhas (BA);43680
+2900801;Alcobaça (BA);8137
+2900900;Almadina (BA);2127
+2901007;Amargosa (BA);11490
+2901106;Amélia Rodrigues (BA);8508
+2901155;América Dourada (BA);6378
+2901205;Anagé (BA);8452
+2901304;Andaraí (BA);5663
+2901353;Andorinha (BA);4798
+2901403;Angical (BA);4928
+2901502;Anguera (BA);3131
+2901601;Antas (BA);5020
+2901700;Antônio Cardoso (BA);4129
+2901809;Antônio Gonçalves (BA);3941
+2901908;Aporá (BA);6602
+2901957;Apuarema (BA);2770
+2902005;Aracatu (BA);4365
+2902054;Araçás (BA);4534
+2902104;Araci (BA);21283
+2902203;Aramari (BA);3359
+2902252;Arataca (BA);4296
+2902302;Aratuípe (BA);3201
+2902401;Aurelino Leal (BA);5153
+2902500;Baianópolis (BA);4996
+2902609;Baixa Grande (BA);7500
+2902658;Banzaê (BA);4373
+2902708;Barra (BA);21813
+2902807;Barra da Estiva (BA);7602
+2902906;Barra do Choça (BA);12855
+2903003;Barra do Mendes (BA);4912
+2903102;Barra do Rocha (BA);2195
+2903201;Barreiras (BA);47988
+2903235;Barro Alto (BA);4899
+2903276;Barrocas (BA);4960
+2903300;Barro Preto (BA);2172
+2903409;Belmonte (BA);8413
+2903508;Belo Campo (BA);5514
+2903607;Biritinga (BA);5352
+2903706;Boa Nova (BA);5583
+2903805;Boa Vista do Tupim (BA);7205
+2903904;Bom Jesus da Lapa (BA);24080
+2903953;Bom Jesus da Serra (BA);3595
+2904001;Boninal (BA);4914
+2904050;Bonito (BA);6368
+2904100;Boquira (BA);7793
+2904209;Botuporã (BA);3910
+2904308;Brejões (BA);4898
+2904407;Brejolândia (BA);3580
+2904506;Brotas de Macaúbas (BA);3696
+2904605;Brumado (BA);19568
+2904704;Buerarema (BA);6252
+2904753;Buritirama (BA);8209
+2904803;Caatiba (BA);3841
+2904852;Cabaceiras do Paraguaçu (BA);7045
+2904902;Cachoeira (BA);10699
+2905008;Caculé (BA);6786
+2905107;Caém (BA);4056
+2905156;Caetanos (BA);4354
+2905206;Caetité (BA);15329
+2905305;Cafarnaum (BA);6689
+2905404;Cairu (BA);5532
+2905503;Caldeirão Grande (BA);4784
+2905602;Camacan (BA);11946
+2905701;Camaçari (BA);80269
+2905800;Camamu (BA);15006
+2905909;Campo Alegre de Lourdes (BA);11053
+2906006;Campo Formoso (BA);25138
+2906105;Canápolis (BA);3558
+2906204;Canarana (BA);9085
+2906303;Canavieiras (BA);11432
+2906402;Candeal (BA);2954
+2906501;Candeias (BA);26543
+2906600;Candiba (BA);3937
+2906709;Cândido Sales (BA);9860
+2906808;Cansanção (BA);12684
+2906824;Canudos (BA);5960
+2906857;Capela do Alto Alegre (BA);3617
+2906873;Capim Grosso (BA);9270
+2906899;Caraíbas (BA);3242
+2906907;Caravelas (BA);7930
+2907004;Cardeal da Silva (BA);3809
+2907103;Carinhanha (BA);11557
+2907202;Casa Nova (BA);24372
+2907301;Castro Alves (BA);8745
+2907400;Catolândia (BA);875
+2907509;Catu (BA);15478
+2907558;Caturama (BA);2684
+2907608;Central (BA);6165
+2907707;Chorrochó (BA);4109
+2907806;Cícero Dantas (BA);10227
+2907905;Cipó (BA);5780
+2908002;Coaraci (BA);6923
+2908101;Cocos (BA);6533
+2908200;Conceição da Feira (BA);6864
+2908309;Conceição do Almeida (BA);5383
+2908408;Conceição do Coité (BA);21218
+2908507;Conceição do Jacuípe (BA);9518
+2908606;Conde (BA);10075
+2908705;Condeúba (BA);5672
+2908804;Contendas do Sincorá (BA);1514
+2908903;Coração de Maria (BA);7849
+2909000;Cordeiros (BA);2632
+2909109;Coribe (BA);4867
+2909208;Coronel João Sá (BA);6598
+2909307;Correntina (BA);11210
+2909406;Cotegipe (BA);5162
+2909505;Cravolândia (BA);1800
+2909604;Crisópolis (BA);7508
+2909703;Cristópolis (BA);4693
+2909802;Cruz das Almas (BA);17863
+2909901;Curaçá (BA);12213
+2910008;Dário Meira (BA);4891
+2910057;Dias d'Ávila (BA);23295
+2910107;Dom Basílio (BA);3465
+2910206;Dom Macedo Costa (BA);1180
+2910305;Elísio Medrado (BA);2398
+2910404;Encruzilhada (BA);8975
+2910503;Entre Rios (BA);15369
+2910602;Esplanada (BA);13185
+2910701;Euclides da Cunha (BA);19891
+2910727;Eunápolis (BA);35089
+2910750;Fátima (BA);6086
+2910776;Feira da Mata (BA);2105
+2910800;Feira de Santana (BA);174993
+2910859;Filadélfia (BA);5921
+2910909;Firmino Alves (BA);1856
+2911006;Floresta Azul (BA);3604
+2911105;Formosa do Rio Preto (BA);8995
+2911204;Gandu (BA);10641
+2911253;Gavião (BA);1418
+2911303;Gentio do Ouro (BA);3741
+2911402;Glória (BA);5030
+2911501;Gongogi (BA);2937
+2911600;Governador Mangabeira (BA);6725
+2911659;Guajeru (BA);3328
+2911709;Guanambi (BA);24245
+2911808;Guaratinga (BA);8007
+2911857;Heliópolis (BA);4726
+2911907;Iaçu (BA);9749
+2912004;Ibiassucê (BA);2836
+2912103;Ibicaraí (BA);8083
+2912202;Ibicoara (BA);6737
+2912301;Ibicuí (BA);5306
+2912400;Ibipeba (BA);5773
+2912509;Ibipitanga (BA);4752
+2912608;Ibiquera (BA);1823
+2912707;Ibirapitanga (BA);9457
+2912806;Ibirapuã (BA);2659
+2912905;Ibirataia (BA);6406
+2913002;Ibitiara (BA);5067
+2913101;Ibititá (BA);6217
+2913200;Ibotirama (BA);9223
+2913309;Ichu (BA);1680
+2913408;Igaporã (BA);4789
+2913457;Igrapiúna (BA);5636
+2913507;Iguaí (BA);8936
+2913606;Ilhéus (BA);59943
+2913705;Inhambupe (BA);13895
+2913804;Ipecaetá (BA);5278
+2913903;Ipiaú (BA);14505
+2914000;Ipirá (BA);21056
+2914109;Ipupiara (BA);2892
+2914208;Irajuba (BA);2523
+2914307;Iramaia (BA);4433
+2914406;Iraquara (BA);8737
+2914505;Irará (BA);9798
+2914604;Irecê (BA);22733
+2914653;Itabela (BA);11288
+2914703;Itaberaba (BA);21150
+2914802;Itabuna (BA);60963
+2914901;Itacaré (BA);9684
+2915007;Itaeté (BA);5973
+2915106;Itagi (BA);4825
+2915205;Itagibá (BA);5108
+2915304;Itagimirim (BA);2505
+2915353;Itaguaçu da Bahia (BA);5279
+2915403;Itaju do Colônia (BA);2797
+2915502;Itajuípe (BA);7068
+2915601;Itamaraju (BA);22577
+2915700;Itamari (BA);2873
+2915809;Itambé (BA);8235
+2915908;Itanagra (BA);3104
+2916005;Itanhém (BA);6534
+2916104;Itaparica (BA);7015
+2916203;Itapé (BA);3735
+2916302;Itapebi (BA);4134
+2916401;Itapetinga (BA);22011
+2916500;Itapicuru (BA);13078
+2916609;Itapitanga (BA);3504
+2916708;Itaquara (BA);2599
+2916807;Itarantim (BA);6093
+2916856;Itatim (BA);5312
+2916906;Itiruçu (BA);4200
+2917003;Itiúba (BA);13811
+2917102;Itororó (BA);6546
+2917201;Ituaçu (BA);6021
+2917300;Ituberá (BA);10111
+2917334;Iuiu (BA);4156
+2917359;Jaborandi (BA);2946
+2917409;Jacaraci (BA);3913
+2917508;Jacobina (BA);26467
+2917607;Jaguaquara (BA);18626
+2917706;Jaguarari (BA);9986
+2917805;Jaguaripe (BA);6208
+2917904;Jandaíra (BA);4297
+2918001;Jequié (BA);48076
+2918100;Jeremoabo (BA);14098
+2918209;Jiquiriçá (BA);4834
+2918308;Jitaúna (BA);4913
+2918357;João Dourado (BA);8655
+2918407;Juazeiro (BA);70993
+2918456;Jucuruçu (BA);3801
+2918506;Jussara (BA);5740
+2918555;Jussari (BA);2330
+2918605;Jussiape (BA);2104
+2918704;Lafaiete Coutinho (BA);1104
+2918753;Lagoa Real (BA);4822
+2918803;Laje (BA);7889
+2918902;Lajedão (BA);1172
+2919009;Lajedinho (BA);1433
+2919058;Lajedo do Tabocal (BA);2918
+2919108;Lamarão (BA);3536
+2919157;Lapão (BA);9452
+2919207;Lauro de Freitas (BA);50256
+2919306;Lençóis (BA);3944
+2919405;Licínio de Almeida (BA);3897
+2919504;Livramento de Nossa Senhora (BA);13375
+2919553;Luís Eduardo Magalhães (BA);22184
+2919603;Macajuba (BA);4380
+2919702;Macarani (BA);5881
+2919801;Macaúbas (BA);16233
+2919900;Macururé (BA);2923
+2919926;Madre de Deus (BA);5410
+2919959;Maetinga (BA);2278
+2920007;Maiquinique (BA);3015
+2920106;Mairi (BA);6782
+2920205;Malhada (BA);6598
+2920304;Malhada de Pedras (BA);2725
+2920403;Manoel Vitorino (BA);5168
+2920452;Mansidão (BA);4924
+2920502;Maracás (BA);8369
+2920601;Maragogipe (BA);14059
+2920700;Maraú (BA);7546
+2920809;Marcionílio Souza (BA);4146
+2920908;Mascote (BA);5673
+2921005;Mata de São João (BA);13639
+2921054;Matina (BA);4120
+2921104;Medeiros Neto (BA);7071
+2921203;Miguel Calmon (BA);9129
+2921302;Milagres (BA);3617
+2921401;Mirangaba (BA);6131
+2921450;Mirante (BA);3585
+2921500;Monte Santo (BA);19465
+2921609;Morpará (BA);2943
+2921708;Morro do Chapéu (BA);13613
+2921807;Mortugaba (BA);3825
+2921906;Mucugê (BA);3686
+2922003;Mucuri (BA);13754
+2922052;Mulungu do Morro (BA);4991
+2922102;Mundo Novo (BA);9162
+2922201;Muniz Ferreira (BA);2203
+2922250;Muquém do São Francisco (BA);4433
+2922300;Muritiba (BA);9357
+2922409;Mutuípe (BA);6923
+2922508;Nazaré (BA);8889
+2922607;Nilo Peçanha (BA);4667
+2922656;Nordestina (BA);4700
+2922706;Nova Canaã (BA);5736
+2922730;Nova Fátima (BA);2363
+2922755;Nova Ibiá (BA);2352
+2922805;Nova Itarana (BA);2996
+2922854;Nova Redenção (BA);2766
+2922904;Nova Soure (BA);9200
+2923001;Nova Viçosa (BA);14813
+2923035;Novo Horizonte (BA);3409
+2923050;Novo Triunfo (BA);5321
+2923100;Olindina (BA);9229
+2923209;Oliveira dos Brejinhos (BA);7940
+2923308;Ouriçangas (BA);2742
+2923357;Ourolândia (BA);6377
+2923407;Palmas de Monte Alto (BA);6941
+2923506;Palmeiras (BA);3089
+2923605;Paramirim (BA);6068
+2923704;Paratinga (BA);11524
+2923803;Paripiranga (BA);9582
+2923902;Pau Brasil (BA);4329
+2924009;Paulo Afonso (BA);36142
+2924058;Pé de Serra (BA);4797
+2924108;Pedrão (BA);2424
+2924207;Pedro Alexandre (BA);6945
+2924306;Piatã (BA);6281
+2924405;Pilão Arcado (BA);13498
+2924504;Pindaí (BA);4959
+2924603;Pindobaçu (BA);7325
+2924652;Pintadas (BA);3526
+2924678;Piraí do Norte (BA);3788
+2924702;Piripá (BA);3610
+2924801;Piritiba (BA);7958
+2924900;Planaltino (BA);2904
+2925006;Planalto (BA);8623
+2925105;Poções (BA);15969
+2925204;Pojuca (BA);10664
+2925253;Ponto Novo (BA);5994
+2925303;Porto Seguro (BA);48529
+2925402;Potiraguá (BA);3552
+2925501;Prado (BA);10892
+2925600;Presidente Dutra (BA);4598
+2925709;Presidente Jânio Quadros (BA);4452
+2925758;Presidente Tancredo Neves (BA);9143
+2925808;Queimadas (BA);8980
+2925907;Quijingue (BA);10207
+2925931;Quixabeira (BA);3226
+2925956;Rafael Jambeiro (BA);8565
+2926004;Remanso (BA);13938
+2926103;Retirolândia (BA);3861
+2926202;Riachão das Neves (BA);8128
+2926301;Riachão do Jacuípe (BA);10469
+2926400;Riacho de Santana (BA);10399
+2926509;Ribeira do Amparo (BA);5601
+2926608;Ribeira do Pombal (BA);16687
+2926657;Ribeirão do Largo (BA);3312
+2926707;Rio de Contas (BA);3655
+2926806;Rio do Antônio (BA);4891
+2926905;Rio do Pires (BA);3671
+2927002;Rio Real (BA);14223
+2927101;Rodelas (BA);2998
+2927200;Ruy Barbosa (BA);10792
+2927309;Salinas da Margarida (BA);4705
+2927408;Salvador (BA);727312
+2927507;Santa Bárbara (BA);6739
+2927606;Santa Brígida (BA);5838
+2927705;Santa Cruz Cabrália (BA);10350
+2927804;Santa Cruz da Vitória (BA);2121
+2927903;Santa Inês (BA);3413
+2928000;Santaluz (BA);11949
+2928059;Santa Luzia (BA);5027
+2928109;Santa Maria da Vitória (BA);14378
+2928208;Santana (BA);8561
+2928307;Santanópolis (BA);3099
+2928406;Santa Rita de Cássia (BA);9869
+2928505;Santa Terezinha (BA);3316
+2928604;Santo Amaro (BA);18135
+2928703;Santo Antônio de Jesus (BA);27746
+2928802;Santo Estêvão (BA);17210
+2928901;São Desidério (BA);10754
+2928950;São Domingos (BA);2752
+2929008;São Félix (BA);4266
+2929057;São Félix do Coribe (BA);4860
+2929107;São Felipe (BA);6317
+2929206;São Francisco do Conde (BA);11692
+2929255;São Gabriel (BA);6777
+2929305;São Gonçalo dos Campos (BA);11004
+2929354;São José da Vitória (BA);2182
+2929370;São José do Jacuípe (BA);3641
+2929404;São Miguel das Matas (BA);3567
+2929503;São Sebastião do Passé (BA);13488
+2929602;Sapeaçu (BA);5412
+2929701;Sátiro Dias (BA);7206
+2929750;Saubara (BA);3473
+2929800;Saúde (BA);3976
+2929909;Seabra (BA);15416
+2930006;Sebastião Laranjeiras (BA);3534
+2930105;Senhor do Bonfim (BA);24770
+2930154;Serra do Ramalho (BA);12935
+2930204;Sento Sé (BA);15314
+2930303;Serra Dourada (BA);6169
+2930402;Serra Preta (BA);5235
+2930501;Serrinha (BA);26201
+2930600;Serrolândia (BA);3986
+2930709;Simões Filho (BA);41139
+2930758;Sítio do Mato (BA);5046
+2930766;Sítio do Quinto (BA);4576
+2930774;Sobradinho (BA);8066
+2930808;Souto Soares (BA);6327
+2930907;Tabocas do Brejo Velho (BA);4082
+2931004;Tanhaçu (BA);6288
+2931053;Tanque Novo (BA);5641
+2931103;Tanquinho (BA);2561
+2931202;Taperoá (BA);7462
+2931301;Tapiramutá (BA);6637
+2931350;Teixeira de Freitas (BA);47560
+2931400;Teodoro Sampaio (BA);2573
+2931509;Teofilândia (BA);8376
+2931608;Teolândia (BA);5709
+2931707;Terra Nova (BA);4476
+2931806;Tremedal (BA);5346
+2931905;Tucano (BA);18828
+2932002;Uauá (BA);8311
+2932101;Ubaíra (BA);6684
+2932200;Ubaitaba (BA);7425
+2932309;Ubatã (BA);8997
+2932408;Uibaí (BA);4266
+2932457;Umburanas (BA);6288
+2932507;Una (BA);8951
+2932606;Urandi (BA);5425
+2932705;Uruçuca (BA);7054
+2932804;Utinga (BA);7392
+2932903;Valença (BA);31176
+2933000;Valente (BA);7432
+2933059;Várzea da Roça (BA);4825
+2933109;Várzea do Poço (BA);2663
+2933158;Várzea Nova (BA);4742
+2933174;Varzedo (BA);2919
+2933208;Vera Cruz (BA);12663
+2933257;Vereda (BA);2378
+2933307;Vitória da Conquista (BA);99106
+2933406;Wagner (BA);3352
+2933455;Wanderley (BA);4626
+2933505;Wenceslau Guimarães (BA);8873
+2933604;Xique-Xique (BA);18459
+3100104;Abadia dos Dourados (MG);1774
+3100203;Abaeté (MG);6288
+3100302;Abre Campo (MG);4060
+3100401;Acaiaca (MG);1225
+3100500;Açucena (MG);3438
+3100609;Água Boa (MG);6048
+3100708;Água Comprida (MG);539
+3100807;Aguanil (MG);1121
+3100906;Águas Formosas (MG);6507
+3101003;Águas Vermelhas (MG);4626
+3101102;Aimorés (MG);7283
+3101201;Aiuruoca (MG);1641
+3101300;Alagoa (MG);762
+3101409;Albertina (MG);849
+3101508;Além Paraíba (MG);9555
+3101607;Alfenas (MG);20807
+3101631;Alfredo Vasconcelos (MG);1880
+3101706;Almenara (MG);12298
+3101805;Alpercata (MG);2370
+3101904;Alpinópolis (MG);5503
+3102001;Alterosa (MG);3870
+3102050;Alto Caparaó (MG);1642
+3102100;Alto Rio Doce (MG);3554
+3102209;Alvarenga (MG);1372
+3102308;Alvinópolis (MG);4447
+3102407;Alvorada de Minas (MG);1453
+3102506;Amparo do Serra (MG);1554
+3102605;Andradas (MG);9627
+3102704;Cachoeira de Pajeú (MG);3173
+3102803;Andrelândia (MG);3260
+3102852;Angelândia (MG);3386
+3102902;Antônio Carlos (MG);3174
+3103009;Antônio Dias (MG);3203
+3103108;Antônio Prado de Minas (MG);408
+3103207;Araçaí (MG);686
+3103306;Aracitaba (MG);530
+3103405;Araçuaí (MG);12240
+3103504;Araguari (MG);29430
+3103603;Arantina (MG);812
+3103702;Araponga (MG);2726
+3103751;Araporã (MG);1962
+3103801;Arapuá (MG);702
+3103900;Araújos (MG);2372
+3104007;Araxá (MG);25362
+3104106;Arceburgo (MG);2681
+3104205;Arcos (MG);9566
+3104304;Areado (MG);3817
+3104403;Argirita (MG);753
+3104452;Aricanduva (MG);1848
+3104502;Arinos (MG);6545
+3104601;Astolfo Dutra (MG);3425
+3104700;Ataléia (MG);4912
+3104809;Augusto de Lima (MG);1662
+3104908;Baependi (MG);5106
+3105004;Baldim (MG);2415
+3105103;Bambuí (MG);5617
+3105202;Bandeira (MG);1534
+3105301;Bandeira do Sul (MG);1558
+3105400;Barão de Cocais (MG);8703
+3105509;Barão de Monte Alto (MG);1659
+3105608;Barbacena (MG);34126
+3105707;Barra Longa (MG);1657
+3105905;Barroso (MG);5726
+3106002;Bela Vista de Minas (MG);3103
+3106101;Belmiro Braga (MG);1009
+3106200;Belo Horizonte (MG);593679
+3106309;Belo Oriente (MG);7869
+3106408;Belo Vale (MG);2040
+3106507;Berilo (MG);4452
+3106606;Bertópolis (MG);1675
+3106655;Berizal (MG);1508
+3106705;Betim (MG);122095
+3106804;Bias Fortes (MG);1050
+3106903;Bicas (MG);3587
+3107000;Biquinhas (MG);639
+3107109;Boa Esperança (MG);11752
+3107208;Bocaina de Minas (MG);1349
+3107307;Bocaiúva (MG);15687
+3107406;Bom Despacho (MG);13154
+3107505;Bom Jardim de Minas (MG);1821
+3107604;Bom Jesus da Penha (MG);1072
+3107703;Bom Jesus do Amparo (MG);1694
+3107802;Bom Jesus do Galho (MG);4636
+3107901;Bom Repouso (MG);3117
+3108008;Bom Sucesso (MG);4861
+3108107;Bonfim (MG);1635
+3108206;Bonfinópolis de Minas (MG);1868
+3108255;Bonito de Minas (MG);4014
+3108305;Borda da Mata (MG);4357
+3108404;Botelhos (MG);4142
+3108503;Botumirim (MG);2617
+3108552;Brasilândia de Minas (MG);5400
+3108602;Brasília de Minas (MG);10629
+3108701;Brás Pires (MG);1462
+3108800;Braúnas (MG);1520
+3108909;Brazópolis (MG);4212
+3109006;Brumadinho (MG);9842
+3109105;Bueno Brandão (MG);2844
+3109204;Buenópolis (MG);3247
+3109253;Bugre (MG);1279
+3109303;Buritis (MG);8385
+3109402;Buritizeiro (MG);9948
+3109451;Cabeceira Grande (MG);2261
+3109501;Cabo Verde (MG);3857
+3109600;Cachoeira da Prata (MG);929
+3109709;Cachoeira de Minas (MG);3139
+3109808;Cachoeira Dourada (MG);758
+3109907;Caetanópolis (MG);2855
+3110004;Caeté (MG);11743
+3110103;Caiana (MG);1598
+3110202;Cajuri (MG);1152
+3110301;Caldas (MG);3494
+3110400;Camacho (MG);841
+3110509;Camanducaia (MG);6248
+3110608;Cambuí (MG);6838
+3110707;Cambuquira (MG);3638
+3110806;Campanário (MG);1269
+3110905;Campanha (MG);4697
+3111002;Campestre (MG);5866
+3111101;Campina Verde (MG);4996
+3111150;Campo Azul (MG);1339
+3111200;Campo Belo (MG);13511
+3111309;Campo do Meio (MG);3384
+3111408;Campo Florido (MG);2260
+3111507;Campos Altos (MG);4526
+3111606;Campos Gerais (MG);8681
+3111705;Canaã (MG);1258
+3111804;Canápolis (MG);3156
+3111903;Cana Verde (MG);1489
+3112000;Candeias (MG);3587
+3112059;Cantagalo (MG);1475
+3112109;Caparaó (MG);1804
+3112208;Capela Nova (MG);1252
+3112307;Capelinha (MG);13161
+3112406;Capetinga (MG);2110
+3112505;Capim Branco (MG);2657
+3112604;Capinópolis (MG);4403
+3112653;Capitão Andrade (MG);1623
+3112703;Capitão Enéas (MG);5560
+3112802;Capitólio (MG);2176
+3112901;Caputira (MG);3009
+3113008;Caraí (MG);8777
+3113107;Caranaíba (MG);987
+3113206;Carandaí (MG);6855
+3113305;Carangola (MG);9062
+3113404;Caratinga (MG);25805
+3113503;Carbonita (MG);3176
+3113602;Careaçu (MG);1883
+3113701;Carlos Chagas (MG);6077
+3113800;Carmésia (MG);812
+3113909;Carmo da Cachoeira (MG);3926
+3114006;Carmo da Mata (MG);3074
+3114105;Carmo de Minas (MG);4523
+3114204;Carmo do Cajuru (MG);5977
+3114303;Carmo do Paranaíba (MG);8299
+3114402;Carmo do Rio Claro (MG);5726
+3114501;Carmópolis de Minas (MG);4934
+3114550;Carneirinho (MG);2596
+3114600;Carrancas (MG);1175
+3114709;Carvalhópolis (MG);934
+3114808;Carvalhos (MG);1171
+3114907;Casa Grande (MG);633
+3115003;Cascalho Rico (MG);765
+3115102;Cássia (MG);5059
+3115201;Conceição da Barra de Minas (MG);1134
+3115300;Cataguases (MG);18051
+3115359;Catas Altas (MG);1546
+3115409;Catas Altas da Noruega (MG);1107
+3115458;Catuji (MG);2692
+3115474;Catuti (MG);1844
+3115508;Caxambu (MG);6019
+3115607;Cedro do Abaeté (MG);347
+3115706;Central de Minas (MG);1951
+3115805;Centralina (MG);2828
+3115904;Chácara (MG);783
+3116001;Chalé (MG);1657
+3116100;Chapada do Norte (MG);6024
+3116159;Chapada Gaúcha (MG);4425
+3116209;Chiador (MG);804
+3116308;Cipotânea (MG);1943
+3116407;Claraval (MG);1425
+3116506;Claro dos Poções (MG);2438
+3116605;Cláudio (MG);7719
+3116704;Coimbra (MG);1989
+3116803;Coluna (MG);3222
+3116902;Comendador Gomes (MG);853
+3117009;Comercinho (MG);2899
+3117108;Conceição da Aparecida (MG);2869
+3117207;Conceição das Pedras (MG);714
+3117306;Conceição das Alagoas (MG);7225
+3117405;Conceição de Ipanema (MG);1233
+3117504;Conceição do Mato Dentro (MG);6345
+3117603;Conceição do Pará (MG);1465
+3117702;Conceição do Rio Verde (MG);4134
+3117801;Conceição dos Ouros (MG);3191
+3117836;Cônego Marinho (MG);2669
+3117876;Confins (MG);1795
+3117900;Congonhal (MG);2677
+3118007;Congonhas (MG);14355
+3118106;Congonhas do Norte (MG);1784
+3118205;Conquista (MG);1862
+3118304;Conselheiro Lafaiete (MG);31769
+3118403;Conselheiro Pena (MG);7014
+3118502;Consolação (MG);489
+3118601;Contagem (MG);169750
+3118700;Coqueiral (MG);2831
+3118809;Coração de Jesus (MG);8975
+3118908;Cordisburgo (MG);2369
+3119005;Cordislândia (MG);1108
+3119104;Corinto (MG);7411
+3119203;Coroaci (MG);3341
+3119302;Coromandel (MG);7556
+3119401;Coronel Fabriciano (MG);30315
+3119500;Coronel Murta (MG);3046
+3119609;Coronel Pacheco (MG);765
+3119708;Coronel Xavier Chaves (MG);918
+3119807;Córrego Danta (MG);875
+3119906;Córrego do Bom Jesus (MG);871
+3119955;Córrego Fundo (MG);1548
+3120003;Córrego Novo (MG);976
+3120102;Couto de Magalhães de Minas (MG);1432
+3120151;Crisólita (MG);2276
+3120201;Cristais (MG);3172
+3120300;Cristália (MG);2549
+3120409;Cristiano Otoni (MG);1581
+3120508;Cristina (MG);2881
+3120607;Crucilândia (MG);1279
+3120706;Cruzeiro da Fortaleza (MG);1293
+3120805;Cruzília (MG);4343
+3120839;Cuparaque (MG);1528
+3120870;Curral de Dentro (MG);2615
+3120904;Curvelo (MG);22544
+3121001;Datas (MG);1859
+3121100;Delfim Moreira (MG);2388
+3121209;Delfinópolis (MG);2062
+3121258;Delta (MG);2650
+3121308;Descoberto (MG);1305
+3121407;Desterro de Entre Rios (MG);1851
+3121506;Desterro do Melo (MG);793
+3121605;Diamantina (MG);14910
+3121704;Diogo de Vasconcelos (MG);1225
+3121803;Dionísio (MG);2471
+3121902;Divinésia (MG);1030
+3122009;Divino (MG);6293
+3122108;Divino das Laranjeiras (MG);1534
+3122207;Divinolândia de Minas (MG);2497
+3122306;Divinópolis (MG);56571
+3122355;Divisa Alegre (MG);2283
+3122405;Divisa Nova (MG);1868
+3122454;Divisópolis (MG);3026
+3122470;Dom Bosco (MG);1281
+3122504;Dom Cavati (MG);1512
+3122603;Dom Joaquim (MG);1508
+3122702;Dom Silvério (MG);1302
+3122801;Dom Viçoso (MG);810
+3122900;Dona Euzébia (MG);1765
+3123007;Dores de Campos (MG);2526
+3123106;Dores de Guanhães (MG);1722
+3123205;Dores do Indaiá (MG);3709
+3123304;Dores do Turvo (MG);1348
+3123403;Doresópolis (MG);413
+3123502;Douradoquara (MG);474
+3123528;Durandé (MG);2643
+3123601;Elói Mendes (MG);7623
+3123700;Engenheiro Caldas (MG);3522
+3123809;Engenheiro Navarro (MG);2409
+3123858;Entre Folhas (MG);1567
+3123908;Entre Rios de Minas (MG);3952
+3124005;Ervália (MG);5394
+3124104;Esmeraldas (MG);21115
+3124203;Espera Feliz (MG);7136
+3124302;Espinosa (MG);10398
+3124401;Espírito Santo do Dourado (MG);1143
+3124500;Estiva (MG);2892
+3124609;Estrela Dalva (MG);698
+3124708;Estrela do Indaiá (MG);940
+3124807;Estrela do Sul (MG);2150
+3124906;Eugenópolis (MG);2736
+3125002;Ewbank da Câmara (MG);1196
+3125101;Extrema (MG);8157
+3125200;Fama (MG);589
+3125309;Faria Lemos (MG);1030
+3125408;Felício dos Santos (MG);1915
+3125507;São Gonçalo do Rio Preto (MG);1043
+3125606;Felisburgo (MG);2492
+3125705;Felixlândia (MG);4338
+3125804;Fernandes Tourinho (MG);971
+3125903;Ferros (MG);3315
+3125952;Fervedouro (MG);3533
+3126000;Florestal (MG);1923
+3126109;Formiga (MG);16623
+3126208;Formoso (MG);3039
+3126307;Fortaleza de Minas (MG);1199
+3126406;Fortuna de Minas (MG);827
+3126505;Francisco Badaró (MG);3105
+3126604;Francisco Dumont (MG);1737
+3126703;Francisco Sá (MG);8482
+3126752;Franciscópolis (MG);2110
+3126802;Frei Gaspar (MG);2116
+3126901;Frei Inocêncio (MG);3114
+3126950;Frei Lagonegro (MG);1205
+3127008;Fronteira (MG);4340
+3127057;Fronteira dos Vales (MG);1641
+3127073;Fruta de Leite (MG);2421
+3127107;Frutal (MG);14501
+3127206;Funilândia (MG);1272
+3127305;Galiléia (MG);2247
+3127339;Gameleiras (MG);1776
+3127354;Glaucilândia (MG);947
+3127370;Goiabeira (MG);939
+3127388;Goianá (MG);1000
+3127404;Gonçalves (MG);1164
+3127503;Gonzaga (MG);2185
+3127602;Gouveia (MG);3591
+3127701;Governador Valadares (MG);80507
+3127800;Grão Mogol (MG);5645
+3127909;Grupiara (MG);341
+3128006;Guanhães (MG);10315
+3128105;Guapé (MG);4030
+3128204;Guaraciaba (MG);2725
+3128253;Guaraciama (MG);1511
+3128303;Guaranésia (MG);5330
+3128402;Guarani (MG);2381
+3128501;Guarará (MG);1151
+3128600;Guarda-Mor (MG);2113
+3128709;Guaxupé (MG);13346
+3128808;Guidoval (MG);2020
+3128907;Guimarânia (MG);2256
+3129004;Guiricema (MG);2231
+3129103;Gurinhatã (MG);1594
+3129202;Heliodora (MG);1756
+3129301;Iapu (MG);3235
+3129400;Ibertioga (MG);1502
+3129509;Ibiá (MG);6626
+3129608;Ibiaí (MG);2867
+3129657;Ibiracatu (MG);2319
+3129707;Ibiraci (MG);3806
+3129806;Ibirité (MG);53835
+3129905;Ibitiúra de Minas (MG);909
+3130002;Ibituruna (MG);913
+3130051;Icaraí de Minas (MG);4092
+3130101;Igarapé (MG);11362
+3130200;Igaratinga (MG);2902
+3130309;Iguatama (MG);2024
+3130408;Ijaci (MG);1786
+3130507;Ilicínea (MG);3586
+3130556;Imbé de Minas (MG);2166
+3130606;Inconfidentes (MG);1801
+3130655;Indaiabira (MG);2634
+3130705;Indianópolis (MG);1989
+3130804;Ingaí (MG);766
+3130903;Inhapim (MG);7362
+3131000;Inhaúma (MG);1773
+3131109;Inimutaba (MG);2116
+3131158;Ipaba (MG);5884
+3131208;Ipanema (MG);5227
+3131307;Ipatinga (MG);68376
+3131406;Ipiaçu (MG);1129
+3131505;Ipuiúna (MG);2619
+3131604;Iraí de Minas (MG);2008
+3131703;Itabira (MG);31511
+3131802;Itabirinha (MG);3233
+3131901;Itabirito (MG);12977
+3132008;Itacambira (MG);1688
+3132107;Itacarambi (MG);7136
+3132206;Itaguara (MG);3334
+3132305;Itaipé (MG);4769
+3132404;Itajubá (MG);24991
+3132503;Itamarandiba (MG);12027
+3132602;Itamarati de Minas (MG);997
+3132701;Itambacuri (MG);8055
+3132800;Itambé do Mato Dentro (MG);663
+3132909;Itamogi (MG);2854
+3133006;Itamonte (MG);3966
+3133105;Itanhandu (MG);3969
+3133204;Itanhomi (MG);3652
+3133303;Itaobim (MG);7150
+3133402;Itapagipe (MG);3223
+3133501;Itapecerica (MG);5482
+3133600;Itapeva (MG);2436
+3133709;Itatiaiuçu (MG);3155
+3133758;Itaú de Minas (MG);4114
+3133808;Itaúna (MG);23240
+3133907;Itaverava (MG);1881
+3134004;Itinga (MG);5244
+3134103;Itueta (MG);1694
+3134202;Ituiutaba (MG);25757
+3134301;Itumirim (MG);1724
+3134400;Iturama (MG);10103
+3134509;Itutinga (MG);1092
+3134608;Jaboticatubas (MG);5132
+3134707;Jacinto (MG);3907
+3134806;Jacuí (MG);2118
+3134905;Jacutinga (MG);6505
+3135001;Jaguaraçu (MG);891
+3135050;Jaíba (MG);13287
+3135076;Jampruca (MG);1808
+3135100;Janaúba (MG);23102
+3135209;Januária (MG);24117
+3135308;Japaraíba (MG);1249
+3135357;Japonvar (MG);3021
+3135407;Jeceaba (MG);1466
+3135456;Jenipapo de Minas (MG);2706
+3135506;Jequeri (MG);3842
+3135605;Jequitaí (MG);2667
+3135704;Jequitibá (MG);1536
+3135803;Jequitinhonha (MG);8356
+3135902;Jesuânia (MG);1339
+3136009;Joaíma (MG);5631
+3136108;Joanésia (MG);1574
+3136207;João Monlevade (MG);20285
+3136306;João Pinheiro (MG);15264
+3136405;Joaquim Felício (MG);1369
+3136504;Jordânia (MG);3588
+3136520;José Gonçalves de Minas (MG);1782
+3136553;José Raydan (MG);1500
+3136579;Josenópolis (MG);1996
+3136603;Nova União (MG);1710
+3136652;Juatuba (MG);7218
+3136702;Juiz de Fora (MG);131752
+3136801;Juramento (MG);1374
+3136900;Juruaia (MG);2790
+3136959;Juvenília (MG);2243
+3137007;Ladainha (MG);6986
+3137106;Lagamar (MG);2059
+3137205;Lagoa da Prata (MG);13603
+3137304;Lagoa dos Patos (MG);1527
+3137403;Lagoa Dourada (MG);3816
+3137502;Lagoa Formosa (MG);4700
+3137536;Lagoa Grande (MG);2821
+3137601;Lagoa Santa (MG);15488
+3137700;Lajinha (MG);6260
+3137809;Lambari (MG);5613
+3137908;Lamim (MG);1020
+3138005;Laranjal (MG);1530
+3138104;Lassance (MG);2329
+3138203;Lavras (MG);25062
+3138302;Leandro Ferreira (MG);918
+3138351;Leme do Prado (MG);1733
+3138401;Leopoldina (MG);14039
+3138500;Liberdade (MG);1452
+3138609;Lima Duarte (MG);4480
+3138625;Limeira do Oeste (MG);1994
+3138658;Lontra (MG);2911
+3138674;Luisburgo (MG);2083
+3138682;Luislândia (MG);2474
+3138708;Luminárias (MG);1611
+3138807;Luz (MG);4885
+3138906;Machacalis (MG);2293
+3139003;Machado (MG);11856
+3139102;Madre de Deus de Minas (MG);1381
+3139201;Malacacheta (MG);6755
+3139250;Mamonas (MG);1773
+3139300;Manga (MG);7918
+3139409;Manhuaçu (MG);25924
+3139508;Manhumirim (MG);6806
+3139607;Mantena (MG);7975
+3139706;Maravilhas (MG);2269
+3139805;Mar de Espanha (MG);3210
+3139904;Maria da Fé (MG);4441
+3140001;Mariana (MG);16893
+3140100;Marilac (MG);1519
+3140159;Mário Campos (MG);4523
+3140209;Maripá de Minas (MG);759
+3140308;Marliéria (MG);1233
+3140407;Marmelópolis (MG);886
+3140506;Martinho Campos (MG);3719
+3140530;Martins Soares (MG);2395
+3140555;Mata Verde (MG);2796
+3140605;Materlândia (MG);1601
+3140704;Mateus Leme (MG);8707
+3140803;Matias Barbosa (MG);3711
+3140852;Matias Cardoso (MG);4213
+3140902;Matipó (MG);6351
+3141009;Mato Verde (MG);3852
+3141108;Matozinhos (MG);10381
+3141207;Matutina (MG);962
+3141306;Medeiros (MG);1044
+3141405;Medina (MG);7264
+3141504;Mendes Pimentel (MG);1879
+3141603;Mercês (MG);2927
+3141702;Mesquita (MG);1813
+3141801;Minas Novas (MG);12038
+3141900;Minduri (MG);1153
+3142007;Mirabela (MG);4475
+3142106;Miradouro (MG);3033
+3142205;Miraí (MG);3998
+3142254;Miravânia (MG);1739
+3142304;Moeda (MG);1352
+3142403;Moema (MG);1981
+3142502;Monjolos (MG);775
+3142601;Monsenhor Paulo (MG);2403
+3142700;Montalvânia (MG);5709
+3142809;Monte Alegre de Minas (MG);5414
+3142908;Monte Azul (MG);6503
+3143005;Monte Belo (MG);3564
+3143104;Monte Carmelo (MG);13379
+3143153;Monte Formoso (MG);1991
+3143203;Monte Santo de Minas (MG);5786
+3143302;Montes Claros (MG);111835
+3143401;Monte Sião (MG);5757
+3143450;Montezuma (MG);2816
+3143500;Morada Nova de Minas (MG);2488
+3143609;Morro da Garça (MG);853
+3143708;Morro do Pilar (MG);1037
+3143807;Munhoz (MG);1893
+3143906;Muriaé (MG);27437
+3144003;Mutum (MG);8174
+3144102;Muzambinho (MG);5430
+3144201;Nacip Raydan (MG);1106
+3144300;Nanuque (MG);12528
+3144359;Naque (MG);2189
+3144375;Natalândia (MG);1114
+3144409;Natércia (MG);1111
+3144508;Nazareno (MG);2397
+3144607;Nepomuceno (MG);7585
+3144656;Ninheira (MG);3486
+3144672;Nova Belém (MG);1270
+3144706;Nova Era (MG);5198
+3144805;Nova Lima (MG);21636
+3144904;Nova Módica (MG);1255
+3145000;Nova Ponte (MG);4059
+3145059;Nova Porteirinha (MG);2606
+3145109;Nova Resende (MG);4642
+3145208;Nova Serrana (MG);23859
+3145307;Novo Cruzeiro (MG);12328
+3145356;Novo Oriente de Minas (MG);3722
+3145372;Novorizonte (MG);1730
+3145406;Olaria (MG);516
+3145455;Olhos-d'Água (MG);1983
+3145505;Olímpio Noronha (MG);730
+3145604;Oliveira (MG);10929
+3145703;Oliveira Fortes (MG);599
+3145802;Onça de Pitangui (MG);1030
+3145851;Oratórios (MG);1395
+3145877;Orizânia (MG);2580
+3145901;Ouro Branco (MG);10313
+3146008;Ouro Fino (MG);8399
+3146107;Ouro Preto (MG);20660
+3146206;Ouro Verde de Minas (MG);2147
+3146255;Padre Carvalho (MG);2421
+3146305;Padre Paraíso (MG);6925
+3146404;Paineiras (MG);1206
+3146503;Pains (MG);2158
+3146552;Pai Pedro (MG);2196
+3146602;Paiva (MG);378
+3146701;Palma (MG);1637
+3146750;Palmópolis (MG);2385
+3146909;Papagaios (MG);4880
+3147006;Paracatu (MG);28862
+3147105;Pará de Minas (MG);24324
+3147204;Paraguaçu (MG);5634
+3147303;Paraisópolis (MG);5463
+3147402;Paraopeba (MG);7187
+3147501;Passabém (MG);473
+3147600;Passa Quatro (MG);4458
+3147709;Passa Tempo (MG);2078
+3147808;Passa Vinte (MG);586
+3147907;Passos (MG);29801
+3147956;Patis (MG);2080
+3148004;Patos de Minas (MG);37788
+3148103;Patrocínio (MG);25107
+3148202;Patrocínio do Muriaé (MG);1357
+3148301;Paula Cândido (MG);2819
+3148400;Paulistas (MG);1811
+3148509;Pavão (MG);2773
+3148608;Peçanha (MG);6193
+3148707;Pedra Azul (MG);8665
+3148756;Pedra Bonita (MG);2457
+3148806;Pedra do Anta (MG);935
+3148905;Pedra do Indaiá (MG);977
+3149002;Pedra Dourada (MG);709
+3149101;Pedralva (MG);3505
+3149150;Pedras de Maria da Cruz (MG);3966
+3149200;Pedrinópolis (MG);1018
+3149309;Pedro Leopoldo (MG);16773
+3149408;Pedro Teixeira (MG);512
+3149507;Pequeri (MG);898
+3149606;Pequi (MG);1208
+3149705;Perdigão (MG);2747
+3149804;Perdizes (MG);4688
+3149903;Perdões (MG);5606
+3149952;Periquito (MG);2580
+3150000;Pescador (MG);1454
+3150109;Piau (MG);710
+3150158;Piedade de Caratinga (MG);2523
+3150208;Piedade de Ponte Nova (MG);1334
+3150307;Piedade do Rio Grande (MG);1239
+3150406;Piedade dos Gerais (MG);1306
+3150505;Pimenta (MG);2250
+3150539;Pingo-d'Água (MG);1458
+3150570;Pintópolis (MG);2926
+3150604;Piracema (MG);1752
+3150703;Pirajuba (MG);1412
+3150802;Piranga (MG);5750
+3150901;Piranguçu (MG);1488
+3151008;Piranguinho (MG);2427
+3151107;Pirapetinga (MG);2878
+3151206;Pirapora (MG);17568
+3151305;Piraúba (MG);2866
+3151404;Pitangui (MG);7819
+3151503;Piumhi (MG);8546
+3151602;Planura (MG);3101
+3151701;Poço Fundo (MG);4135
+3151800;Poços de Caldas (MG);39658
+3151909;Pocrane (MG);2459
+3152006;Pompéu (MG);9574
+3152105;Ponte Nova (MG);15802
+3152131;Ponto Chique (MG);1475
+3152170;Ponto dos Volantes (MG);4446
+3152204;Porteirinha (MG);11870
+3152303;Porto Firme (MG);2867
+3152402;Poté (MG);5530
+3152501;Pouso Alegre (MG);36248
+3152600;Pouso Alto (MG);1630
+3152709;Prados (MG);2387
+3152808;Prata (MG);7541
+3152907;Pratápolis (MG);2231
+3153004;Pratinha (MG);799
+3153103;Presidente Bernardes (MG);1786
+3153202;Presidente Juscelino (MG);1248
+3153301;Presidente Kubitschek (MG);1075
+3153400;Presidente Olegário (MG);5480
+3153509;Alto Jequitibá (MG);2493
+3153608;Prudente de Morais (MG);3056
+3153707;Quartel Geral (MG);1039
+3153806;Queluzito (MG);461
+3153905;Raposos (MG);4495
+3154002;Raul Soares (MG);6662
+3154101;Recreio (MG);2680
+3154150;Reduto (MG);2272
+3154200;Resende Costa (MG);3015
+3154309;Resplendor (MG);5044
+3154408;Ressaquinha (MG);1392
+3154457;Riachinho (MG);2973
+3154507;Riacho dos Machados (MG);3500
+3154606;Ribeirão das Neves (MG);98820
+3154705;Ribeirão Vermelho (MG);966
+3154804;Rio Acima (MG);2687
+3154903;Rio Casca (MG);4316
+3155009;Rio Doce (MG);690
+3155108;Rio do Prado (MG);1751
+3155207;Rio Espera (MG);1827
+3155306;Rio Manso (MG);1394
+3155405;Rio Novo (MG);2411
+3155504;Rio Paranaíba (MG);3394
+3155603;Rio Pardo de Minas (MG);10995
+3155702;Rio Piracicaba (MG);4033
+3155801;Rio Pomba (MG);4608
+3155900;Rio Preto (MG);1438
+3156007;Rio Vermelho (MG);5322
+3156106;Ritápolis (MG);1303
+3156205;Rochedo de Minas (MG);634
+3156304;Rodeiro (MG);1970
+3156403;Romaria (MG);1040
+3156452;Rosário da Limeira (MG);1270
+3156502;Rubelita (MG);2790
+3156601;Rubim (MG);3157
+3156700;Sabará (MG);39173
+3156809;Sabinópolis (MG);5349
+3156908;Sacramento (MG);6764
+3157005;Salinas (MG);12163
+3157104;Salto da Divisa (MG);2412
+3157203;Santa Bárbara (MG);8649
+3157252;Santa Bárbara do Leste (MG);2417
+3157278;Santa Bárbara do Monte Verde (MG);819
+3157302;Santa Bárbara do Tugúrio (MG);1321
+3157336;Santa Cruz de Minas (MG);2337
+3157377;Santa Cruz de Salinas (MG);1583
+3157401;Santa Cruz do Escalvado (MG);1474
+3157500;Santa Efigênia de Minas (MG);1703
+3157609;Santa Fé de Minas (MG);1529
+3157658;Santa Helena de Minas (MG);2423
+3157708;Santa Juliana (MG);3334
+3157807;Santa Luzia (MG);64663
+3157906;Santa Margarida (MG);5123
+3158003;Santa Maria de Itabira (MG);3542
+3158102;Santa Maria do Salto (MG);1689
+3158201;Santa Maria do Suaçuí (MG);5132
+3158300;Santana da Vargem (MG);2190
+3158409;Santana de Cataguases (MG);923
+3158508;Santana de Pirapama (MG);2372
+3158607;Santana do Deserto (MG);1128
+3158706;Santana do Garambéu (MG);633
+3158805;Santana do Jacaré (MG);1305
+3158904;Santana do Manhuaçu (MG);2879
+3158953;Santana do Paraíso (MG);9243
+3159001;Santana do Riacho (MG);1188
+3159100;Santana dos Montes (MG);1185
+3159209;Santa Rita de Caldas (MG);2180
+3159308;Santa Rita de Jacutinga (MG);1272
+3159357;Santa Rita de Minas (MG);2060
+3159407;Santa Rita de Ibitipoca (MG);1088
+3159506;Santa Rita do Itueto (MG);1806
+3159605;Santa Rita do Sapucaí (MG);10918
+3159704;Santa Rosa da Serra (MG);993
+3159803;Santa Vitória (MG);4902
+3159902;Santo Antônio do Amparo (MG);5489
+3160009;Santo Antônio do Aventureiro (MG);954
+3160108;Santo Antônio do Grama (MG);1237
+3160207;Santo Antônio do Itambé (MG);1709
+3160306;Santo Antônio do Jacinto (MG);4044
+3160405;Santo Antônio do Monte (MG);7653
+3160454;Santo Antônio do Retiro (MG);2713
+3160504;Santo Antônio do Rio Abaixo (MG);559
+3160603;Santo Hipólito (MG);1065
+3160702;Santos Dumont (MG);12618
+3160801;São Bento Abade (MG);1661
+3160900;São Brás do Suaçuí (MG);877
+3160959;São Domingos das Dores (MG);1908
+3161007;São Domingos do Prata (MG);4866
+3161056;São Félix de Minas (MG);1142
+3161106;São Francisco (MG);21741
+3161205;São Francisco de Paula (MG);1820
+3161304;São Francisco de Sales (MG);1596
+3161403;São Francisco do Glória (MG);1512
+3161502;São Geraldo (MG);2855
+3161601;São Geraldo da Piedade (MG);1579
+3161650;São Geraldo do Baixio (MG);1123
+3161700;São Gonçalo do Abaeté (MG);2138
+3161809;São Gonçalo do Pará (MG);2984
+3161908;São Gonçalo do Rio Abaixo (MG);3059
+3162005;São Gonçalo do Sapucaí (MG);7246
+3162104;São Gotardo (MG);9706
+3162203;São João Batista do Glória (MG);1948
+3162252;São João da Lagoa (MG);1550
+3162302;São João da Mata (MG);700
+3162401;São João da Ponte (MG);9261
+3162450;São João das Missões (MG);5493
+3162500;São João del Rei (MG);21468
+3162559;São João do Manhuaçu (MG);3527
+3162575;São João do Manteninha (MG);1486
+3162609;São João do Oriente (MG);2449
+3162658;São João do Pacuí (MG);1459
+3162708;São João do Paraíso (MG);7644
+3162807;São João Evangelista (MG);5389
+3162906;São João Nepomuceno (MG);6760
+3162922;São Joaquim de Bicas (MG);8035
+3162948;São José da Barra (MG);2047
+3162955;São José da Lapa (MG);6324
+3163003;São José da Safira (MG);1579
+3163102;São José da Varginha (MG);1308
+3163201;São José do Alegre (MG);1173
+3163300;São José do Divino (MG);1329
+3163409;São José do Goiabal (MG);1700
+3163508;São José do Jacuri (MG);2285
+3163607;São José do Mantimento (MG);838
+3163706;São Lourenço (MG);11232
+3163805;São Miguel do Anta (MG);1936
+3163904;São Pedro da União (MG);1318
+3164001;São Pedro dos Ferros (MG);2575
+3164100;São Pedro do Suaçuí (MG);1800
+3164209;São Romão (MG);3922
+3164308;São Roque de Minas (MG);1809
+3164407;São Sebastião da Bela Vista (MG);1490
+3164431;São Sebastião da Vargem Alegre (MG);805
+3164472;São Sebastião do Anta (MG);2069
+3164506;São Sebastião do Maranhão (MG);4105
+3164605;São Sebastião do Oeste (MG);1569
+3164704;São Sebastião do Paraíso (MG);18518
+3164803;São Sebastião do Rio Preto (MG);474
+3164902;São Sebastião do Rio Verde (MG);532
+3165008;São Tiago (MG);3021
+3165107;São Tomás de Aquino (MG);2207
+3165206;São Tomé das Letras (MG);2169
+3165305;São Vicente de Minas (MG);2143
+3165404;Sapucaí-Mirim (MG);2023
+3165503;Sardoá (MG);2118
+3165537;Sarzedo (MG);8780
+3165552;Setubinha (MG);4980
+3165560;Sem-Peixe (MG);776
+3165578;Senador Amaral (MG);1718
+3165602;Senador Cortes (MG);636
+3165701;Senador Firmino (MG);2075
+3165800;Senador José Bento (MG);430
+3165909;Senador Modestino Gonçalves (MG);1636
+3166006;Senhora de Oliveira (MG);1754
+3166105;Senhora do Porto (MG);1207
+3166204;Senhora dos Remédios (MG);2898
+3166303;Sericita (MG);2376
+3166402;Seritinga (MG);495
+3166501;Serra Azul de Minas (MG);1788
+3166600;Serra da Saudade (MG);227
+3166709;Serra dos Aimorés (MG);2831
+3166808;Serra do Salitre (MG);3419
+3166907;Serrania (MG);2468
+3166956;Serranópolis de Minas (MG);1459
+3167004;Serranos (MG);600
+3167103;Serro (MG);7916
+3167202;Sete Lagoas (MG);61096
+3167301;Silveirânia (MG);607
+3167400;Silvianópolis (MG);1609
+3167509;Simão Pereira (MG);748
+3167608;Simonésia (MG);6181
+3167707;Sobrália (MG);1919
+3167806;Soledade de Minas (MG);1610
+3167905;Tabuleiro (MG);1122
+3168002;Taiobeiras (MG);10372
+3168051;Taparuba (MG);851
+3168101;Tapira (MG);1169
+3168200;Tapiraí (MG);506
+3168309;Taquaraçu de Minas (MG);1157
+3168408;Tarumirim (MG);4466
+3168507;Teixeiras (MG);3108
+3168606;Teófilo Otoni (MG);41196
+3168705;Timóteo (MG);23201
+3168804;Tiradentes (MG);1890
+3168903;Tiros (MG);1815
+3169000;Tocantins (MG);4416
+3169059;Tocos do Moji (MG);918
+3169109;Toledo (MG);1704
+3169208;Tombos (MG);2471
+3169307;Três Corações (MG);22261
+3169356;Três Marias (MG);8949
+3169406;Três Pontas (MG);16318
+3169505;Tumiritinga (MG);2287
+3169604;Tupaciguara (MG);6616
+3169703;Turmalina (MG);6161
+3169802;Turvolândia (MG);1412
+3169901;Ubá (MG);28939
+3170008;Ubaí (MG);4688
+3170057;Ubaporanga (MG);3880
+3170107;Uberaba (MG);76870
+3170206;Uberlândia (MG);165460
+3170305;Umburatiba (MG);912
+3170404;Unaí (MG);24146
+3170438;União de Minas (MG);1273
+3170479;Uruana de Minas (MG);1110
+3170503;Urucânia (MG);3399
+3170529;Urucuia (MG);5509
+3170578;Vargem Alegre (MG);2018
+3170602;Vargem Bonita (MG);551
+3170651;Vargem Grande do Rio Pardo (MG);1739
+3170701;Varginha (MG);33874
+3170750;Varjão de Minas (MG);2027
+3170800;Várzea da Palma (MG);12052
+3170909;Varzelândia (MG);7714
+3171006;Vazante (MG);5868
+3171030;Verdelândia (MG);3729
+3171071;Veredinha (MG);1887
+3171105;Veríssimo (MG);1045
+3171154;Vermelho Novo (MG);1421
+3171204;Vespasiano (MG);34786
+3171303;Viçosa (MG);19523
+3171402;Vieiras (MG);1043
+3171501;Mathias Lobato (MG);1299
+3171600;Virgem da Lapa (MG);4447
+3171709;Virgínia (MG);2429
+3171808;Virginópolis (MG);3535
+3171907;Virgolândia (MG);1940
+3172004;Visconde do Rio Branco (MG);10721
+3172103;Volta Grande (MG);1562
+3172202;Wenceslau Braz (MG);721
+3200102;Afonso Cláudio (ES);9211
+3200136;Águia Branca (ES);2947
+3200169;Água Doce do Norte (ES);3844
+3200201;Alegre (ES);8937
+3200300;Alfredo Chaves (ES);3656
+3200359;Alto Rio Novo (ES);2328
+3200409;Anchieta (ES);7092
+3200508;Apiacá (ES);2144
+3200607;Aracruz (ES);26981
+3200706;Atílio Vivácqua (ES);2926
+3200805;Baixo Guandu (ES);8803
+3200904;Barra de São Francisco (ES);12358
+3201001;Boa Esperança (ES);4653
+3201100;Bom Jesus do Norte (ES);2625
+3201159;Brejetuba (ES);4269
+3201209;Cachoeiro de Itapemirim (ES);54873
+3201308;Cariacica (ES);109485
+3201407;Castelo (ES);9281
+3201506;Colatina (ES);30436
+3201605;Conceição da Barra (ES);10221
+3201704;Conceição do Castelo (ES);3441
+3201803;Divino de São Lourenço (ES);1491
+3201902;Domingos Martins (ES);9289
+3202009;Dores do Rio Preto (ES);2062
+3202108;Ecoporanga (ES);7231
+3202207;Fundão (ES);5245
+3202256;Governador Lindenberg (ES);3224
+3202306;Guaçuí (ES);8606
+3202405;Guarapari (ES);32094
+3202454;Ibatiba (ES);7236
+3202504;Ibiraçu (ES);3332
+3202553;Ibitirama (ES);3215
+3202603;Iconha (ES);3167
+3202652;Irupi (ES);3860
+3202702;Itaguaçu (ES);3683
+3202801;Itapemirim (ES);10056
+3202900;Itarana (ES);2920
+3203007;Iúna (ES);8766
+3203056;Jaguaré (ES);8568
+3203106;Jerônimo Monteiro (ES);3171
+3203130;João Neiva (ES);4170
+3203163;Laranja da Terra (ES);2725
+3203205;Linhares (ES);46209
+3203304;Mantenópolis (ES);4335
+3203320;Marataízes (ES);10420
+3203346;Marechal Floriano (ES);4182
+3203353;Marilândia (ES);2888
+3203403;Mimoso do Sul (ES);7237
+3203502;Montanha (ES);5505
+3203601;Mucurici (ES);1765
+3203700;Muniz Freire (ES);5956
+3203809;Muqui (ES);4093
+3203908;Nova Venécia (ES);14283
+3204005;Pancas (ES);6886
+3204054;Pedro Canário (ES);8480
+3204104;Pinheiros (ES);7757
+3204203;Piúma (ES);5653
+3204252;Ponto Belo (ES);2246
+3204302;Presidente Kennedy (ES);3229
+3204351;Rio Bananal (ES);5239
+3204401;Rio Novo do Sul (ES);3122
+3204500;Santa Leopoldina (ES);3576
+3204559;Santa Maria de Jetibá (ES);10749
+3204609;Santa Teresa (ES);5777
+3204658;São Domingos do Norte (ES);2297
+3204708;São Gabriel da Palha (ES);9257
+3204807;São José do Calçado (ES);2940
+3204906;São Mateus (ES);36650
+3204955;São Roque do Canaã (ES);3095
+3205002;Serra (ES);131371
+3205010;Sooretama (ES);8940
+3205036;Vargem Alta (ES);6114
+3205069;Venda Nova do Imigrante (ES);5885
+3205101;Viana (ES);20064
+3205150;Vila Pavão (ES);2567
+3205176;Vila Valério (ES);4246
+3205200;Vila Velha (ES);113086
+3205309;Vitória (ES);82997
+3300100;Angra dos Reis (RJ);52965
+3300159;Aperibé (RJ);2624
+3300209;Araruama (RJ);33133
+3300225;Areal (RJ);3377
+3300233;Armação dos Búzios (RJ);8355
+3300258;Arraial do Cabo (RJ);7990
+3300308;Barra do Piraí (RJ);25823
+3300407;Barra Mansa (RJ);48585
+3300456;Belford Roxo (RJ);151771
+3300506;Bom Jardim (RJ);7042
+3300605;Bom Jesus do Itabapoana (RJ);9959
+3300704;Cabo Frio (RJ);57749
+3300803;Cachoeiras de Macacu (RJ);16066
+3300902;Cambuci (RJ);3754
+3300936;Carapebus (RJ);3954
+3300951;Comendador Levy Gasparian (RJ);2338
+3301009;Campos dos Goytacazes (RJ);139543
+3301108;Cantagalo (RJ);5691
+3301157;Cardoso Moreira (RJ);3450
+3301207;Carmo (RJ);4949
+3301306;Casimiro de Abreu (RJ);10706
+3301405;Conceição de Macabu (RJ);6505
+3301504;Cordeiro (RJ);5718
+3301603;Duas Barras (RJ);3251
+3301702;Duque de Caxias (RJ);266217
+3301801;Engenheiro Paulo de Frontin (RJ);3369
+3301850;Guapimirim (RJ);16514
+3301876;Iguaba Grande (RJ);6362
+3301900;Itaboraí (RJ);66417
+3302007;Itaguaí (RJ);34108
+3302056;Italva (RJ);3506
+3302106;Itaocara (RJ);5711
+3302205;Itaperuna (RJ);25176
+3302254;Itatiaia (RJ);8584
+3302270;Japeri (RJ);32277
+3302304;Laje do Muriaé (RJ);2211
+3302403;Macaé (RJ);61260
+3302452;Macuco (RJ);1589
+3302502;Magé (RJ);73106
+3302601;Mangaratiba (RJ);10552
+3302700;Maricá (RJ);33933
+3302809;Mendes (RJ);4546
+3302858;Mesquita (RJ);49640
+3302908;Miguel Pereira (RJ);6599
+3303005;Miracema (RJ);7877
+3303104;Natividade (RJ);4184
+3303203;Nilópolis (RJ);42116
+3303302;Niterói (RJ);107267
+3303401;Nova Friburgo (RJ);46926
+3303500;Nova Iguaçu (RJ);248762
+3303609;Paracambi (RJ);12096
+3303708;Paraíba do Sul (RJ);11869
+3303807;Paraty (RJ);12110
+3303856;Paty do Alferes (RJ);8065
+3303906;Petrópolis (RJ);79906
+3303955;Pinheiral (RJ);6541
+3304003;Piraí (RJ);7354
+3304102;Porciúncula (RJ);5327
+3304110;Porto Real (RJ);5279
+3304128;Quatis (RJ);3765
+3304144;Queimados (RJ);45600
+3304151;Quissamã (RJ);6387
+3304201;Resende (RJ);34062
+3304300;Rio Bonito (RJ);15929
+3304409;Rio Claro (RJ);5211
+3304508;Rio das Flores (RJ);2642
+3304524;Rio das Ostras (RJ);31593
+3304557;Rio de Janeiro (RJ);1596758
+3304607;Santa Maria Madalena (RJ);3007
+3304706;Santo Antônio de Pádua (RJ);10944
+3304755;São Francisco de Itabapoana (RJ);12999
+3304805;São Fidélis (RJ);10121
+3304904;São Gonçalo (RJ);269671
+3305000;São João da Barra (RJ);9299
+3305109;São João de Meriti (RJ);135890
+3305133;São José de Ubá (RJ);1901
+3305158;São José do Vale do Rio Preto (RJ);6201
+3305208;São Pedro da Aldeia (RJ);27364
+3305307;São Sebastião do Alto (RJ);2413
+3305406;Sapucaia (RJ);4998
+3305505;Saquarema (RJ);21588
+3305554;Seropédica (RJ);24291
+3305604;Silva Jardim (RJ);6999
+3305703;Sumidouro (RJ);4326
+3305752;Tanguá (RJ);9438
+3305802;Teresópolis (RJ);46917
+3305901;Trajano de Moraes (RJ);2921
+3306008;Três Rios (RJ);21990
+3306107;Valença (RJ);19980
+3306156;Varre-Sai (RJ);3021
+3306206;Vassouras (RJ);9724
+3306305;Volta Redonda (RJ);67127
+3500105;Adamantina (SP);7932
+3500204;Adolfo (SP);890
+3500303;Aguaí (SP);9516
+3500402;Águas da Prata (SP);1845
+3500501;Águas de Lindóia (SP);4479
+3500550;Águas de Santa Bárbara (SP);1624
+3500600;Águas de São Pedro (SP);593
+3500709;Agudos (SP);10282
+3500758;Alambari (SP);1568
+3500808;Alfredo Marcondes (SP);907
+3500907;Altair (SP);1151
+3501004;Altinópolis (SP);4280
+3501103;Alto Alegre (SP);942
+3501152;Alumínio (SP);5400
+3501202;Álvares Florence (SP);847
+3501301;Álvares Machado (SP);6820
+3501400;Álvaro de Carvalho (SP);1044
+3501509;Alvinlândia (SP);929
+3501608;Americana (SP);51361
+3501707;Américo Brasiliense (SP);10658
+3501806;Américo de Campos (SP);1423
+3501905;Amparo (SP);16393
+3502002;Analândia (SP);1248
+3502101;Andradina (SP);13924
+3502200;Angatuba (SP);6706
+3502309;Anhembi (SP);1848
+3502408;Anhumas (SP);1091
+3502507;Aparecida (SP);9669
+3502606;Aparecida d'Oeste (SP);1086
+3502705;Apiaí (SP);8802
+3502754;Araçariguama (SP);5915
+3502804;Araçatuba (SP);44540
+3502903;Araçoiaba da Serra (SP);7974
+3503000;Aramina (SP);1352
+3503109;Arandu (SP);1900
+3503158;Arapeí (SP);760
+3503208;Araraquara (SP);50687
+3503307;Araras (SP);31067
+3503356;Arco-Íris (SP);492
+3503406;Arealva (SP);2009
+3503505;Areias (SP);1241
+3503604;Areiópolis (SP);3446
+3503703;Ariranha (SP);2303
+3503802;Artur Nogueira (SP);13125
+3503901;Arujá (SP);24075
+3503950;Aspásia (SP);452
+3504008;Assis (SP);23995
+3504107;Atibaia (SP);35676
+3504206;Auriflama (SP);3578
+3504305;Avaí (SP);1577
+3504404;Avanhandava (SP);3257
+3504503;Avaré (SP);22976
+3504602;Bady Bassitt (SP);3945
+3504701;Balbinos (SP);355
+3504800;Bálsamo (SP);1894
+3504909;Bananal (SP);3023
+3505005;Barão de Antonina (SP);967
+3505104;Barbosa (SP);2042
+3505203;Bariri (SP);8627
+3505302;Barra Bonita (SP);8473
+3505351;Barra do Chapéu (SP);1868
+3505401;Barra do Turvo (SP);2853
+3505500;Barretos (SP);29149
+3505609;Barrinha (SP);9320
+3505708;Barueri (SP);75749
+3505807;Bastos (SP);5852
+3505906;Batatais (SP);15240
+3506003;Bauru (SP);90413
+3506102;Bebedouro (SP);20067
+3506201;Bento de Abreu (SP);767
+3506300;Bernardino de Campos (SP);2972
+3506359;Bertioga (SP);16156
+3506409;Bilac (SP);1672
+3506508;Birigui (SP);27822
+3506607;Biritiba Mirim (SP);9325
+3506706;Boa Esperança do Sul (SP);4294
+3506805;Bocaina (SP);3060
+3506904;Bofete (SP);2990
+3507001;Boituva (SP);14068
+3507100;Bom Jesus dos Perdões (SP);6060
+3507159;Bom Sucesso de Itararé (SP);1423
+3507209;Borá (SP);223
+3507308;Boracéia (SP);1297
+3507407;Borborema (SP);3754
+3507456;Borebi (SP);752
+3507506;Botucatu (SP);34647
+3507605;Bragança Paulista (SP);40099
+3507704;Braúna (SP);1314
+3507753;Brejo Alegre (SP);732
+3507803;Brodowski (SP);6126
+3507902;Brotas (SP);6295
+3508009;Buri (SP);6676
+3508108;Buritama (SP);3985
+3508207;Buritizal (SP);1049
+3508306;Cabrália Paulista (SP);1381
+3508405;Cabreúva (SP);13718
+3508504;Caçapava (SP);24134
+3508603;Cachoeira Paulista (SP);8474
+3508702;Caconde (SP);5749
+3508801;Cafelândia (SP);4479
+3508900;Caiabu (SP);1097
+3509007;Caieiras (SP);26856
+3509106;Caiuá (SP);1418
+3509205;Cajamar (SP);20806
+3509254;Cajati (SP);10231
+3509304;Cajobi (SP);2571
+3509403;Cajuru (SP);7155
+3509452;Campina do Monte Alegre (SP);1744
+3509502;Campinas (SP);272931
+3509601;Campo Limpo Paulista (SP);22361
+3509700;Campos do Jordão (SP);15016
+3509809;Campos Novos Paulista (SP);1415
+3509908;Cananéia (SP);4160
+3509957;Canas (SP);1505
+3510005;Cândido Mota (SP);8163
+3510104;Cândido Rodrigues (SP);592
+3510153;Canitar (SP);1581
+3510203;Capão Bonito (SP);15188
+3510302;Capela do Alto (SP);5654
+3510401;Capivari (SP);14464
+3510500;Caraguatatuba (SP);30819
+3510609;Carapicuíba (SP);115124
+3510708;Cardoso (SP);3035
+3510807;Casa Branca (SP);7359
+3510906;Cássia dos Coqueiros (SP);756
+3511003;Castilho (SP);5289
+3511102;Catanduva (SP);27307
+3511201;Catiguá (SP);1874
+3511300;Cedral (SP);1909
+3511409;Cerqueira César (SP);5322
+3511508;Cerquilho (SP);10623
+3511607;Cesário Lange (SP);4367
+3511706;Charqueada (SP);4467
+3511904;Clementina (SP);2057
+3512001;Colina (SP);4805
+3512100;Colômbia (SP);1789
+3512209;Conchal (SP);7937
+3512308;Conchas (SP);4721
+3512407;Cordeirópolis (SP);5965
+3512506;Coroados (SP);1450
+3512605;Coronel Macedo (SP);1548
+3512704;Corumbataí (SP);1144
+3512803;Cosmópolis (SP);17524
+3512902;Cosmorama (SP);1664
+3513009;Cotia (SP);63008
+3513108;Cravinhos (SP);9246
+3513207;Cristais Paulista (SP);2250
+3513306;Cruzália (SP);571
+3513405;Cruzeiro (SP);21823
+3513504;Cubatão (SP);36830
+3513603;Cunha (SP);6568
+3513702;Descalvado (SP);8036
+3513801;Diadema (SP);116850
+3513850;Dirce Reis (SP);405
+3513900;Divinolândia (SP);2766
+3514007;Dobrada (SP);2570
+3514106;Dois Córregos (SP);7141
+3514205;Dolcinópolis (SP);509
+3514304;Dourado (SP);2183
+3514403;Dracena (SP);10026
+3514502;Duartina (SP);3138
+3514601;Dumont (SP);2332
+3514700;Echaporã (SP);1844
+3514809;Eldorado (SP);5566
+3514908;Elias Fausto (SP);4757
+3514924;Elisiário (SP);775
+3514957;Embaúba (SP);604
+3515004;Embu das Artes (SP);79277
+3515103;Embu-Guaçu (SP);20491
+3515129;Emilianópolis (SP);768
+3515152;Engenheiro Coelho (SP);5069
+3515186;Espírito Santo do Pinhal (SP);10814
+3515194;Espírito Santo do Turvo (SP);1389
+3515202;Estrela d'Oeste (SP);1979
+3515301;Estrela do Norte (SP);815
+3515350;Euclides da Cunha Paulista (SP);3185
+3515400;Fartura (SP);4335
+3515509;Fernandópolis (SP);15495
+3515608;Fernando Prestes (SP);1279
+3515657;Fernão (SP);432
+3515707;Ferraz de Vasconcelos (SP);56847
+3515806;Flora Rica (SP);446
+3515905;Floreal (SP);616
+3516002;Flórida Paulista (SP);3234
+3516101;Florínea (SP);786
+3516200;Franca (SP);92370
+3516309;Francisco Morato (SP);55550
+3516408;Franco da Rocha (SP);40731
+3516507;Gabriel Monteiro (SP);607
+3516606;Gália (SP);1842
+3516705;Garça (SP);11677
+3516804;Gastão Vidigal (SP);1029
+3516853;Gavião Peixoto (SP);1337
+3516903;General Salgado (SP);2623
+3517000;Getulina (SP);2792
+3517109;Glicério (SP);1330
+3517208;Guaiçara (SP);3172
+3517307;Guaimbê (SP);1637
+3517406;Guaíra (SP);10190
+3517505;Guapiaçu (SP);4512
+3517604;Guapiara (SP);6189
+3517703;Guará (SP);6356
+3517802;Guaraçaí (SP);2077
+3517901;Guaraci (SP);2940
+3518008;Guarani d'Oeste (SP);512
+3518107;Guarantã (SP);2037
+3518206;Guararapes (SP);7897
+3518305;Guararema (SP);7802
+3518404;Guaratinguetá (SP);30039
+3518503;Guareí (SP);3633
+3518602;Guariba (SP);10859
+3518701;Guarujá (SP);91465
+3518800;Guarulhos (SP);382216
+3518859;Guatapará (SP);2202
+3518909;Guzolândia (SP);1391
+3519006;Herculândia (SP);2567
+3519055;Holambra (SP);3241
+3519071;Hortolândia (SP);59129
+3519105;Iacanga (SP);2707
+3519204;Iacri (SP);1708
+3519253;Iaras (SP);1856
+3519303;Ibaté (SP);9519
+3519402;Ibirá (SP);2702
+3519501;Ibirarema (SP);2019
+3519600;Ibitinga (SP);13948
+3519709;Ibiúna (SP);22816
+3519808;Icém (SP);2128
+3519907;Iepê (SP);2149
+3520004;Igaraçu do Tietê (SP);6700
+3520103;Igarapava (SP);7593
+3520202;Igaratá (SP);2697
+3520301;Iguape (SP);9153
+3520400;Ilhabela (SP);8745
+3520426;Ilha Comprida (SP);2661
+3520442;Ilha Solteira (SP);6338
+3520509;Indaiatuba (SP);55587
+3520608;Indiana (SP);1255
+3520707;Indiaporã (SP);882
+3520806;Inúbia Paulista (SP);974
+3520905;Ipaussu (SP);4130
+3521002;Iperó (SP);8811
+3521101;Ipeúna (SP);1905
+3521150;Ipiguá (SP);1183
+3521200;Iporanga (SP);1574
+3521309;Ipuã (SP);4286
+3521408;Iracemápolis (SP);5422
+3521507;Irapuã (SP);1942
+3521606;Irapuru (SP);1702
+3521705;Itaberá (SP);5646
+3521804;Itaí (SP);7104
+3521903;Itajobi (SP);3385
+3522000;Itaju (SP);935
+3522109;Itanhaém (SP);27303
+3522158;Itaoca (SP);1104
+3522208;Itapecerica da Serra (SP);50288
+3522307;Itapetininga (SP);43827
+3522406;Itapeva (SP);29278
+3522505;Itapevi (SP);70628
+3522604;Itapira (SP);17144
+3522653;Itapirapuã Paulista (SP);1514
+3522703;Itápolis (SP);10197
+3522802;Itaporanga (SP);4434
+3522901;Itapuí (SP);3551
+3523008;Itapura (SP);1302
+3523107;Itaquaquecetuba (SP);114747
+3523206;Itararé (SP);15543
+3523305;Itariri (SP);5740
+3523404;Itatiba (SP);27261
+3523503;Itatinga (SP);6063
+3523602;Itirapina (SP);3932
+3523701;Itirapuã (SP);1937
+3523800;Itobi (SP);2114
+3523909;Itu (SP);44110
+3524006;Itupeva (SP);13667
+3524105;Ituverava (SP);10369
+3524204;Jaborandi (SP);1813
+3524303;Jaboticabal (SP);18725
+3524402;Jacareí (SP);60538
+3524501;Jaci (SP);1550
+3524600;Jacupiranga (SP);5887
+3524709;Jaguariúna (SP);12258
+3524808;Jales (SP);11192
+3524907;Jambeiro (SP);1603
+3525003;Jandira (SP);34918
+3525102;Jardinópolis (SP);11477
+3525201;Jarinu (SP);7273
+3525300;Jaú (SP);34537
+3525409;Jeriquara (SP);1026
+3525508;Joanópolis (SP);3142
+3525607;João Ramalho (SP);1289
+3525706;José Bonifácio (SP);8858
+3525805;Júlio Mesquita (SP);1400
+3525854;Jumirim (SP);791
+3525904;Jundiaí (SP);92015
+3526001;Junqueirópolis (SP);4457
+3526100;Juquiá (SP);6627
+3526209;Juquitiba (SP);9853
+3526308;Lagoinha (SP);1373
+3526407;Laranjal Paulista (SP);6857
+3526506;Lavínia (SP);1347
+3526605;Lavrinhas (SP);2237
+3526704;Leme (SP);26947
+3526803;Lençóis Paulista (SP);17679
+3526902;Limeira (SP);74283
+3527009;Lindóia (SP);1857
+3527108;Lins (SP);18466
+3527207;Lorena (SP);23702
+3527256;Lourdes (SP);518
+3527306;Louveira (SP);10620
+3527405;Lucélia (SP);5088
+3527504;Lucianópolis (SP);660
+3527603;Luís Antônio (SP);3756
+3527702;Luiziânia (SP);1367
+3527801;Lupércio (SP);1343
+3527900;Lutécia (SP);778
+3528007;Macatuba (SP);4872
+3528106;Macaubal (SP);1776
+3528205;Macedônia (SP);901
+3528304;Magda (SP);734
+3528403;Mairinque (SP);13369
+3528502;Mairiporã (SP);24809
+3528601;Manduri (SP);2525
+3528700;Marabá Paulista (SP);1018
+3528809;Maracaí (SP);3715
+3528858;Marapoama (SP);644
+3528908;Mariápolis (SP);1026
+3529005;Marília (SP);56476
+3529104;Marinópolis (SP);572
+3529203;Martinópolis (SP);6485
+3529302;Matão (SP);20169
+3529401;Mauá (SP);124132
+3529500;Mendonça (SP);1144
+3529609;Meridiano (SP);947
+3529658;Mesópolis (SP);527
+3529708;Miguelópolis (SP);6177
+3529807;Mineiros do Tietê (SP);3548
+3529906;Miracatu (SP);7453
+3530003;Mira Estrela (SP);710
+3530102;Mirandópolis (SP);6074
+3530201;Mirante do Paranapanema (SP);5003
+3530300;Mirassol (SP);13494
+3530409;Mirassolândia (SP);1147
+3530508;Mococa (SP);17770
+3530607;Mogi das Cruzes (SP);118434
+3530706;Mogi Guaçu (SP);37369
+3530805;Mogi Mirim (SP);22494
+3530904;Mombuca (SP);1018
+3531001;Monções (SP);456
+3531100;Mongaguá (SP);13946
+3531209;Monte Alegre do Sul (SP);1795
+3531308;Monte Alto (SP);11471
+3531407;Monte Aprazível (SP);5189
+3531506;Monte Azul Paulista (SP);5011
+3531605;Monte Castelo (SP);994
+3531704;Monteiro Lobato (SP);1237
+3531803;Monte Mor (SP);15326
+3531902;Morro Agudo (SP);9035
+3532009;Morungaba (SP);3400
+3532058;Motuca (SP);1257
+3532108;Murutinga do Sul (SP);1016
+3532157;Nantes (SP);898
+3532207;Narandiba (SP);1361
+3532306;Natividade da Serra (SP);1879
+3532405;Nazaré Paulista (SP);4703
+3532504;Neves Paulista (SP);1832
+3532603;Nhandeara (SP);2299
+3532702;Nipoã (SP);1158
+3532801;Nova Aliança (SP);1525
+3532827;Nova Campina (SP);3318
+3532843;Nova Canaã Paulista (SP);465
+3532868;Nova Castilho (SP);320
+3532900;Nova Europa (SP);2780
+3533007;Nova Granada (SP);5149
+3533106;Nova Guataporanga (SP);541
+3533205;Nova Independência (SP);958
+3533254;Novais (SP);1445
+3533304;Nova Luzitânia (SP);931
+3533403;Nova Odessa (SP);13837
+3533502;Novo Horizonte (SP);9643
+3533601;Nuporanga (SP);1846
+3533700;Ocauçu (SP);1187
+3533809;Óleo (SP);733
+3533908;Olímpia (SP);12940
+3534005;Onda Verde (SP);1130
+3534104;Oriente (SP);1563
+3534203;Orindiúva (SP);1711
+3534302;Orlândia (SP);10931
+3534401;Osasco (SP);190874
+3534500;Oscar Bressane (SP);590
+3534609;Osvaldo Cruz (SP);7076
+3534708;Ourinhos (SP);28653
+3534757;Ouroeste (SP);2269
+3534807;Ouro Verde (SP);2314
+3534906;Pacaembu (SP);2706
+3535002;Palestina (SP);2684
+3535101;Palmares Paulista (SP);3314
+3535200;Palmeira d'Oeste (SP);2315
+3535309;Palmital (SP);5471
+3535408;Panorama (SP);4596
+3535507;Paraguaçu Paulista (SP);11971
+3535606;Paraibuna (SP);5267
+3535705;Paraíso (SP);1561
+3535804;Paranapanema (SP);5813
+3535903;Paranapuã (SP);1028
+3536000;Parapuã (SP);2756
+3536109;Pardinho (SP);1790
+3536208;Pariquera-Açu (SP);5954
+3536257;Parisi (SP);479
+3536307;Patrocínio Paulista (SP);3968
+3536406;Paulicéia (SP);1982
+3536505;Paulínia (SP);23734
+3536570;Paulistânia (SP);511
+3536604;Paulo de Faria (SP);2434
+3536703;Pederneiras (SP);12592
+3536802;Pedra Bela (SP);1591
+3536901;Pedranópolis (SP);616
+3537008;Pedregulho (SP);4714
+3537107;Pedreira (SP);10849
+3537156;Pedrinhas Paulista (SP);799
+3537206;Pedro de Toledo (SP);3499
+3537305;Penápolis (SP);15280
+3537404;Pereira Barreto (SP);6828
+3537503;Pereiras (SP);2181
+3537602;Peruíbe (SP);18863
+3537701;Piacatu (SP);1425
+3537800;Piedade (SP);15622
+3537909;Pilar do Sul (SP);8356
+3538006;Pindamonhangaba (SP);44001
+3538105;Pindorama (SP);3713
+3538204;Pinhalzinho (SP);3574
+3538303;Piquerobi (SP);942
+3538501;Piquete (SP);3813
+3538600;Piracaia (SP);7108
+3538709;Piracicaba (SP);96948
+3538808;Piraju (SP);7951
+3538907;Pirajuí (SP);5218
+3539004;Pirangi (SP);2586
+3539103;Pirapora do Bom Jesus (SP);5788
+3539202;Pirapozinho (SP);6970
+3539301;Pirassununga (SP);18402
+3539400;Piratininga (SP);3210
+3539509;Pitangueiras (SP);11365
+3539608;Planalto (SP);1301
+3539707;Platina (SP);978
+3539806;Poá (SP);32988
+3539905;Poloni (SP);1297
+3540002;Pompéia (SP);5223
+3540101;Pongaí (SP);786
+3540200;Pontal (SP);12739
+3540259;Pontalinda (SP);1168
+3540309;Pontes Gestal (SP);667
+3540408;Populina (SP);1057
+3540507;Porangaba (SP);2319
+3540606;Porto Feliz (SP);13859
+3540705;Porto Ferreira (SP);14002
+3540754;Potim (SP);5668
+3540804;Potirendaba (SP);3716
+3540853;Pracinha (SP);465
+3540903;Pradópolis (SP);4994
+3541000;Praia Grande (SP);78554
+3541059;Pratânia (SP);1513
+3541109;Presidente Alves (SP);1090
+3541208;Presidente Bernardes (SP);3304
+3541307;Presidente Epitácio (SP);12055
+3541406;Presidente Prudente (SP);53967
+3541505;Presidente Venceslau (SP);9214
+3541604;Promissão (SP);10263
+3541653;Quadra (SP);945
+3541703;Quatá (SP);3796
+3541802;Queiroz (SP);932
+3541901;Queluz (SP);3408
+3542008;Quintana (SP);1636
+3542107;Rafard (SP);2410
+3542206;Rancharia (SP);8018
+3542305;Redenção da Serra (SP);1184
+3542404;Regente Feijó (SP);4964
+3542503;Reginópolis (SP);1466
+3542602;Registro (SP);17303
+3542701;Restinga (SP);2254
+3542800;Ribeira (SP);1110
+3542909;Ribeirão Bonito (SP);3689
+3543006;Ribeirão Branco (SP);6957
+3543105;Ribeirão Corrente (SP);1404
+3543204;Ribeirão do Sul (SP);1203
+3543238;Ribeirão dos Índios (SP);543
+3543253;Ribeirão Grande (SP);2325
+3543303;Ribeirão Pires (SP);30564
+3543402;Ribeirão Preto (SP);154847
+3543501;Riversul (SP);1919
+3543600;Rifaina (SP);928
+3543709;Rincão (SP);3191
+3543808;Rinópolis (SP);2505
+3543907;Rio Claro (SP);48035
+3544004;Rio das Pedras (SP);8735
+3544103;Rio Grande da Serra (SP);14158
+3544202;Riolândia (SP);2815
+3544251;Rosana (SP);6309
+3544301;Roseira (SP);2868
+3544400;Rubiácea (SP);794
+3544509;Rubinéia (SP);692
+3544608;Sabino (SP);1395
+3544707;Sagres (SP);686
+3544806;Sales (SP);1459
+3544905;Sales Oliveira (SP);2834
+3545001;Salesópolis (SP);4918
+3545100;Salmourão (SP);1404
+3545159;Saltinho (SP);1725
+3545209;Salto (SP);29710
+3545308;Salto de Pirapora (SP);12196
+3545407;Salto Grande (SP);2591
+3545506;Sandovalina (SP);1210
+3545605;Santa Adélia (SP);3868
+3545704;Santa Albertina (SP);1325
+3545803;Santa Bárbara d'Oeste (SP);46943
+3546009;Santa Branca (SP);3980
+3546108;Santa Clara d'Oeste (SP);525
+3546207;Santa Cruz da Conceição (SP);1059
+3546256;Santa Cruz da Esperança (SP);618
+3546306;Santa Cruz das Palmeiras (SP);8741
+3546405;Santa Cruz do Rio Pardo (SP);12338
+3546504;Santa Ernestina (SP);1674
+3546603;Santa Fé do Sul (SP);7005
+3546702;Santa Gertrudes (SP);6620
+3546801;Santa Isabel (SP);15307
+3546900;Santa Lúcia (SP);2550
+3547007;Santa Maria da Serra (SP);1675
+3547106;Santa Mercedes (SP);841
+3547205;Santana da Ponte Pensa (SP);324
+3547304;Santana de Parnaíba (SP);34784
+3547403;Santa Rita d'Oeste (SP);542
+3547502;Santa Rita do Passa Quatro (SP);6133
+3547601;Santa Rosa de Viterbo (SP);6544
+3547650;Santa Salete (SP);314
+3547700;Santo Anastácio (SP);5442
+3547809;Santo André (SP);167509
+3547908;Santo Antônio da Alegria (SP);1702
+3548005;Santo Antônio de Posse (SP);6184
+3548054;Santo Antônio do Aracanguá (SP);2125
+3548104;Santo Antônio do Jardim (SP);1574
+3548203;Santo Antônio do Pinhal (SP);2010
+3548302;Santo Expedito (SP);748
+3548401;Santópolis do Aguapeí (SP);1253
+3548500;Santos (SP);92025
+3548609;São Bento do Sapucaí (SP);2936
+3548708;São Bernardo do Campo (SP);206152
+3548807;São Caetano do Sul (SP);30154
+3548906;São Carlos (SP);56734
+3549003;São Francisco (SP);714
+3549102;São João da Boa Vista (SP);20752
+3549201;São João das Duas Pontes (SP);693
+3549250;São João de Iracema (SP);486
+3549300;São João do Pau d'Alho (SP);486
+3549409;São Joaquim da Barra (SP);12638
+3549508;São José da Bela Vista (SP);2856
+3549607;São José do Barreiro (SP);1291
+3549706;São José do Rio Pardo (SP);13459
+3549805;São José do Rio Preto (SP);97169
+3549904;São José dos Campos (SP);178428
+3549953;São Lourenço da Serra (SP);4414
+3550001;São Luiz do Paraitinga (SP);2892
+3550100;São Manuel (SP);10920
+3550209;São Miguel Arcanjo (SP);10255
+3550308;São Paulo (SP);3008626
+3550407;São Pedro (SP);8709
+3550506;São Pedro do Turvo (SP);2242
+3550605;São Roque (SP);21575
+3550704;São Sebastião (SP);23235
+3550803;São Sebastião da Grama (SP);3425
+3550902;São Simão (SP);4057
+3551009;São Vicente (SP);97286
+3551108;Sarapuí (SP);2875
+3551207;Sarutaiá (SP);1124
+3551306;Sebastianópolis do Sul (SP);694
+3551405;Serra Azul (SP);2973
+3551504;Serrana (SP);12378
+3551603;Serra Negra (SP);6456
+3551702;Sertãozinho (SP);30877
+3551801;Sete Barras (SP);4538
+3551900;Severínia (SP);4775
+3552007;Silveiras (SP);1783
+3552106;Socorro (SP);9010
+3552205;Sorocaba (SP);161849
+3552304;Sud Mennucci (SP);2110
+3552403;Sumaré (SP);71853
+3552502;Suzano (SP);84308
+3552551;Suzanápolis (SP);963
+3552601;Tabapuã (SP);2758
+3552700;Tabatinga (SP);4148
+3552809;Taboão da Serra (SP);74769
+3552908;Taciba (SP);1665
+3553005;Taguaí (SP);3353
+3553104;Taiaçu (SP);1721
+3553203;Taiúva (SP);1346
+3553302;Tambaú (SP);6367
+3553401;Tanabi (SP);5692
+3553500;Tapiraí (SP);2884
+3553609;Tapiratiba (SP);3644
+3553658;Taquaral (SP);768
+3553708;Taquaritinga (SP);14804
+3553807;Taquarituba (SP);6664
+3553856;Taquarivaí (SP);1917
+3553906;Tarabai (SP);2080
+3553955;Tarumã (SP);3949
+3554003;Tatuí (SP);31981
+3554102;Taubaté (SP);77283
+3554201;Tejupá (SP);1664
+3554300;Teodoro Sampaio (SP);6770
+3554409;Terra Roxa (SP);2422
+3554508;Tietê (SP);9933
+3554607;Timburi (SP);741
+3554656;Torre de Pedra (SP);647
+3554706;Torrinha (SP);2368
+3554755;Trabiju (SP);492
+3554805;Tremembé (SP);11163
+3554904;Três Fronteiras (SP);1337
+3554953;Tuiuti (SP);1477
+3555000;Tupã (SP);15243
+3555109;Tupi Paulista (SP);2835
+3555208;Turiúba (SP);445
+3555307;Turmalina (SP);434
+3555356;Ubarana (SP);1710
+3555406;Ubatuba (SP);24955
+3555505;Ubirajara (SP);1320
+3555604;Uchoa (SP);2336
+3555703;União Paulista (SP);458
+3555802;Urânia (SP);2138
+3555901;Uru (SP);294
+3556008;Urupês (SP);2967
+3556107;Valentim Gentil (SP);2904
+3556206;Valinhos (SP);26371
+3556305;Valparaíso (SP);6005
+3556354;Vargem (SP);2467
+3556404;Vargem Grande do Sul (SP);11131
+3556453;Vargem Grande Paulista (SP);13400
+3556503;Várzea Paulista (SP);32560
+3556602;Vera Cruz (SP);2981
+3556701;Vinhedo (SP);16340
+3556800;Viradouro (SP);4958
+3556909;Vista Alegre do Alto (SP);1877
+3556958;Vitória Brasil (SP);447
+3557006;Votorantim (SP);32858
+3557105;Votuporanga (SP);20010
+3557154;Zacarias (SP);592
+3557204;Chavantes (SP);3611
+3557303;Estiva Gerbi (SP);2912
+4100103;Abatiá (PR);2293
+4100202;Adrianópolis (PR);2306
+4100301;Agudos do Sul (PR);2777
+4100400;Almirante Tamandaré (PR);36724
+4100459;Altamira do Paraná (PR);1407
+4100509;Altônia (PR);5784
+4100608;Alto Paraná (PR);4029
+4100707;Alto Piquiri (PR);3037
+4100806;Alvorada do Sul (PR);2942
+4100905;Amaporã (PR);1857
+4101002;Ampére (PR);5527
+4101051;Anahy (PR);861
+4101101;Andirá (PR);5608
+4101150;Ângulo (PR);801
+4101200;Antonina (PR);6262
+4101309;Antônio Olinto (PR);2269
+4101408;Apucarana (PR);34338
+4101507;Arapongas (PR);28673
+4101606;Arapoti (PR);8901
+4101655;Arapuã (PR);1073
+4101705;Araruna (PR);3882
+4101804;Araucária (PR);39077
+4101853;Ariranha do Ivaí (PR);681
+4101903;Assaí (PR);4693
+4102000;Assis Chateaubriand (PR);8995
+4102109;Astorga (PR);6637
+4102208;Atalaia (PR);1022
+4102307;Balsa Nova (PR);3473
+4102406;Bandeirantes (PR);9353
+4102505;Barbosa Ferraz (PR);3688
+4102604;Barracão (PR);3087
+4102703;Barra do Jacaré (PR);677
+4102752;Bela Vista da Caroba (PR);1260
+4102802;Bela Vista do Paraíso (PR);4132
+4102901;Bituruna (PR);5882
+4103008;Boa Esperança (PR);1198
+4103024;Boa Esperança do Iguaçu (PR);895
+4103040;Boa Ventura de São Roque (PR);2362
+4103057;Boa Vista da Aparecida (PR);2657
+4103107;Bocaiúva do Sul (PR);3909
+4103156;Bom Jesus do Sul (PR);1224
+4103206;Bom Sucesso (PR);2006
+4103222;Bom Sucesso do Sul (PR);922
+4103305;Borrazópolis (PR);2066
+4103354;Braganey (PR);1731
+4103370;Brasilândia do Sul (PR);916
+4103404;Cafeara (PR);770
+4103453;Cafelândia (PR);4470
+4103479;Cafezal do Sul (PR);1151
+4103503;Califórnia (PR);2370
+4103602;Cambará (PR);6701
+4103701;Cambé (PR);27705
+4103800;Cambira (PR);1955
+4103909;Campina da Lagoa (PR);4813
+4103958;Campina do Simão (PR);1511
+4104006;Campina Grande do Sul (PR);13297
+4104055;Campo Bonito (PR);1523
+4104105;Campo do Tenente (PR);2629
+4104204;Campo Largo (PR);34430
+4104253;Campo Magro (PR);8502
+4104303;Campo Mourão (PR);25619
+4104402;Cândido de Abreu (PR);5767
+4104428;Candói (PR);5524
+4104451;Cantagalo (PR);4767
+4104501;Capanema (PR);5295
+4104600;Capitão Leônidas Marques (PR);4657
+4104659;Carambeí (PR);6907
+4104709;Carlópolis (PR);4084
+4104808;Cascavel (PR);86567
+4104907;Castro (PR);23877
+4105003;Catanduvas (PR);3504
+4105102;Centenário do Sul (PR);3183
+4105201;Cerro Azul (PR);6321
+4105300;Céu Azul (PR);3139
+4105409;Chopinzinho (PR);6118
+4105508;Cianorte (PR);19368
+4105607;Cidade Gaúcha (PR);3466
+4105706;Clevelândia (PR);5904
+4105805;Colombo (PR);71996
+4105904;Colorado (PR);5782
+4106001;Congonhinhas (PR);2610
+4106100;Conselheiro Mairinck (PR);1118
+4106209;Contenda (PR);5150
+4106308;Corbélia (PR);4872
+4106407;Cornélio Procópio (PR);12247
+4106456;Coronel Domingos Soares (PR);2803
+4106506;Coronel Vivida (PR);6612
+4106555;Corumbataí do Sul (PR);1197
+4106571;Cruzeiro do Iguaçu (PR);1408
+4106605;Cruzeiro do Oeste (PR);5665
+4106704;Cruzeiro do Sul (PR);1290
+4106803;Cruz Machado (PR);6261
+4106852;Cruzmaltina (PR);879
+4106902;Curitiba (PR);460161
+4107009;Curiúva (PR);4583
+4107108;Diamante do Norte (PR);1582
+4107124;Diamante do Sul (PR);1334
+4107157;Diamante D'Oeste (PR);1752
+4107207;Dois Vizinhos (PR);10943
+4107256;Douradina (PR);2056
+4107306;Doutor Camargo (PR);1435
+4107405;Enéas Marques (PR);1869
+4107504;Engenheiro Beltrão (PR);3959
+4107520;Esperança Nova (PR);502
+4107538;Entre Rios do Oeste (PR);1094
+4107546;Espigão Alto do Iguaçu (PR);1659
+4107553;Farol (PR);1112
+4107603;Faxinal (PR);5107
+4107652;Fazenda Rio Grande (PR);29606
+4107702;Fênix (PR);1399
+4107736;Fernandes Pinheiro (PR);2088
+4107751;Figueira (PR);2584
+4107801;Floraí (PR);1188
+4107850;Flor da Serra do Sul (PR);1576
+4107900;Floresta (PR);1586
+4108007;Florestópolis (PR);3342
+4108106;Flórida (PR);706
+4108205;Formosa do Oeste (PR);1781
+4108304;Foz do Iguaçu (PR);85198
+4108320;Francisco Alves (PR);1955
+4108403;Francisco Beltrão (PR);23263
+4108452;Foz do Jordão (PR);2086
+4108502;General Carneiro (PR);5273
+4108551;Godoy Moreira (PR);963
+4108601;Goioerê (PR);8358
+4108650;Goioxim (PR);2911
+4108700;Grandes Rios (PR);2077
+4108809;Guaíra (PR);9580
+4108908;Guairaçá (PR);1900
+4108957;Guamiranga (PR);2653
+4109005;Guapirama (PR);1203
+4109104;Guaporema (PR);654
+4109203;Guaraci (PR);1541
+4109302;Guaraniaçu (PR);4684
+4109401;Guarapuava (PR);55500
+4109500;Guaraqueçaba (PR);2869
+4109609;Guaratuba (PR);10744
+4109658;Honório Serpa (PR);2153
+4109708;Ibaiti (PR);8978
+4109757;Ibema (PR);2107
+4109807;Ibiporã (PR);13877
+4109906;Icaraíma (PR);2586
+4110003;Iguaraçu (PR);1139
+4110052;Iguatu (PR);663
+4110078;Imbaú (PR);4087
+4110102;Imbituva (PR);9806
+4110201;Inácio Martins (PR);4299
+4110300;Inajá (PR);921
+4110409;Indianópolis (PR);1166
+4110508;Ipiranga (PR);4972
+4110607;Iporã (PR);4244
+4110656;Iracema do Oeste (PR);711
+4110706;Irati (PR);16737
+4110805;Iretama (PR);3405
+4110904;Itaguajé (PR);1432
+4110953;Itaipulândia (PR);2814
+4111001;Itambaracá (PR);1986
+4111100;Itambé (PR);1635
+4111209;Itapejara d'Oeste (PR);3091
+4111258;Itaperuçu (PR);9142
+4111308;Itaúna do Sul (PR);1149
+4111407;Ivaí (PR);4433
+4111506;Ivaiporã (PR);8943
+4111555;Ivaté (PR);2170
+4111605;Ivatuba (PR);1026
+4111704;Jaboti (PR);1450
+4111803;Jacarezinho (PR);11807
+4111902;Jaguapitã (PR);3461
+4112009;Jaguariaíva (PR);11094
+4112108;Jandaia do Sul (PR);5437
+4112207;Janiópolis (PR);1860
+4112306;Japira (PR);1534
+4112405;Japurá (PR);2196
+4112504;Jardim Alegre (PR);3638
+4112603;Jardim Olinda (PR);438
+4112702;Jataizinho (PR);3893
+4112751;Jesuítas (PR);2349
+4112801;Joaquim Távora (PR);3066
+4112900;Jundiaí do Sul (PR);1059
+4112959;Juranda (PR);2209
+4113007;Jussara (PR);1951
+4113106;Kaloré (PR);1118
+4113205;Lapa (PR);13992
+4113254;Laranjal (PR);2640
+4113304;Laranjeiras do Sul (PR);10288
+4113403;Leópolis (PR);1152
+4113429;Lidianópolis (PR);1052
+4113452;Lindoeste (PR);1715
+4113502;Loanda (PR);6168
+4113601;Lobato (PR);1225
+4113700;Londrina (PR);138251
+4113734;Luiziana (PR);2395
+4113759;Lunardelli (PR);1482
+4113809;Lupionópolis (PR);1299
+4113908;Mallet (PR);3867
+4114005;Mamborê (PR);4153
+4114104;Mandaguaçu (PR);5818
+4114203;Mandaguari (PR);8860
+4114302;Mandirituba (PR);7578
+4114351;Manfrinópolis (PR);1089
+4114401;Mangueirinha (PR);6163
+4114500;Manoel Ribas (PR);4424
+4114609;Marechal Cândido Rondon (PR);12825
+4114708;Maria Helena (PR);1647
+4114807;Marialva (PR);8784
+4114906;Marilândia do Sul (PR);2692
+4115002;Marilena (PR);2114
+4115101;Mariluz (PR);3378
+4115200;Maringá (PR);89433
+4115309;Mariópolis (PR);1876
+4115358;Maripá (PR);1466
+4115408;Marmeleiro (PR);4361
+4115457;Marquinho (PR);1821
+4115507;Marumbi (PR);1288
+4115606;Matelândia (PR);5039
+4115705;Matinhos (PR);9424
+4115739;Mato Rico (PR);1253
+4115754;Mauá da Serra (PR);3079
+4115804;Medianeira (PR);12281
+4115853;Mercedes (PR);1456
+4115903;Mirador (PR);749
+4116000;Miraselva (PR);474
+4116059;Missal (PR);2906
+4116109;Moreira Sales (PR);3669
+4116208;Morretes (PR);5189
+4116307;Munhoz de Melo (PR);1026
+4116406;Nossa Senhora das Graças (PR);1090
+4116505;Nova Aliança do Ivaí (PR);453
+4116604;Nova América da Colina (PR);1068
+4116703;Nova Aurora (PR);3300
+4116802;Nova Cantu (PR);2474
+4116901;Nova Esperança (PR);7470
+4116950;Nova Esperança do Sudoeste (PR);1665
+4117008;Nova Fátima (PR);2439
+4117057;Nova Laranjeiras (PR);4358
+4117107;Nova Londrina (PR);3989
+4117206;Nova Olímpia (PR);1483
+4117214;Nova Santa Bárbara (PR);1225
+4117222;Nova Santa Rosa (PR);2075
+4117255;Nova Prata do Iguaçu (PR);3179
+4117271;Nova Tebas (PR);2390
+4117297;Novo Itacolomi (PR);756
+4117305;Ortigueira (PR);8080
+4117404;Ourizona (PR);893
+4117453;Ouro Verde do Oeste (PR);1732
+4117503;Paiçandu (PR);10822
+4117602;Palmas (PR);16558
+4117701;Palmeira (PR);10272
+4117800;Palmital (PR);5428
+4117909;Palotina (PR);8165
+4118006;Paraíso do Norte (PR);3433
+4118105;Paranacity (PR);3279
+4118204;Paranaguá (PR);47956
+4118303;Paranapoema (PR);906
+4118402;Paranavaí (PR);22946
+4118451;Pato Bragado (PR);1353
+4118501;Pato Branco (PR);21543
+4118600;Paula Freitas (PR);1649
+4118709;Paulo Frontin (PR);2055
+4118808;Peabiru (PR);4115
+4118857;Perobal (PR);1614
+4118907;Pérola (PR);2576
+4119004;Pérola d'Oeste (PR);1969
+4119103;Piên (PR);3717
+4119152;Pinhais (PR);36242
+4119202;Pinhalão (PR);1841
+4119251;Pinhal de São Bento (PR);926
+4119301;Pinhão (PR);11909
+4119400;Piraí do Sul (PR);7826
+4119509;Piraquara (PR);32545
+4119608;Pitanga (PR);10761
+4119657;Pitangueiras (PR);866
+4119707;Planaltina do Paraná (PR);1244
+4119806;Planalto (PR);3796
+4119905;Ponta Grossa (PR);99390
+4119954;Pontal do Paraná (PR);6418
+4120002;Porecatu (PR);3968
+4120101;Porto Amazonas (PR);1496
+4120150;Porto Barreiro (PR);1225
+4120200;Porto Rico (PR);795
+4120309;Porto Vitória (PR);1318
+4120333;Prado Ferreira (PR);1024
+4120358;Pranchita (PR);1544
+4120408;Presidente Castelo Branco (PR);1495
+4120507;Primeiro de Maio (PR);2829
+4120606;Prudentópolis (PR);15756
+4120655;Quarto Centenário (PR);1441
+4120705;Quatiguá (PR);1848
+4120804;Quatro Barras (PR);6519
+4120853;Quatro Pontes (PR);1001
+4120903;Quedas do Iguaçu (PR);10936
+4121000;Querência do Norte (PR);3809
+4121109;Quinta do Sol (PR);1536
+4121208;Quitandinha (PR);5534
+4121257;Ramilândia (PR);1455
+4121307;Rancho Alegre (PR);1076
+4121356;Rancho Alegre D'Oeste (PR);838
+4121406;Realeza (PR);4769
+4121505;Rebouças (PR);4643
+4121604;Renascença (PR);2192
+4121703;Reserva (PR);9305
+4121752;Reserva do Iguaçu (PR);3051
+4121802;Ribeirão Claro (PR);3000
+4121901;Ribeirão do Pinhal (PR);4241
+4122008;Rio Azul (PR);4594
+4122107;Rio Bom (PR);886
+4122156;Rio Bonito do Iguaçu (PR);5271
+4122172;Rio Branco do Ivaí (PR);1420
+4122206;Rio Branco do Sul (PR);10929
+4122305;Rio Negro (PR);9880
+4122404;Rolândia (PR);16093
+4122503;Roncador (PR);3554
+4122602;Rondon (PR);2665
+4122651;Rosário do Ivaí (PR);1791
+4122701;Sabáudia (PR);1746
+4122800;Salgado Filho (PR);1435
+4122909;Salto do Itararé (PR);1463
+4123006;Salto do Lontra (PR);4317
+4123105;Santa Amélia (PR);1201
+4123204;Santa Cecília do Pavão (PR);1089
+4123303;Santa Cruz de Monte Castelo (PR);2298
+4123402;Santa Fé (PR);2807
+4123501;Santa Helena (PR);6882
+4123600;Santa Inês (PR);518
+4123709;Santa Isabel do Ivaí (PR);2339
+4123808;Santa Izabel do Oeste (PR);4056
+4123824;Santa Lúcia (PR);1187
+4123857;Santa Maria do Oeste (PR);4159
+4123907;Santa Mariana (PR);3380
+4123956;Santa Mônica (PR);1162
+4124004;Santana do Itararé (PR);1617
+4124020;Santa Tereza do Oeste (PR);3474
+4124053;Santa Terezinha de Itaipu (PR);6647
+4124103;Santo Antônio da Platina (PR);13014
+4124202;Santo Antônio do Caiuá (PR);796
+4124301;Santo Antônio do Paraíso (PR);709
+4124400;Santo Antônio do Sudoeste (PR);6430
+4124509;Santo Inácio (PR);1454
+4124608;São Carlos do Ivaí (PR);1916
+4124707;São Jerônimo da Serra (PR);3803
+4124806;São João (PR);3057
+4124905;São João do Caiuá (PR);1850
+4125001;São João do Ivaí (PR);3162
+4125100;São João do Triunfo (PR);4778
+4125209;São Jorge d'Oeste (PR);2542
+4125308;São Jorge do Ivaí (PR);1423
+4125357;São Jorge do Patrocínio (PR);1589
+4125407;São José da Boa Vista (PR);2037
+4125456;São José das Palmeiras (PR);1154
+4125506;São José dos Pinhais (PR);85272
+4125555;São Manoel do Paraná (PR);565
+4125605;São Mateus do Sul (PR);13309
+4125704;São Miguel do Iguaçu (PR);8131
+4125753;São Pedro do Iguaçu (PR);1963
+4125803;São Pedro do Ivaí (PR);2962
+4125902;São Pedro do Paraná (PR);740
+4126009;São Sebastião da Amoreira (PR);2651
+4126108;São Tomé (PR);1555
+4126207;Sapopema (PR);2273
+4126256;Sarandi (PR);26009
+4126272;Saudade do Iguaçu (PR);1733
+4126306;Sengés (PR);6650
+4126355;Serranópolis do Iguaçu (PR);1195
+4126405;Sertaneja (PR);1546
+4126504;Sertanópolis (PR);4295
+4126603;Siqueira Campos (PR);5316
+4126652;Sulina (PR);945
+4126678;Tamarana (PR);4317
+4126702;Tamboara (PR);1246
+4126801;Tapejara (PR);4463
+4126900;Tapira (PR);1578
+4127007;Teixeira Soares (PR);3615
+4127106;Telêmaco Borba (PR);22739
+4127205;Terra Boa (PR);4411
+4127304;Terra Rica (PR);4547
+4127403;Terra Roxa (PR);4734
+4127502;Tibagi (PR);7148
+4127601;Tijucas do Sul (PR);4962
+4127700;Toledo (PR);34169
+4127809;Tomazina (PR);2447
+4127858;Três Barras do Paraná (PR);4013
+4127882;Tunas do Paraná (PR);2621
+4127908;Tuneiras do Oeste (PR);2628
+4127957;Tupãssi (PR);2217
+4127965;Turvo (PR);4977
+4128005;Ubiratã (PR);6045
+4128104;Umuarama (PR);27117
+4128203;União da Vitória (PR);16957
+4128302;Uniflor (PR);729
+4128401;Uraí (PR);3146
+4128500;Wenceslau Braz (PR);6004
+4128534;Ventania (PR);3522
+4128559;Vera Cruz do Oeste (PR);2701
+4128609;Verê (PR);2211
+4128625;Alto Paraíso (PR);988
+4128633;Doutor Ulysses (PR);2250
+4128658;Virmond (PR);1278
+4128708;Vitorino (PR);2037
+4128807;Xambrê (PR);1646
+4200051;Abdon Batista (SC);758
+4200101;Abelardo Luz (SC);6110
+4200200;Agrolândia (SC);2729
+4200309;Agronômica (SC);1501
+4200408;Água Doce (SC);2304
+4200507;Águas de Chapecó (SC);1719
+4200556;Águas Frias (SC);692
+4200606;Águas Mornas (SC);1528
+4200705;Alfredo Wagner (SC);2890
+4200754;Alto Bela Vista (SC);501
+4200804;Anchieta (SC);1926
+4200903;Angelina (SC);1433
+4201000;Anita Garibaldi (SC);2693
+4201109;Anitápolis (SC);929
+4201208;Antônio Carlos (SC);2126
+4201257;Apiúna (SC);3027
+4201273;Arabutã (SC);1075
+4201307;Araquari (SC);8901
+4201406;Araranguá (SC);18313
+4201505;Armazém (SC);2240
+4201604;Arroio Trinta (SC);886
+4201653;Arvoredo (SC);650
+4201703;Ascurra (SC);2023
+4201802;Atalanta (SC);964
+4201901;Aurora (SC);1646
+4201950;Balneário Arroio do Silva (SC);2716
+4202008;Balneário Camboriú (SC);26121
+4202057;Balneário Barra do Sul (SC);2356
+4202073;Balneário Gaivota (SC);2405
+4202081;Bandeirante (SC);843
+4202099;Barra Bonita (SC);567
+4202107;Barra Velha (SC);7098
+4202131;Bela Vista do Toldo (SC);2004
+4202156;Belmonte (SC);771
+4202206;Benedito Novo (SC);2831
+4202305;Biguaçu (SC);17955
+4202404;Blumenau (SC);81615
+4202438;Bocaina do Sul (SC);1032
+4202453;Bombinhas (SC);4247
+4202503;Bom Jardim da Serra (SC);1409
+4202537;Bom Jesus (SC);791
+4202578;Bom Jesus do Oeste (SC);597
+4202602;Bom Retiro (SC);3082
+4202701;Botuverá (SC);1104
+4202800;Braço do Norte (SC);8938
+4202859;Braço do Trombudo (SC);934
+4202875;Brunópolis (SC);891
+4202909;Brusque (SC);27977
+4203006;Caçador (SC);23125
+4203105;Caibi (SC);1734
+4203154;Calmon (SC);1443
+4203204;Camboriú (SC);21335
+4203253;Capão Alto (SC);833
+4203303;Campo Alegre (SC);3631
+4203402;Campo Belo do Sul (SC);2402
+4203501;Campo Erê (SC);3227
+4203600;Campos Novos (SC);10410
+4203709;Canelinha (SC);3391
+4203808;Canoinhas (SC);16494
+4203907;Capinzal (SC);6152
+4203956;Capivari de Baixo (SC);6277
+4204004;Catanduvas (SC);3069
+4204103;Caxambu do Sul (SC);1224
+4204152;Celso Ramos (SC);807
+4204178;Cerro Negro (SC);1134
+4204194;Chapadão do Lageado (SC);949
+4204202;Chapecó (SC);54348
+4204251;Cocal do Sul (SC);4045
+4204301;Concórdia (SC);18164
+4204350;Cordilheira Alta (SC);992
+4204400;Coronel Freitas (SC);2764
+4204459;Coronel Martins (SC);786
+4204509;Corupá (SC);3907
+4204558;Correia Pinto (SC);4803
+4204608;Criciúma (SC);53589
+4204707;Cunha Porã (SC);2733
+4204756;Cunhataí (SC);506
+4204806;Curitibanos (SC);12404
+4204905;Descanso (SC);2241
+4205001;Dionísio Cerqueira (SC);4883
+4205100;Dona Emma (SC);1167
+4205159;Doutor Pedrinho (SC);1051
+4205175;Entre Rios (SC);1171
+4205191;Ermo (SC);612
+4205209;Erval Velho (SC);1186
+4205308;Faxinal dos Guedes (SC);3372
+4205357;Flor do Sertão (SC);472
+4205407;Florianópolis (SC);100536
+4205431;Formosa do Sul (SC);765
+4205456;Forquilhinha (SC);7061
+4205506;Fraiburgo (SC);11897
+4205555;Frei Rogério (SC);820
+4205605;Galvão (SC);1046
+4205704;Garopaba (SC);5069
+4205803;Garuva (SC);5180
+4205902;Gaspar (SC);16819
+4206009;Governador Celso Ramos (SC);3552
+4206108;Grão-Pará (SC);1755
+4206207;Gravatal (SC);2962
+4206306;Guabiruba (SC);5152
+4206405;Guaraciaba (SC);2706
+4206504;Guaramirim (SC);10926
+4206603;Guarujá do Sul (SC);1320
+4206652;Guatambú (SC);1503
+4206702;Herval d'Oeste (SC);5989
+4206751;Ibiam (SC);537
+4206801;Ibicaré (SC);872
+4206900;Ibirama (SC);5050
+4207007;Içara (SC);17549
+4207106;Ilhota (SC);3852
+4207205;Imaruí (SC);3289
+4207304;Imbituba (SC);11068
+4207403;Imbuia (SC);1861
+4207502;Indaial (SC);15963
+4207577;Iomerê (SC);672
+4207601;Ipira (SC);1263
+4207650;Iporã do Oeste (SC);2342
+4207684;Ipuaçu (SC);2821
+4207700;Ipumirim (SC);1932
+4207759;Iraceminha (SC);1202
+4207809;Irani (SC);3030
+4207858;Irati (SC);620
+4207908;Irineópolis (SC);3497
+4208005;Itá (SC);1843
+4208104;Itaiópolis (SC);6826
+4208203;Itajaí (SC);53788
+4208302;Itapema (SC);13355
+4208401;Itapiranga (SC);4433
+4208450;Itapoá (SC);4321
+4208500;Ituporanga (SC);6907
+4208609;Jaborá (SC);1078
+4208708;Jacinto Machado (SC);3004
+4208807;Jaguaruna (SC);4736
+4208906;Jaraguá do Sul (SC);39169
+4208955;Jardinópolis (SC);522
+4209003;Joaçaba (SC);7075
+4209102;Joinville (SC);147251
+4209151;José Boiteux (SC);1663
+4209177;Jupiá (SC);647
+4209201;Lacerdópolis (SC);555
+4209300;Lages (SC);47542
+4209409;Laguna (SC);14329
+4209458;Lajeado Grande (SC);390
+4209508;Laurentino (SC);1686
+4209607;Lauro Müller (SC);4159
+4209706;Lebon Régis (SC);4435
+4209805;Leoberto Leal (SC);979
+4209854;Lindóia do Sul (SC);1202
+4209904;Lontras (SC);3113
+4210001;Luiz Alves (SC);3235
+4210035;Luzerna (SC);1338
+4210050;Macieira (SC);575
+4210100;Mafra (SC);15909
+4210209;Major Gercino (SC);961
+4210308;Major Vieira (SC);2442
+4210407;Maracajá (SC);1889
+4210506;Maravilha (SC);6150
+4210555;Marema (SC);597
+4210605;Massaranduba (SC);3960
+4210704;Matos Costa (SC);1061
+4210803;Meleiro (SC);1930
+4210852;Mirim Doce (SC);775
+4210902;Modelo (SC);1172
+4211009;Mondaí (SC);2710
+4211058;Monte Carlo (SC);3546
+4211108;Monte Castelo (SC);2894
+4211207;Morro da Fumaça (SC);5053
+4211256;Morro Grande (SC);826
+4211306;Navegantes (SC);19638
+4211405;Nova Erechim (SC);1235
+4211454;Nova Itaberaba (SC);1351
+4211504;Nova Trento (SC);3214
+4211603;Nova Veneza (SC);3817
+4211652;Novo Horizonte (SC);838
+4211702;Orleans (SC);6082
+4211751;Otacílio Costa (SC);5322
+4211801;Ouro (SC);1978
+4211850;Ouro Verde (SC);708
+4211876;Paial (SC);515
+4211892;Painel (SC);715
+4211900;Palhoça (SC);41868
+4212007;Palma Sola (SC);2645
+4212056;Palmeira (SC);747
+4212106;Palmitos (SC);4245
+4212205;Papanduva (SC);6046
+4212239;Paraíso (SC);1215
+4212254;Passo de Torres (SC);2102
+4212270;Passos Maia (SC);1615
+4212304;Paulo Lopes (SC);2038
+4212403;Pedras Grandes (SC);1014
+4212502;Penha (SC);7432
+4212601;Peritiba (SC);723
+4212700;Petrolândia (SC);1765
+4212809;Balneário Piçarras (SC);5376
+4212908;Pinhalzinho (SC);4746
+4213005;Pinheiro Preto (SC);921
+4213104;Piratuba (SC);1221
+4213153;Planalto Alegre (SC);737
+4213203;Pomerode (SC);6857
+4213302;Ponte Alta (SC);1676
+4213351;Ponte Alta do Norte (SC);1192
+4213401;Ponte Serrada (SC);3814
+4213500;Porto Belo (SC);4783
+4213609;Porto União (SC);10235
+4213708;Pouso Redondo (SC);4604
+4213807;Praia Grande (SC);2121
+4213906;Presidente Castello Branco (SC);435
+4214003;Presidente Getúlio (SC);4241
+4214102;Presidente Nereu (SC);665
+4214151;Princesa (SC);828
+4214201;Quilombo (SC);2967
+4214300;Rancho Queimado (SC);738
+4214409;Rio das Antas (SC);1900
+4214508;Rio do Campo (SC);1871
+4214607;Rio do Oeste (SC);1959
+4214706;Rio dos Cedros (SC);2612
+4214805;Rio do Sul (SC);16645
+4214904;Rio Fortuna (SC);1102
+4215000;Rio Negrinho (SC);13218
+4215059;Rio Rufino (SC);807
+4215075;Riqueza (SC);1495
+4215109;Rodeio (SC);2630
+4215208;Romelândia (SC);1628
+4215307;Salete (SC);2263
+4215356;Saltinho (SC);1358
+4215406;Salto Veloso (SC);1268
+4215455;Sangão (SC);3722
+4215505;Santa Cecília (SC);5746
+4215554;Santa Helena (SC);645
+4215604;Santa Rosa de Lima (SC);555
+4215653;Santa Rosa do Sul (SC);2453
+4215679;Santa Terezinha (SC);2948
+4215687;Santa Terezinha do Progresso (SC);933
+4215695;Santiago do Sul (SC);431
+4215703;Santo Amaro da Imperatriz (SC);5571
+4215752;São Bernardino (SC);923
+4215802;São Bento do Sul (SC);22249
+4215901;São Bonifácio (SC);711
+4216008;São Carlos (SC);2627
+4216057;São Cristóvão do Sul (SC);1570
+4216107;São Domingos (SC);2839
+4216206;São Francisco do Sul (SC);13159
+4216255;São João do Oeste (SC);1480
+4216305;São João Batista (SC);8040
+4216354;São João do Itaperiú (SC);1101
+4216404;São João do Sul (SC);2113
+4216503;São Joaquim (SC);7322
+4216602;São José (SC);55531
+4216701;São José do Cedro (SC);3806
+4216800;São José do Cerrito (SC);2793
+4216909;São Lourenço do Oeste (SC);6490
+4217006;São Ludgero (SC);3376
+4217105;São Martinho (SC);806
+4217154;São Miguel da Boa Vista (SC);539
+4217204;São Miguel do Oeste (SC);9554
+4217253;São Pedro de Alcântara (SC);817
+4217303;Saudades (SC);2540
+4217402;Schroeder (SC);4578
+4217501;Seara (SC);4508
+4217550;Serra Alta (SC);953
+4217600;Siderópolis (SC);3620
+4217709;Sombrio (SC);8393
+4217758;Sul Brasil (SC);845
+4217808;Taió (SC);5012
+4217907;Tangará (SC);2437
+4217956;Tigrinhos (SC);493
+4218004;Tijucas (SC);9149
+4218103;Timbé do Sul (SC);1510
+4218202;Timbó (SC);9379
+4218251;Timbó Grande (SC);2905
+4218301;Três Barras (SC);6496
+4218350;Treviso (SC);883
+4218400;Treze de Maio (SC);1889
+4218509;Treze Tílias (SC);1856
+4218608;Trombudo Central (SC);1835
+4218707;Tubarão (SC);24446
+4218756;Tunápolis (SC);1275
+4218806;Turvo (SC);3334
+4218855;União do Oeste (SC);827
+4218905;Urubici (SC);3405
+4218954;Urupema (SC);702
+4219002;Urussanga (SC);4877
+4219101;Vargeão (SC);1142
+4219150;Vargem (SC);870
+4219176;Vargem Bonita (SC);1629
+4219200;Vidal Ramos (SC);2040
+4219309;Videira (SC);13893
+4219358;Vitor Meireles (SC);1819
+4219408;Witmarsum (SC);1083
+4219507;Xanxerê (SC);13025
+4219606;Xavantina (SC);1038
+4219705;Xaxim (SC);7473
+4219853;Zortéa (SC);921
+4300034;Aceguá (RS);1347
+4300059;Água Santa (RS);1080
+4300109;Agudo (RS);4293
+4300208;Ajuricaba (RS);1759
+4300307;Alecrim (RS);1708
+4300406;Alegrete (RS);21809
+4300455;Alegria (RS);1075
+4300471;Almirante Tamandaré do Sul (RS);490
+4300505;Alpestre (RS);2176
+4300554;Alto Alegre (RS);440
+4300570;Alto Feliz (RS);654
+4300604;Alvorada (RS);66326
+4300638;Amaral Ferrador (RS);1939
+4300646;Ametista do Sul (RS);2337
+4300661;André da Rocha (RS);313
+4300703;Anta Gorda (RS);1321
+4300802;Antônio Prado (RS);3104
+4300851;Arambaré (RS);1014
+4300877;Araricá (RS);1462
+4300901;Aratiba (RS);1482
+4301008;Arroio do Meio (RS);4466
+4301057;Arroio do Sal (RS);2194
+4301073;Arroio do Padre (RS);670
+4301107;Arroio dos Ratos (RS);3896
+4301206;Arroio do Tigre (RS);3574
+4301305;Arroio Grande (RS);5299
+4301404;Arvorezinha (RS);2880
+4301503;Augusto Pestana (RS);1582
+4301552;Áurea (RS);875
+4301602;Bagé (RS);33540
+4301636;Balneário Pinhal (RS);3308
+4301651;Barão (RS);1397
+4301701;Barão de Cotegipe (RS);1664
+4301750;Barão do Triunfo (RS);2202
+4301800;Barracão (RS);1508
+4301859;Barra do Guarita (RS);944
+4301875;Barra do Quaraí (RS);1391
+4301909;Barra do Ribeiro (RS);3676
+4301925;Barra do Rio Azul (RS);439
+4301958;Barra Funda (RS);601
+4302006;Barros Cassal (RS);3709
+4302055;Benjamin Constant do Sul (RS);898
+4302105;Bento Gonçalves (RS);25220
+4302154;Boa Vista das Missões (RS);658
+4302204;Boa Vista do Buricá (RS);1612
+4302220;Boa Vista do Cadeado (RS);618
+4302238;Boa Vista do Incra (RS);649
+4302253;Boa Vista do Sul (RS);522
+4302303;Bom Jesus (RS);3672
+4302352;Bom Princípio (RS);3036
+4302378;Bom Progresso (RS);673
+4302402;Bom Retiro do Sul (RS);3132
+4302451;Boqueirão do Leão (RS);2414
+4302501;Bossoroca (RS);1967
+4302584;Bozano (RS);503
+4302600;Braga (RS);1127
+4302659;Brochier (RS);1049
+4302709;Butiá (RS);6197
+4302808;Caçapava do Sul (RS);8836
+4302907;Cacequi (RS);3984
+4303004;Cachoeira do Sul (RS);21968
+4303103;Cachoeirinha (RS);33629
+4303202;Cacique Doble (RS);1463
+4303301;Caibaté (RS);1264
+4303400;Caiçara (RS);1336
+4303509;Camaquã (RS);17788
+4303558;Camargo (RS);645
+4303608;Cambará do Sul (RS);2048
+4303673;Campestre da Serra (RS);878
+4303707;Campina das Missões (RS);1332
+4303806;Campinas do Sul (RS);1337
+4303905;Campo Bom (RS);16625
+4304002;Campo Novo (RS);1635
+4304101;Campos Borges (RS);897
+4304200;Candelária (RS);8130
+4304309;Cândido Godói (RS);1521
+4304358;Candiota (RS);2902
+4304408;Canela (RS);12281
+4304507;Canguçu (RS);14379
+4304606;Canoas (RS);93502
+4304614;Canudos do Vale (RS);384
+4304622;Capão Bonito do Sul (RS);481
+4304630;Capão da Canoa (RS);13443
+4304655;Capão do Cipó (RS);885
+4304663;Capão do Leão (RS);7691
+4304671;Capivari do Sul (RS);1142
+4304689;Capela de Santana (RS);3682
+4304697;Capitão (RS);678
+4304705;Carazinho (RS);16367
+4304713;Caraá (RS);1866
+4304804;Carlos Barbosa (RS);5795
+4304853;Carlos Gomes (RS);383
+4304903;Casca (RS);1934
+4304952;Caseiros (RS);856
+4305009;Catuípe (RS);2227
+4305108;Caxias do Sul (RS);114451
+4305116;Centenário (RS);676
+4305124;Cerrito (RS);1698
+4305132;Cerro Branco (RS);1088
+4305157;Cerro Grande (RS);689
+4305173;Cerro Grande do Sul (RS);3334
+4305207;Cerro Largo (RS);3348
+4305306;Chapada (RS);2106
+4305355;Charqueadas (RS);8966
+4305371;Charrua (RS);1211
+4305405;Chiapetta (RS);1142
+4305439;Chuí (RS);1932
+4305447;Chuvisca (RS);1552
+4305454;Cidreira (RS);3713
+4305504;Ciríaco (RS);1283
+4305587;Colinas (RS);444
+4305603;Colorado (RS);778
+4305702;Condor (RS);1867
+4305801;Constantina (RS);2623
+4305835;Coqueiro Baixo (RS);278
+4305850;Coqueiros do Sul (RS);595
+4305871;Coronel Barros (RS);544
+4305900;Coronel Bicaco (RS);2338
+4305934;Coronel Pilar (RS);350
+4305959;Cotiporã (RS);789
+4305975;Coxilha (RS);819
+4306007;Crissiumal (RS);3613
+4306056;Cristal (RS);2200
+4306072;Cristal do Sul (RS);810
+4306106;Cruz Alta (RS);17825
+4306130;Cruzaltense (RS);523
+4306205;Cruzeiro do Sul (RS);3099
+4306304;David Canabarro (RS);1238
+4306320;Derrubadas (RS);949
+4306353;Dezesseis de Novembro (RS);790
+4306379;Dilermando de Aguiar (RS);832
+4306403;Dois Irmãos (RS);7108
+4306429;Dois Irmãos das Missões (RS);662
+4306452;Dois Lajeados (RS);668
+4306502;Dom Feliciano (RS);4450
+4306551;Dom Pedro de Alcântara (RS);578
+4306601;Dom Pedrito (RS);11103
+4306700;Dona Francisca (RS);926
+4306734;Doutor Maurício Cardoso (RS);1243
+4306759;Doutor Ricardo (RS);471
+4306767;Eldorado do Sul (RS);11353
+4306809;Encantado (RS);4882
+4306908;Encruzilhada do Sul (RS);7188
+4306924;Engenho Velho (RS);505
+4306932;Entre-Ijuís (RS);2361
+4306957;Entre Rios do Sul (RS);872
+4306973;Erebango (RS);901
+4307005;Erechim (RS);24714
+4307054;Ernestina (RS);809
+4307104;Herval (RS);1965
+4307203;Erval Grande (RS);1439
+4307302;Erval Seco (RS);2399
+4307401;Esmeralda (RS);888
+4307450;Esperança do Sul (RS);770
+4307500;Espumoso (RS);4020
+4307559;Estação (RS);1519
+4307609;Estância Velha (RS);11998
+4307708;Esteio (RS);22263
+4307807;Estrela (RS);7729
+4307815;Estrela Velha (RS);1040
+4307831;Eugênio de Castro (RS);706
+4307864;Fagundes Varela (RS);542
+4307906;Farroupilha (RS);16412
+4308003;Faxinal do Soturno (RS);1674
+4308052;Faxinalzinho (RS);762
+4308078;Fazenda Vilanova (RS);1083
+4308102;Feliz (RS);2907
+4308201;Flores da Cunha (RS);6610
+4308250;Floriano Peixoto (RS);459
+4308300;Fontoura Xavier (RS);3478
+4308409;Formigueiro (RS);1805
+4308433;Forquetinha (RS);464
+4308458;Fortaleza dos Valos (RS);1275
+4308508;Frederico Westphalen (RS);7847
+4308607;Garibaldi (RS);6960
+4308656;Garruchos (RS);953
+4308706;Gaurama (RS);1377
+4308805;General Câmara (RS);2366
+4308854;Gentil (RS);423
+4308904;Getúlio Vargas (RS);4006
+4309001;Giruá (RS);4677
+4309050;Glorinha (RS);1899
+4309100;Gramado (RS);8638
+4309126;Gramado dos Loureiros (RS);677
+4309159;Gramado Xavier (RS);1405
+4309209;Gravataí (RS);76091
+4309258;Guabiju (RS);337
+4309308;Guaíba (RS);27861
+4309407;Guaporé (RS);5690
+4309506;Guarani das Missões (RS);2023
+4309555;Harmonia (RS);1065
+4309571;Herveiras (RS);949
+4309605;Horizontina (RS);4554
+4309654;Hulha Negra (RS);2064
+4309704;Humaitá (RS);1158
+4309753;Ibarama (RS);1309
+4309803;Ibiaçá (RS);1067
+4309902;Ibiraiaras (RS);1982
+4309951;Ibirapuitã (RS);1182
+4310009;Ibirubá (RS);4720
+4310108;Igrejinha (RS);9233
+4310207;Ijuí (RS);20674
+4310306;Ilópolis (RS);1042
+4310330;Imbé (RS);5033
+4310363;Imigrante (RS);584
+4310405;Independência (RS);1779
+4310413;Inhacorá (RS);653
+4310439;Ipê (RS);1452
+4310462;Ipiranga do Sul (RS);414
+4310504;Iraí (RS);2285
+4310538;Itaara (RS);1448
+4310553;Itacurubi (RS);995
+4310579;Itapuca (RS);696
+4310603;Itaqui (RS);12491
+4310652;Itati (RS);705
+4310702;Itatiba do Sul (RS);1143
+4310751;Ivorá (RS);507
+4310801;Ivoti (RS);5002
+4310850;Jaboticaba (RS);1227
+4310876;Jacuizinho (RS);742
+4310900;Jacutinga (RS);886
+4311007;Jaguarão (RS);7674
+4311106;Jaguari (RS);2670
+4311122;Jaquirana (RS);1391
+4311130;Jari (RS);962
+4311155;Jóia (RS);2511
+4311205;Júlio de Castilhos (RS);5815
+4311239;Lagoa Bonita do Sul (RS);793
+4311254;Lagoão (RS);2056
+4311270;Lagoa dos Três Cantos (RS);332
+4311304;Lagoa Vermelha (RS);7857
+4311403;Lajeado (RS);18101
+4311429;Lajeado do Bugre (RS);828
+4311502;Lavras do Sul (RS);2229
+4311601;Liberato Salzano (RS);1588
+4311627;Lindolfo Collor (RS);1551
+4311643;Linha Nova (RS);358
+4311700;Machadinho (RS);1528
+4311718;Maçambará (RS);1554
+4311734;Mampituba (RS);885
+4311759;Manoel Viana (RS);2051
+4311775;Maquiné (RS);1966
+4311791;Maratá (RS);589
+4311809;Marau (RS);9605
+4311908;Marcelino Ramos (RS);1301
+4311981;Mariana Pimentel (RS);941
+4312005;Mariano Moro (RS);535
+4312054;Marques de Souza (RS);870
+4312104;Mata (RS);1332
+4312138;Mato Castelhano (RS);657
+4312153;Mato Leitão (RS);947
+4312179;Mato Queimado (RS);443
+4312203;Maximiliano de Almeida (RS);1336
+4312252;Minas do Leão (RS);2361
+4312302;Miraguaí (RS);1403
+4312351;Montauri (RS);301
+4312377;Monte Alegre dos Campos (RS);993
+4312385;Monte Belo do Sul (RS);494
+4312401;Montenegro (RS);16320
+4312427;Mormaço (RS);768
+4312443;Morrinhos do Sul (RS);722
+4312450;Morro Redondo (RS);1438
+4312476;Morro Reuter (RS);1295
+4312500;Mostardas (RS);3552
+4312609;Muçum (RS);1042
+4312617;Muitos Capões (RS);933
+4312625;Muliterno (RS);524
+4312658;Não-Me-Toque (RS);3894
+4312674;Nicolau Vergueiro (RS);423
+4312708;Nonoai (RS);3724
+4312757;Nova Alvorada (RS);841
+4312807;Nova Araçá (RS);934
+4312906;Nova Bassano (RS);2109
+4312955;Nova Boa Vista (RS);397
+4313003;Nova Bréscia (RS);709
+4313011;Nova Candelária (RS);617
+4313037;Nova Esperança do Sul (RS);1225
+4313060;Nova Hartz (RS);5817
+4313086;Nova Pádua (RS);508
+4313102;Nova Palma (RS);1716
+4313201;Nova Petrópolis (RS);4291
+4313300;Nova Prata (RS);5614
+4313334;Nova Ramada (RS);593
+4313359;Nova Roma do Sul (RS);786
+4313375;Nova Santa Rita (RS);7490
+4313391;Novo Cabrais (RS);999
+4313409;Novo Hamburgo (RS);67329
+4313425;Novo Machado (RS);907
+4313441;Novo Tiradentes (RS);633
+4313466;Novo Xingu (RS);411
+4313490;Novo Barreiro (RS);1040
+4313508;Osório (RS);11464
+4313607;Paim Filho (RS);1100
+4313656;Palmares do Sul (RS);2908
+4313706;Palmeira das Missões (RS);10395
+4313805;Palmitinho (RS);1900
+4313904;Panambi (RS);10298
+4313953;Pantano Grande (RS);3028
+4314001;Paraí (RS);1619
+4314027;Paraíso do Sul (RS);1802
+4314035;Pareci Novo (RS);852
+4314050;Parobé (RS);16612
+4314068;Passa Sete (RS);1626
+4314076;Passo do Sobrado (RS);1500
+4314100;Passo Fundo (RS);51926
+4314134;Paulo Bento (RS);507
+4314159;Paverama (RS);2062
+4314175;Pedras Altas (RS);687
+4314209;Pedro Osório (RS);2158
+4314308;Pejuçara (RS);1048
+4314407;Pelotas (RS);86335
+4314423;Picada Café (RS);1224
+4314456;Pinhal (RS);692
+4314464;Pinhal da Serra (RS);613
+4314472;Pinhal Grande (RS);1313
+4314498;Pinheirinho do Vale (RS);1369
+4314506;Pinheiro Machado (RS);3310
+4314555;Pirapó (RS);694
+4314605;Piratini (RS);5232
+4314704;Planalto (RS);3016
+4314753;Poço das Antas (RS);463
+4314779;Pontão (RS);1130
+4314787;Ponte Preta (RS);387
+4314803;Portão (RS);9139
+4314902;Porto Alegre (RS);345926
+4315008;Porto Lucena (RS);1209
+4315057;Porto Mauá (RS);612
+4315073;Porto Vera Cruz (RS);457
+4315107;Porto Xavier (RS);2997
+4315131;Pouso Novo (RS);472
+4315149;Presidente Lucena (RS);581
+4315156;Progresso (RS);1698
+4315172;Protásio Alves (RS);433
+4315206;Putinga (RS);976
+4315305;Quaraí (RS);6985
+4315313;Quatro Irmãos (RS);524
+4315321;Quevedos (RS);741
+4315354;Quinze de Novembro (RS);835
+4315404;Redentora (RS);4257
+4315453;Relvado (RS);449
+4315503;Restinga Sêca (RS);4182
+4315552;Rio dos Índios (RS);1027
+4315602;Rio Grande (RS);55059
+4315701;Rio Pardo (RS);10361
+4315750;Riozinho (RS);1250
+4315800;Roca Sales (RS);2417
+4315909;Rodeio Bonito (RS);1560
+4315958;Rolador (RS);642
+4316006;Rolante (RS);5478
+4316105;Ronda Alta (RS);2817
+4316204;Rondinha (RS);1263
+4316303;Roque Gonzales (RS);1899
+4316402;Rosário do Sul (RS);11415
+4316428;Sagrada Família (RS);745
+4316436;Saldanha Marinho (RS);645
+4316451;Salto do Jacuí (RS);3825
+4316477;Salvador das Missões (RS);570
+4316501;Salvador do Sul (RS);1704
+4316600;Sananduva (RS);3589
+4316709;Santa Bárbara do Sul (RS);2413
+4316733;Santa Cecília do Sul (RS);422
+4316758;Santa Clara do Sul (RS);1289
+4316808;Santa Cruz do Sul (RS);29782
+4316907;Santa Maria (RS);68593
+4316956;Santa Maria do Herval (RS);1338
+4316972;Santa Margarida do Sul (RS);643
+4317004;Santana da Boa Vista (RS);2166
+4317103;Sant'Ana do Livramento (RS);24902
+4317202;Santa Rosa (RS);18356
+4317251;Santa Tereza (RS);320
+4317301;Santa Vitória do Palmar (RS);9025
+4317400;Santiago (RS);12997
+4317509;Santo Ângelo (RS);21194
+4317558;Santo Antônio do Palma (RS);511
+4317608;Santo Antônio da Patrulha (RS);10779
+4317707;Santo Antônio das Missões (RS);3230
+4317756;Santo Antônio do Planalto (RS);515
+4317806;Santo Augusto (RS);3801
+4317905;Santo Cristo (RS);3391
+4317954;Santo Expedito do Sul (RS);597
+4318002;São Borja (RS);18126
+4318051;São Domingos do Sul (RS);701
+4318101;São Francisco de Assis (RS);5076
+4318200;São Francisco de Paula (RS);6382
+4318309;São Gabriel (RS);17423
+4318408;São Jerônimo (RS);6411
+4318424;São João da Urtiga (RS);1103
+4318432;São João do Polêsine (RS);594
+4318440;São Jorge (RS);651
+4318457;São José das Missões (RS);773
+4318465;São José do Herval (RS);704
+4318481;São José do Hortêncio (RS);1005
+4318499;São José do Inhacorá (RS);466
+4318507;São José do Norte (RS);7180
+4318606;São José do Ouro (RS);1738
+4318614;São José do Sul (RS);451
+4318622;São José dos Ausentes (RS);1036
+4318705;São Leopoldo (RS);62509
+4318804;São Lourenço do Sul (RS);10974
+4318903;São Luiz Gonzaga (RS);9807
+4319000;São Marcos (RS);5151
+4319109;São Martinho (RS);1391
+4319125;São Martinho da Serra (RS);796
+4319158;São Miguel das Missões (RS);2169
+4319208;São Nicolau (RS);1748
+4319307;São Paulo das Missões (RS);1607
+4319356;São Pedro da Serra (RS);919
+4319364;São Pedro das Missões (RS);560
+4319372;São Pedro do Butiá (RS);685
+4319406;São Pedro do Sul (RS);4103
+4319505;São Sebastião do Caí (RS);5942
+4319604;São Sepé (RS);6242
+4319703;São Valentim (RS);899
+4319711;São Valentim do Sul (RS);430
+4319737;São Valério do Sul (RS);955
+4319752;São Vendelino (RS);449
+4319802;São Vicente do Sul (RS);2450
+4319901;Sapiranga (RS);23328
+4320008;Sapucaia do Sul (RS);38942
+4320107;Sarandi (RS);5851
+4320206;Seberi (RS);3052
+4320230;Sede Nova (RS);845
+4320263;Segredo (RS);2203
+4320305;Selbach (RS);1193
+4320321;Senador Salgado Filho (RS);714
+4320354;Sentinela do Sul (RS);1458
+4320404;Serafina Corrêa (RS);3682
+4320453;Sério (RS);555
+4320503;Sertão (RS);1553
+4320552;Sertão Santana (RS);1590
+4320578;Sete de Setembro (RS);486
+4320602;Severiano de Almeida (RS);937
+4320651;Silveira Martins (RS);538
+4320677;Sinimbu (RS);2620
+4320701;Sobradinho (RS);3950
+4320800;Soledade (RS);8860
+4320859;Tabaí (RS);1163
+4320909;Tapejara (RS);4950
+4321006;Tapera (RS);2805
+4321105;Tapes (RS);4933
+4321204;Taquara (RS);15838
+4321303;Taquari (RS);7288
+4321329;Taquaruçu do Sul (RS);775
+4321352;Tavares (RS);1367
+4321402;Tenente Portela (RS);4321
+4321436;Terra de Areia (RS);2865
+4321451;Teutônia (RS);7033
+4321469;Tio Hugo (RS);747
+4321477;Tiradentes do Sul (RS);1745
+4321493;Toropi (RS);659
+4321501;Torres (RS);9535
+4321600;Tramandaí (RS);13041
+4321626;Travesseiro (RS);467
+4321634;Três Arroios (RS);561
+4321667;Três Cachoeiras (RS);2708
+4321709;Três Coroas (RS);6902
+4321808;Três de Maio (RS);5835
+4321832;Três Forquilhas (RS);806
+4321857;Três Palmeiras (RS);1251
+4321907;Três Passos (RS);5867
+4321956;Trindade do Sul (RS);1702
+4322004;Triunfo (RS);7885
+4322103;Tucunduva (RS);1328
+4322152;Tunas (RS);1384
+4322186;Tupanci do Sul (RS);421
+4322202;Tupanciretã (RS);6744
+4322251;Tupandi (RS);1011
+4322301;Tuparendi (RS);1838
+4322327;Turuçu (RS);923
+4322343;Ubiretama (RS);556
+4322350;União da Serra (RS);284
+4322376;Unistalda (RS);700
+4322400;Uruguaiana (RS);41824
+4322509;Vacaria (RS);18615
+4322525;Vale Verde (RS);848
+4322533;Vale do Sol (RS);3011
+4322541;Vale Real (RS);1307
+4322558;Vanini (RS);453
+4322608;Venâncio Aires (RS);16855
+4322707;Vera Cruz (RS);6462
+4322806;Veranópolis (RS);5129
+4322855;Vespasiano Corrêa (RS);402
+4322905;Viadutos (RS);1247
+4323002;Viamão (RS);75702
+4323101;Vicente Dutra (RS);1650
+4323200;Victor Graeff (RS);772
+4323309;Vila Flores (RS);699
+4323358;Vila Lângaro (RS);558
+4323408;Vila Maria (RS);942
+4323457;Vila Nova do Sul (RS);1121
+4323507;Vista Alegre (RS);791
+4323606;Vista Alegre do Prata (RS);321
+4323705;Vista Gaúcha (RS);716
+4323754;Vitória das Missões (RS);915
+4323770;Westfália (RS);590
+4323804;Xangri-lá (RS);4047
+5000203;Água Clara (MS);5148
+5000252;Alcinópolis (MS);1435
+5000609;Amambai (MS);13115
+5000708;Anastácio (MS);8007
+5000807;Anaurilândia (MS);2835
+5000856;Angélica (MS);2819
+5000906;Antônio João (MS);3299
+5001003;Aparecida do Taboado (MS);6683
+5001102;Aquidauana (MS);15564
+5001243;Aral Moreira (MS);4291
+5001508;Bandeirantes (MS);2078
+5001904;Bataguassu (MS);6478
+5002001;Batayporã (MS);3678
+5002100;Bela Vista (MS);8544
+5002159;Bodoquena (MS);2776
+5002209;Bonito (MS);6615
+5002308;Brasilândia (MS);3883
+5002407;Caarapó (MS);9413
+5002605;Camapuã (MS);4108
+5002704;Campo Grande (MS);234532
+5002803;Caracol (MS);1902
+5002902;Cassilândia (MS);5845
+5002951;Chapadão do Sul (MS);6510
+5003108;Corguinho (MS);1560
+5003157;Coronel Sapucaia (MS);6009
+5003207;Corumbá (MS);37125
+5003256;Costa Rica (MS);6083
+5003306;Coxim (MS);10008
+5003454;Deodápolis (MS);3774
+5003488;Dois Irmãos do Buriti (MS);3743
+5003504;Douradina (MS);1830
+5003702;Dourados (MS);62190
+5003751;Eldorado (MS);3983
+5003801;Fátima do Sul (MS);5259
+5003900;Figueirão (MS);907
+5004007;Glória de Dourados (MS);2834
+5004106;Guia Lopes da Laguna (MS);3471
+5004304;Iguatemi (MS);5225
+5004403;Inocência (MS);2363
+5004502;Itaporã (MS);7824
+5004601;Itaquiraí (MS);6712
+5004700;Ivinhema (MS);6588
+5004809;Japorã (MS);3723
+5004908;Jaraguari (MS);1874
+5005004;Jardim (MS);8253
+5005103;Jateí (MS);1254
+5005152;Juti (MS);2171
+5005202;Ladário (MS);7655
+5005251;Laguna Carapã (MS);2480
+5005400;Maracaju (MS);12515
+5005608;Miranda (MS);9501
+5005681;Mundo Novo (MS);5303
+5005707;Naviraí (MS);14974
+5005806;Nioaque (MS);5178
+5006002;Nova Alvorada do Sul (MS);5694
+5006200;Nova Andradina (MS);14400
+5006259;Novo Horizonte do Sul (MS);1635
+5006309;Paranaíba (MS);11483
+5006358;Paranhos (MS);5925
+5006408;Pedro Gomes (MS);2490
+5006606;Ponta Porã (MS);28892
+5006903;Porto Murtinho (MS);5920
+5007109;Ribas do Rio Pardo (MS);7424
+5007208;Rio Brilhante (MS);10545
+5007307;Rio Negro (MS);1491
+5007406;Rio Verde de Mato Grosso (MS);6013
+5007505;Rochedo (MS);1548
+5007554;Santa Rita do Pardo (MS);2464
+5007695;São Gabriel do Oeste (MS);7264
+5007703;Sete Quedas (MS);3742
+5007802;Selvíria (MS);1980
+5007901;Sidrolândia (MS);14760
+5007935;Sonora (MS);5316
+5007950;Tacuru (MS);4523
+5007976;Taquarussu (MS);1130
+5008008;Terenos (MS);5458
+5008305;Três Lagoas (MS);31057
+5008404;Vicentina (MS);1650
+5100102;Acorizal (MT);1810
+5100201;Água Boa (MT);6943
+5100250;Alta Floresta (MT);16259
+5100300;Alto Araguaia (MT);4862
+5100359;Alto Boa Vista (MT);2105
+5100409;Alto Garças (MT);3167
+5100508;Alto Paraguai (MT);3322
+5100607;Alto Taquari (MT);2822
+5100805;Apiacás (MT);3087
+5101001;Araguaiana (MT);977
+5101209;Araguainha (MT);331
+5101258;Araputanga (MT);5013
+5101308;Arenápolis (MT);3335
+5101407;Aripuanã (MT);7122
+5101605;Barão de Melgaço (MT);2429
+5101704;Barra do Bugres (MT);11380
+5101803;Barra do Garças (MT);17779
+5101852;Bom Jesus do Araguaia (MT);1913
+5101902;Brasnorte (MT);5625
+5102504;Cáceres (MT);30316
+5102603;Campinápolis (MT);6742
+5102637;Campo Novo do Parecis (MT);9605
+5102678;Campo Verde (MT);10967
+5102686;Campos de Júlio (MT);1929
+5102694;Canabrava do Norte (MT);1806
+5102702;Canarana (MT);6521
+5102793;Carlinda (MT);3705
+5102850;Castanheira (MT);2857
+5103007;Chapada dos Guimarães (MT);6014
+5103056;Cláudia (MT);3992
+5103106;Cocalinho (MT);1842
+5103205;Colíder (MT);9674
+5103254;Colniza (MT);10374
+5103304;Comodoro (MT);6772
+5103353;Confresa (MT);9421
+5103361;Conquista D'Oeste (MT);1202
+5103379;Cotriguaçu (MT);5847
+5103403;Cuiabá (MT);165603
+5103437;Curvelândia (MT);1578
+5103452;Denise (MT);3109
+5103502;Diamantino (MT);6963
+5103601;Dom Aquino (MT);2462
+5103700;Feliz Natal (MT);4568
+5103809;Figueirópolis D'Oeste (MT);1187
+5103858;Gaúcha do Norte (MT);2493
+5103908;General Carneiro (MT);1963
+5103957;Glória D'Oeste (MT);945
+5104104;Guarantã do Norte (MT);10595
+5104203;Guiratinga (MT);4016
+5104500;Indiavaí (MT);821
+5104526;Ipiranga do Norte (MT);1791
+5104542;Itanhangá (MT);1901
+5104559;Itaúba (MT);1623
+5104609;Itiquira (MT);3779
+5104807;Jaciara (MT);8231
+5104906;Jangada (MT);2831
+5105002;Jauru (MT);3687
+5105101;Juara (MT);11247
+5105150;Juína (MT);13437
+5105176;Juruena (MT);4302
+5105200;Juscimeira (MT);3541
+5105234;Lambari D'Oeste (MT);1888
+5105259;Lucas do Rio Verde (MT);14767
+5105309;Luciara (MT);813
+5105507;Vila Bela da Santíssima Trindade (MT);5763
+5105580;Marcelândia (MT);4420
+5105606;Matupá (MT);5094
+5105622;Mirassol d'Oeste (MT);8086
+5105903;Nobres (MT);5195
+5106000;Nortelândia (MT);2115
+5106109;Nossa Senhora do Livramento (MT);3748
+5106158;Nova Bandeirantes (MT);4010
+5106174;Nova Nazaré (MT);1349
+5106182;Nova Lacerda (MT);1988
+5106190;Nova Santa Helena (MT);1184
+5106208;Nova Brasilândia (MT);1483
+5106216;Nova Canaã do Norte (MT);4025
+5106224;Nova Mutum (MT);10525
+5106232;Nova Olímpia (MT);6668
+5106240;Nova Ubiratã (MT);3285
+5106257;Nova Xavantina (MT);6173
+5106265;Novo Mundo (MT);2703
+5106273;Novo Horizonte do Norte (MT);1142
+5106281;Novo São Joaquim (MT);1974
+5106299;Paranaíta (MT);3480
+5106307;Paranatinga (MT);6673
+5106315;Novo Santo Antônio (MT);732
+5106372;Pedra Preta (MT);5061
+5106422;Peixoto de Azevedo (MT);11815
+5106455;Planalto da Serra (MT);959
+5106505;Poconé (MT);11161
+5106653;Pontal do Araguaia (MT);1653
+5106703;Ponte Branca (MT);532
+5106752;Pontes e Lacerda (MT);14134
+5106778;Porto Alegre do Norte (MT);3979
+5106802;Porto dos Gaúchos (MT);1883
+5106828;Porto Esperidião (MT);4042
+5106851;Porto Estrela (MT);1308
+5107008;Poxoréu (MT);5645
+5107040;Primavera do Leste (MT);17204
+5107065;Querência (MT);4771
+5107107;São José dos Quatro Marcos (MT);5651
+5107156;Reserva do Cabaçal (MT);859
+5107180;Ribeirão Cascalheira (MT);3133
+5107198;Ribeirãozinho (MT);725
+5107206;Rio Branco (MT);1503
+5107248;Santa Carmem (MT);1524
+5107263;Santo Afonso (MT);982
+5107297;São José do Povo (MT);1010
+5107305;São José do Rio Claro (MT);5914
+5107354;São José do Xingu (MT);2041
+5107404;São Pedro da Cipa (MT);1416
+5107578;Rondolândia (MT);1469
+5107602;Rondonópolis (MT);60801
+5107701;Rosário Oeste (MT);5905
+5107743;Santa Cruz do Xingu (MT);695
+5107750;Salto do Céu (MT);1291
+5107768;Santa Rita do Trivelato (MT);886
+5107776;Santa Terezinha (MT);2998
+5107792;Santo Antônio do Leste (MT);1392
+5107800;Santo Antônio do Leverger (MT);5998
+5107859;São Félix do Araguaia (MT);3797
+5107875;Sapezal (MT);6220
+5107883;Serra Nova Dourada (MT);451
+5107909;Sinop (MT);38522
+5107925;Sorriso (MT);22909
+5107941;Tabaporã (MT);3506
+5107958;Tangará da Serra (MT);27071
+5108006;Tapurah (MT);3341
+5108055;Terra Nova do Norte (MT);3773
+5108105;Tesouro (MT);1001
+5108204;Torixoréu (MT);1108
+5108303;União do Sul (MT);1445
+5108352;Vale de São Domingos (MT);1036
+5108402;Várzea Grande (MT);83617
+5108501;Vera (MT);3776
+5108600;Vila Rica (MT);7964
+5108808;Nova Guarita (MT);1664
+5108857;Nova Marilândia (MT);1046
+5108907;Nova Maringá (MT);2545
+5108956;Nova Monte Verde (MT);2811
+5200050;Abadia de Goiás (GO);2238
+5200100;Abadiânia (GO);4944
+5200134;Acreúna (GO);6474
+5200159;Adelândia (GO);685
+5200175;Água Fria de Goiás (GO);1731
+5200209;Água Limpa (GO);535
+5200258;Águas Lindas de Goiás (GO);63662
+5200308;Alexânia (GO);8158
+5200506;Aloândia (GO);506
+5200555;Alto Horizonte (GO);1482
+5200605;Alto Paraíso de Goiás (GO);2457
+5200803;Alvorada do Norte (GO);2882
+5200829;Amaralina (GO);1058
+5200852;Americano do Brasil (GO);1592
+5200902;Amorinópolis (GO);955
+5201108;Anápolis (GO);101704
+5201207;Anhanguera (GO);280
+5201306;Anicuns (GO);5701
+5201405;Aparecida de Goiânia (GO);152230
+5201454;Aparecida do Rio Doce (GO);745
+5201504;Aporé (GO);1157
+5201603;Araçu (GO);1047
+5201702;Aragarças (GO);5583
+5201801;Aragoiânia (GO);2603
+5202155;Araguapaz (GO);2239
+5202353;Arenópolis (GO);856
+5202502;Aruanã (GO);2610
+5202601;Aurilândia (GO);881
+5202809;Avelinópolis (GO);681
+5203104;Baliza (GO);1120
+5203203;Barro Alto (GO);2850
+5203302;Bela Vista de Goiás (GO);7164
+5203401;Bom Jardim de Goiás (GO);2432
+5203500;Bom Jesus de Goiás (GO);6542
+5203559;Bonfinópolis (GO);2495
+5203575;Bonópolis (GO);1226
+5203609;Brazabrantes (GO);930
+5203807;Britânia (GO);1673
+5203906;Buriti Alegre (GO);2470
+5203939;Buriti de Goiás (GO);686
+5203962;Buritinópolis (GO);1168
+5204003;Cabeceiras (GO);2581
+5204102;Cachoeira Alta (GO);2973
+5204201;Cachoeira de Goiás (GO);409
+5204250;Cachoeira Dourada (GO);2397
+5204300;Caçu (GO);3621
+5204409;Caiapônia (GO);4733
+5204508;Caldas Novas (GO);22090
+5204557;Caldazinha (GO);971
+5204607;Campestre de Goiás (GO);1060
+5204656;Campinaçu (GO);1129
+5204706;Campinorte (GO);3521
+5204805;Campo Alegre de Goiás (GO);1949
+5204854;Campo Limpo de Goiás (GO);2232
+5204904;Campos Belos (GO);6549
+5204953;Campos Verdes (GO);1594
+5205000;Carmo do Rio Verde (GO);2572
+5205059;Castelândia (GO);1056
+5205109;Catalão (GO);24265
+5205208;Caturaí (GO);1397
+5205307;Cavalcante (GO);3929
+5205406;Ceres (GO);5741
+5205455;Cezarina (GO);2293
+5205471;Chapadão do Céu (GO);2454
+5205497;Cidade Ocidental (GO);20578
+5205513;Cocalzinho de Goiás (GO);6050
+5205521;Colinas do Sul (GO);1294
+5205703;Córrego do Ouro (GO);746
+5205802;Corumbá de Goiás (GO);3254
+5205901;Corumbaíba (GO);2373
+5206206;Cristalina (GO);16918
+5206305;Cristianópolis (GO);837
+5206404;Crixás (GO);4803
+5206503;Cromínia (GO);952
+5206602;Cumari (GO);799
+5206701;Damianópolis (GO);1016
+5206800;Damolândia (GO);741
+5206909;Davinópolis (GO);545
+5207105;Diorama (GO);670
+5207253;Doverlândia (GO);2399
+5207352;Edealina (GO);1041
+5207402;Edéia (GO);3375
+5207501;Estrela do Norte (GO);984
+5207535;Faina (GO);2021
+5207600;Fazenda Nova (GO);1719
+5207808;Firminópolis (GO);2939
+5207907;Flores de Goiás (GO);4277
+5208004;Formosa (GO);34520
+5208103;Formoso (GO);1453
+5208152;Gameleira de Goiás (GO);1046
+5208301;Divinópolis de Goiás (GO);1715
+5208400;Goianápolis (GO);3469
+5208509;Goiandira (GO);1402
+5208608;Goianésia (GO);18268
+5208707;Goiânia (GO);358491
+5208806;Goianira (GO);11469
+5208905;Goiás (GO);6884
+5209101;Goiatuba (GO);9384
+5209150;Gouvelândia (GO);1486
+5209200;Guapó (GO);4457
+5209291;Guaraíta (GO);617
+5209408;Guarani de Goiás (GO);1440
+5209457;Guarinos (GO);617
+5209606;Heitoraí (GO);1047
+5209705;Hidrolândia (GO);5492
+5209804;Hidrolina (GO);1166
+5209903;Iaciara (GO);4850
+5209937;Inaciolândia (GO);1782
+5209952;Indiara (GO);4352
+5210000;Inhumas (GO);13511
+5210109;Ipameri (GO);7055
+5210158;Ipiranga de Goiás (GO);770
+5210208;Iporá (GO);8302
+5210307;Israelândia (GO);761
+5210406;Itaberaí (GO);10655
+5210562;Itaguari (GO);1298
+5210604;Itaguaru (GO);1390
+5210802;Itajá (GO);1486
+5210901;Itapaci (GO);5878
+5211008;Itapirapuã (GO);2325
+5211206;Itapuranga (GO);7079
+5211305;Itarumã (GO);1928
+5211404;Itauçu (GO);2286
+5211503;Itumbiara (GO);25640
+5211602;Ivolândia (GO);681
+5211701;Jandaia (GO);1675
+5211800;Jaraguá (GO);13626
+5211909;Jataí (GO);26878
+5212006;Jaupaci (GO);855
+5212055;Jesúpolis (GO);731
+5212105;Joviânia (GO);2065
+5212204;Jussara (GO);5561
+5212253;Lagoa Santa (GO);369
+5212303;Leopoldo de Bulhões (GO);2461
+5212501;Luziânia (GO);65055
+5212600;Mairipotaba (GO);601
+5212709;Mambaí (GO);2626
+5212808;Mara Rosa (GO);3248
+5212907;Marzagão (GO);641
+5212956;Matrinchã (GO);1336
+5213004;Maurilândia (GO);3927
+5213053;Mimoso de Goiás (GO);884
+5213087;Minaçu (GO);9914
+5213103;Mineiros (GO);16268
+5213400;Moiporá (GO);479
+5213509;Monte Alegre de Goiás (GO);2870
+5213707;Montes Claros de Goiás (GO);2317
+5213756;Montividiu (GO);3354
+5213772;Montividiu do Norte (GO);1454
+5213806;Morrinhos (GO);11780
+5213855;Morro Agudo de Goiás (GO);658
+5213905;Mossâmedes (GO);1337
+5214002;Mozarlândia (GO);4258
+5214051;Mundo Novo (GO);2052
+5214101;Mutunópolis (GO);1194
+5214408;Nazário (GO);2257
+5214507;Nerópolis (GO);7589
+5214606;Niquelândia (GO);13775
+5214705;Nova América (GO);644
+5214804;Nova Aurora (GO);533
+5214838;Nova Crixás (GO);3792
+5214861;Nova Glória (GO);2401
+5214879;Nova Iguaçu de Goiás (GO);862
+5214903;Nova Roma (GO);1167
+5215009;Nova Veneza (GO);2399
+5215207;Novo Brasil (GO);899
+5215231;Novo Gama (GO);36393
+5215256;Novo Planalto (GO);1240
+5215306;Orizona (GO);3954
+5215405;Ouro Verde de Goiás (GO);1185
+5215504;Ouvidor (GO);1501
+5215603;Padre Bernardo (GO);10547
+5215652;Palestina de Goiás (GO);923
+5215702;Palmeiras de Goiás (GO);6617
+5215801;Palmelo (GO);669
+5215900;Palminópolis (GO);923
+5216007;Panamá (GO);739
+5216304;Paranaiguara (GO);2567
+5216403;Paraúna (GO);3245
+5216452;Perolândia (GO);1020
+5216809;Petrolina de Goiás (GO);2726
+5216908;Pilar de Goiás (GO);739
+5217104;Piracanjuba (GO);6512
+5217203;Piranhas (GO);3069
+5217302;Pirenópolis (GO);7168
+5217401;Pires do Rio (GO);8147
+5217609;Planaltina (GO);31484
+5217708;Pontalina (GO);4752
+5218003;Porangatu (GO);13606
+5218052;Porteirão (GO);1122
+5218102;Portelândia (GO);1191
+5218300;Posse (GO);11527
+5218391;Professor Jamil (GO);969
+5218508;Quirinópolis (GO);12189
+5218607;Rialma (GO);3034
+5218706;Rianápolis (GO);1470
+5218789;Rio Quente (GO);1062
+5218805;Rio Verde (GO);53295
+5218904;Rubiataba (GO);5678
+5219001;Sanclerlândia (GO);2132
+5219100;Santa Bárbara de Goiás (GO);1811
+5219209;Santa Cruz de Goiás (GO);844
+5219258;Santa Fé de Goiás (GO);1523
+5219308;Santa Helena de Goiás (GO);10732
+5219357;Santa Isabel (GO);999
+5219407;Santa Rita do Araguaia (GO);2212
+5219456;Santa Rita do Novo Destino (GO);946
+5219506;Santa Rosa de Goiás (GO);752
+5219605;Santa Tereza de Goiás (GO);1226
+5219704;Santa Terezinha de Goiás (GO);3071
+5219712;Santo Antônio da Barra (GO);1413
+5219738;Santo Antônio de Goiás (GO);1537
+5219753;Santo Antônio do Descoberto (GO);24608
+5219803;São Domingos (GO);3944
+5219902;São Francisco de Goiás (GO);1877
+5220009;São João d'Aliança (GO);3853
+5220058;São João da Paraúna (GO);466
+5220108;São Luís de Montes Belos (GO);8370
+5220157;São Luiz do Norte (GO);1500
+5220207;São Miguel do Araguaia (GO);6802
+5220264;São Miguel do Passa Quatro (GO);1121
+5220280;São Patrício (GO);541
+5220405;São Simão (GO);4907
+5220454;Senador Canedo (GO);29958
+5220504;Serranópolis (GO);2268
+5220603;Silvânia (GO);5772
+5220686;Simolândia (GO);2421
+5220702;Sítio d'Abadia (GO);1031
+5221007;Taquaral de Goiás (GO);867
+5221080;Teresina de Goiás (GO);1238
+5221197;Terezópolis de Goiás (GO);2251
+5221304;Três Ranchos (GO);788
+5221403;Trindade (GO);33444
+5221452;Trombas (GO);1083
+5221502;Turvânia (GO);1295
+5221551;Turvelândia (GO);1499
+5221577;Uirapuru (GO);949
+5221601;Uruaçu (GO);11378
+5221700;Uruana (GO);3840
+5221809;Urutaí (GO);876
+5221858;Valparaíso de Goiás (GO);46929
+5221908;Varjão (GO);1048
+5222005;Vianópolis (GO);3870
+5222054;Vicentinópolis (GO);2290
+5222203;Vila Boa (GO);1749
+5222302;Vila Propício (GO);1760
+5300108;Brasília (DF);784498
+Fonte: IBGE - Censo Demográfico;;
